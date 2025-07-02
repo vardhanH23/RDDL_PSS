@@ -1,0 +1,90 @@
+Created by Jin Xing (IT RDI RDS PDS), last updated by Schwarz Patrick (IT RDI RDS PDS / External) on Jan 15, 2025  5 minute read
+These are just usage examples. The screenshots and endpoints listed might not be up to date.
+
+
+
+Introduction
+Prerequisites
+Usage
+Get the Access token
+Set Authentication credentials
+Upload an Artifact
+Download an Artifact
+Get Artifact metadata
+Update Artifact metadata
+Get Artifacts List
+Delete an Artifact
+Introduction
+The SwaggerUI is an interactive documentation of the RESTful API, which serves two main purposes:
+
+It provides the REST API documentation
+It provides an interactive interface to communicate with the REST API
+Prerequisites
+In order to interact with the RDDLTST REST API on Swagger UI, you would need to be part of an R&D Data Lake Project
+
+Setup a new project in R&D Data Lake Project Space
+Usage
+Get the Access token
+Click here to expand...
+Open the Swagger UI URL
+Click on the GET endpoint /auth/token
+
+
+Click on Try it out
+
+
+Click on Execute
+
+
+Copy the server response and proceed with Set Authentication credentials 
+
+
+Set Authentication credentials
+Click here to expand...
+Click on the Authorize button
+
+
+
+A form would appear. In the value field of BearerAuth, paste the access token you have received earlier.
+
+Click Authorize
+
+
+
+Click Close
+
+
+
+Upload an Artifact
+Click here to expand...
+Click on the POST method with endpoint projects/{projectKey}/artifacts
+
+
+
+Click Try it out
+
+Fill out the required fields (red)
+projectKey: A valid project in the R&D Data Lake Application
+Filename: Specify any name for the uploaded file
+Metadata: A JSON data structure consisting of keys and values
+Known Limitation: Swagger only supports ISO 8859-1 encoding for header parameters. Other RDDL clients and the frontend support the full utf-8 encoding for metadata in the header as well.
+In case you want to upload special characters in the RDDL Swagger, upload the file first without any metadata and then use the 'Add Version' endpoint with the special character metadata as part of the request body.
+
+Request body: Choose a file that you want to upload to Data Lake
+
+
+
+Optional: Fill out additional fields (yellow)
+Schema: A valid schema, which was previously added to the project. Will be verified on the metadata
+waitForIngest: If set to true, the request will wait till metadata is ingested
+
+Click the Execute button
+
+
+
+Check the response code, 201 means that the file has been successfully uploaded
+
+
+Download an Artifact
+Click here to expand...
+Get Artifact metadata

@@ -1,0 +1,22 @@
+stages:
+  - install
+  - lint
+  - test
+
+install:
+  stage: install
+  script:
+    - pip install -r requirements.txt
+
+lint:
+  stage: lint
+  script:
+    - pip install flake8
+    - flake8 src/
+  allow_failure: true
+
+test:
+  stage: test
+  script:
+    - pip install -r requirements.txt
+    - pytest tests/
