@@ -3,16 +3,53 @@ __pycache__/
 *.py[cod]
 *.so
 
+# C extensions
+*.pyd
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
 # Virtual environment
 .env/
 .venv/
 env/
 venv/
 
-# VSCode
-.vscode/
+# Pytest
+.pytest_cache/
+
+# Logs
+*.log
+ceedling.log
 
 # Test and coverage
-.coverage
 htmlcov/
-*.log
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
