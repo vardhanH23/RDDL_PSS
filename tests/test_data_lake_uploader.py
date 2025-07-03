@@ -27,5 +27,31 @@ class TestDataLakeUploader(unittest.TestCase):
         self.assertTrue(mock_post.called)
         self.assertTrue(mock_remove.called)
 
+    @patch('src.data_lake_uploader.requests.get')
+    def test_main_network_error(self, mock_get):
+        mock_get.side_effect = Exception('Network error')
+        with patch('sys.exit') as mock_exit:
+            uploader.main()
+            mock_exit.assert_called_once()
+
+    @patch('src.data_lake_uploader.requests.get')
+    @patch('src.data_lake_uploader.requests.post')
+    @patch('src.data_lake_uploader.os.remove')
+    @patch('src.data_lake_uploader.open', create=True)
+    def test_upload_failure(self, mock_open, mock_remove, mock_post, mock_get):
+        html = '<a href="file1.log">file1.log</a>'
+        mock_get.side_effect = [
+            MagicMock(status_code=200, text=html),
+            MagicMock(status_code=200, content=b'logdata')
+        ]
+        mock_open.return_value.__enter__.return_value.read.return_value = b'logdata'
+        mock_post.return_value.status_code = 500
+        mock_post.return_value.text = 'Internal Server Error'
+        with patch('sys.exit') as mock_exit:
+            uploader.main()
+            mock_exit.assert_not_called()
+        self.assertTrue(mock_post.called)
+        self.assertTrue(mock_remove.called)
+
 if __name__ == "__main__":
     unittest.main()
