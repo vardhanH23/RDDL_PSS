@@ -31,6 +31,9 @@ HEADERS = {
     "Authorization": f"Bearer {RDDL_API_TOKEN}",
 }
 
+LOGS_DIR = os.path.join(os.path.dirname(__file__), '..', 'data', 'logs')
+os.makedirs(LOGS_DIR, exist_ok=True)
+
 def guess_content_type(filename):
     """Guess the MIME type for a file."""
     content_type, _ = mimetypes.guess_type(filename)
@@ -63,17 +66,15 @@ def main():
         for file_link in file_links:
             file_url = urljoin(SERVER_URL, file_link)
             local_file = os.path.basename(file_link)
+            log_path = os.path.join(LOGS_DIR, local_file)
             logging.info("Downloading %s ...", file_url)
             file_resp = requests.get(file_url, timeout=30)
             file_resp.raise_for_status()
-            with open(local_file, "wb") as f:
+            with open(log_path, "wb") as f:
                 f.write(file_resp.content)
-            logging.info("Downloaded %s.", local_file)
+            logging.info("Downloaded %s.", log_path)
 
             content_type = guess_content_type(local_file)
-            # Try all possible header casings for ContentType
-            # The RDDL API is inconsistent about header casing for Content-Type.
-            # We send all common variants to ensure compatibility.
             upload_headers = {
                 "Authorization": f"Bearer {RDDL_API_TOKEN}",
                 "Filename": local_file,
@@ -84,13 +85,14 @@ def main():
             }
             logging.debug("Upload headers: %s", upload_headers)  # Uncomment for troubleshooting
             logging.info("Uploading %s to R&D Data Lake ...", local_file)
-            upload_resp = upload_file(local_file, upload_headers, ARTIFACT_UPLOAD_URL)
+            upload_resp = upload_file(log_path, upload_headers, ARTIFACT_UPLOAD_URL)
             if upload_resp.status_code == 201:
                 logging.info("Uploaded %s successfully.", local_file)
             else:
                 logging.error("Failed to upload %s. Status: %s, Response: %s", local_file, upload_resp.status_code, upload_resp.text)
-            os.remove(local_file)
-            logging.info("Removed local file %s.", local_file)
+        # Print files left in logs dir
+        remaining = os.listdir(LOGS_DIR)
+        logging.info("Files remaining in %s: %s", LOGS_DIR, remaining)
 
     except requests.exceptions.RequestException as req_err:
         logging.error("Request error occurred: %s", req_err)
