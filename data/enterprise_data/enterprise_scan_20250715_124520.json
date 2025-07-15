@@ -1,0 +1,277 @@
+{
+  "scan_timestamp": "2025-07-15T12:44:08.233323",
+  "accessible_projects": {},
+  "inaccessible_projects": {
+    "PWRLIB72": {
+      "app_type": "RDDL_PROJECTS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "DEMOVID": {
+      "app_type": "RDDL_PROJECTS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "IMAGIMOB": {
+      "app_type": "RDDL_PROJECTS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "LAILA": {
+      "app_type": "RDDL_PROJECTS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "RDDLDEMO": {
+      "app_type": "RDDL_PROJECTS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "TTI-9": {
+      "app_type": "RDDL_PROJECTS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "DBSDEC": {
+      "app_type": "RDDL_PROJECTS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "VR00330757": {
+      "app_type": "RDDL_PROJECTS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "VR00473862": {
+      "app_type": "RDDL_PROJECTS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "ANPR": {
+      "app_type": "JIRA_PROJECTS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "VR00458351": {
+      "app_type": "JIRA_PROJECTS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "WSTLTJ": {
+      "app_type": "JIRA_PROJECTS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "VR00196400": {
+      "app_type": "JIRA_PROJECTS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "VR00196396": {
+      "app_type": "JIRA_PROJECTS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "VR00473879": {
+      "app_type": "JIRA_PROJECTS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "ACT": {
+      "app_type": "JIRA_PROJECTS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "VR00466059": {
+      "app_type": "JIRA_PROJECTS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "VR00330755": {
+      "app_type": "JIRA_PROJECTS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "VR00330756": {
+      "app_type": "JIRA_PROJECTS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "AMR_PL90": {
+      "app_type": "JIRA_PROJECTS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "DXPAN9": {
+      "app_type": "JIRA_PROJECTS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "BLCAMP": {
+      "app_type": "JIRA_PROJECTS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "VR00331435": {
+      "app_type": "JIRA_PROJECTS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "APPFW": {
+      "app_type": "JIRA_PROJECTS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "AS": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "ALRP_": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "IE00399697": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "FURATM": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "ATVBP4TEST": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "DCE123": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "ATVDCL123": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "ATVD": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "DSECR": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "AURIXGCC": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "AUCIE": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "AUTMNTR": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "IE00469917": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "AUTOMIC21": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "AVATRACK": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "AVA_E_MI": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "BATYDM": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "MYKEY": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "DEVDQ": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "MRB001": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "DESIRE": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "BEOPCCR": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "BESTCFM": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "BIKERSINT": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "BIPHR": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "IEX0331755": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "BRAIN": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "WINOPS": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    },
+    "EXPERPLAN": {
+      "app_type": "OTHER_APPLICATIONS",
+      "status_code": 401,
+      "error": "<!DOCTYPE html>\r\n\r\n\r\n<!-- template name: meta.refresh.template.html -->\r\n\r\n\r\n<html lang=\"en\" dir=\"ltr\">\r\n<head>\r\n    <meta name=\"robots\" content=\"noindex, nofollow\" />\r\n    <meta http-equiv=\"refresh\" "
+    }
+  },
+  "summary": {
+    "total_projects_scanned": 53,
+    "accessible_projects": 0,
+    "inaccessible_projects": 53,
+    "access_rate": "0.0%"
+  }
+}

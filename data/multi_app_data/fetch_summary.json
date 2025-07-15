@@ -1,0 +1,304 @@
+{
+  "fetch_date": "2025-07-15T11:49:21.394477",
+  "total_artifacts": 57,
+  "results_by_app": {
+    "RDDL": [
+      {
+        "project_key": "PWRLIB72",
+        "project_name": "PWR-Lib",
+        "status": "success",
+        "artifact_count": 57
+      }
+    ],
+    "JIRA": [
+      {
+        "project_key": "VR00473862",
+        "project_name": "1231231",
+        "status": "success",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "DBSDEC",
+        "project_name": "PSS D Students DBS DEC",
+        "status": "success",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "VR00330757",
+        "project_name": "All In One Chip Variants",
+        "status": "success",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "ANPR",
+        "project_name": "Anomaly Predictor",
+        "status": "success",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "VR00458351",
+        "project_name": "SW Asset",
+        "status": "success",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "WSTLTJ",
+        "project_name": "Working Student Tasks",
+        "status": "success",
+        "artifact_count": 0
+      }
+    ],
+    "OTHER": [
+      {
+        "project_key": "VR00196400",
+        "project_name": "<GENERIC> Chip Variants",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "VR00196396",
+        "project_name": "<GENERIC> Variants",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "VR00473879",
+        "project_name": "2025.05.22 Marcin",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "ACT",
+        "project_name": "Accounting, Controlling, Tax",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "VR00466059",
+        "project_name": "Adam Demo VE2",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "VR00330755",
+        "project_name": "All In One Product Variants",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "VR00330756",
+        "project_name": "All In One Sales Product Variants",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "AMR_PL90",
+        "project_name": "AMR PL90 Jira",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "DXPAN9",
+        "project_name": "Analytics - DXP",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "BLCAMP",
+        "project_name": "Anfragen und Projekte der Betriebsleitung Campeon",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "VR00331435",
+        "project_name": "Applets",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "APPFW",
+        "project_name": "Application Framework",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "AS",
+        "project_name": "ASPICE",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "ALRP_",
+        "project_name": "Asset Life Cycle Review Pilot Project",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "IE00399697",
+        "project_name": "AT_20249",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "FURATM",
+        "project_name": "ATM Projects",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "ATVBP4TEST",
+        "project_name": "ATV BP TMS SAE sandbox",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "DCE123",
+        "project_name": "ATV DCE projects",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "ATVDCL123",
+        "project_name": "ATV DCL Requests",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "ATVD",
+        "project_name": "ATV Digitalization",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "DSECR",
+        "project_name": "ATV SPM Change Requests",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "AURIXGCC",
+        "project_name": "AURIX GCC",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "AUCIE",
+        "project_name": "Austin Industrial Engineering",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "AUTMNTR",
+        "project_name": "AUTMNT_RBG",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "IE00469917",
+        "project_name": "Automation_Test_Jira_Project_Connector",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "AUTOMIC21",
+        "project_name": "Automic 21 Upgrade and OS Migration",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "AVATRACK",
+        "project_name": "AVA Tracking",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "AVA_E_MI",
+        "project_name": "AVA_E_MI",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "BATYDM",
+        "project_name": "BAT PTE YDM",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "MYKEY",
+        "project_name": "BAT TDSON LSS Qualification",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "DEVDQ",
+        "project_name": "BE DEV Data Management",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "MRB001",
+        "project_name": "BE MRB",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "DESIRE",
+        "project_name": "BE NLoZD DESIRE",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "BEOPCCR",
+        "project_name": "BE OPC Change Request",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "BESTCFM",
+        "project_name": "BEST Confirmation",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "BIKERSINT",
+        "project_name": "Biker Interns",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "BIPHR",
+        "project_name": "BIP HR",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "IEX0331755",
+        "project_name": "Bootloader NG",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "BRAIN",
+        "project_name": "BRAIN",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "WINOPS",
+        "project_name": "Windows Server Operation",
+        "status": "no_base_url",
+        "artifact_count": 0
+      },
+      {
+        "project_key": "EXPERPLAN",
+        "project_name": "xHUB",
+        "status": "no_base_url",
+        "artifact_count": 0
+      }
+    ]
+  },
+  "fetcher_status": {
+    "RDDL": true,
+    "JIRA": true
+  }
+}

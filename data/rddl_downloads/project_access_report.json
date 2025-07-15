@@ -1,0 +1,39 @@
+{
+  "scan_date": "2025-07-15T11:51:14.235397",
+  "total_projects_tested": 4,
+  "accessible_projects": [
+    {
+      "project_key": "PWRLIB72",
+      "project_type": "R&D Data Lake",
+      "artifact_count": 57,
+      "data_types": [
+        "other",
+        "logs",
+        "xml"
+      ]
+    }
+  ],
+  "forbidden_projects": [],
+  "not_found_projects": [
+    {
+      "project_key": "VR00473862",
+      "project_type": "JIRA Priority",
+      "status": "404_not_found"
+    },
+    {
+      "project_key": "DBSDEC",
+      "project_type": "JIRA Priority",
+      "status": "404_not_found"
+    },
+    {
+      "project_key": "VR00330757",
+      "project_type": "JIRA Priority",
+      "status": "404_not_found"
+    }
+  ],
+  "summary": {
+    "accessible": 1,
+    "forbidden": 0,
+    "not_found": 3
+  }
+}

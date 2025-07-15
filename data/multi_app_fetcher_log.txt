@@ -1,0 +1,450 @@
+2025-07-14 15:14:01,729 - INFO - === Multi-Application Data Fetcher ===
+2025-07-14 15:14:01,738 - INFO - 
+=== Fetching data from RDDL ===
+2025-07-14 15:14:01,738 - INFO - Fetching RDDL/PWRLIB72 (PWR-Lib)...
+2025-07-14 15:14:02,925 - ERROR - RDDL error for PWRLIB72: 401
+2025-07-14 15:14:02,929 - INFO - Saved 0 artifacts for RDDL/PWRLIB72 to data/multi_app_data\RDDL\PWRLIB72
+2025-07-14 15:14:02,938 - INFO - 
+=== Fetching data from JIRA ===
+2025-07-14 15:14:02,938 - INFO - Fetching JIRA/VR00473862 (1231231)...
+2025-07-14 15:14:02,939 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/VR00473862
+2025-07-14 15:14:03,518 - INFO - JIRA response for /rest/api/2/project/VR00473862: 401
+2025-07-14 15:14:03,519 - WARNING - JIRA authentication failed for /rest/api/2/project/VR00473862
+2025-07-14 15:14:03,519 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/search?jql=project=VR00473862&maxResults=50
+2025-07-14 15:14:03,765 - INFO - JIRA response for /rest/api/2/search?jql=project=VR00473862&maxResults=50: 401
+2025-07-14 15:14:03,765 - WARNING - JIRA authentication failed for /rest/api/2/search?jql=project=VR00473862&maxResults=50
+2025-07-14 15:14:03,766 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/VR00473862/statuses
+2025-07-14 15:14:03,933 - INFO - JIRA response for /rest/api/2/project/VR00473862/statuses: 401
+2025-07-14 15:14:03,934 - WARNING - JIRA authentication failed for /rest/api/2/project/VR00473862/statuses
+2025-07-14 15:14:03,935 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/VR00473862/versions
+2025-07-14 15:14:04,080 - INFO - JIRA response for /rest/api/2/project/VR00473862/versions: 401
+2025-07-14 15:14:04,081 - WARNING - JIRA authentication failed for /rest/api/2/project/VR00473862/versions
+2025-07-14 15:14:04,081 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/VR00473862/components
+2025-07-14 15:14:04,224 - INFO - JIRA response for /rest/api/2/project/VR00473862/components: 401
+2025-07-14 15:14:04,224 - WARNING - JIRA authentication failed for /rest/api/2/project/VR00473862/components
+2025-07-14 15:14:04,228 - INFO - Saved 0 artifacts for JIRA/VR00473862 to data/multi_app_data\JIRA\VR00473862
+2025-07-14 15:14:04,230 - INFO - Fetching JIRA/DBSDEC (PSS D Students DBS DEC)...
+2025-07-14 15:14:04,231 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/DBSDEC
+2025-07-14 15:14:04,376 - INFO - JIRA response for /rest/api/2/project/DBSDEC: 401
+2025-07-14 15:14:04,377 - WARNING - JIRA authentication failed for /rest/api/2/project/DBSDEC
+2025-07-14 15:14:04,377 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/search?jql=project=DBSDEC&maxResults=50
+2025-07-14 15:14:04,522 - INFO - JIRA response for /rest/api/2/search?jql=project=DBSDEC&maxResults=50: 401
+2025-07-14 15:14:04,523 - WARNING - JIRA authentication failed for /rest/api/2/search?jql=project=DBSDEC&maxResults=50
+2025-07-14 15:14:04,523 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/DBSDEC/statuses
+2025-07-14 15:14:04,653 - INFO - JIRA response for /rest/api/2/project/DBSDEC/statuses: 401
+2025-07-14 15:14:04,654 - WARNING - JIRA authentication failed for /rest/api/2/project/DBSDEC/statuses
+2025-07-14 15:14:04,654 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/DBSDEC/versions
+2025-07-14 15:14:04,821 - INFO - JIRA response for /rest/api/2/project/DBSDEC/versions: 401
+2025-07-14 15:14:04,822 - WARNING - JIRA authentication failed for /rest/api/2/project/DBSDEC/versions
+2025-07-14 15:14:04,822 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/DBSDEC/components
+2025-07-14 15:14:04,974 - INFO - JIRA response for /rest/api/2/project/DBSDEC/components: 401
+2025-07-14 15:14:04,974 - WARNING - JIRA authentication failed for /rest/api/2/project/DBSDEC/components
+2025-07-14 15:14:04,978 - INFO - Saved 0 artifacts for JIRA/DBSDEC to data/multi_app_data\JIRA\DBSDEC
+2025-07-14 15:14:04,980 - INFO - Fetching JIRA/VR00330757 (All In One Chip Variants)...
+2025-07-14 15:14:04,980 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/VR00330757
+2025-07-14 15:14:05,119 - INFO - JIRA response for /rest/api/2/project/VR00330757: 401
+2025-07-14 15:14:05,119 - WARNING - JIRA authentication failed for /rest/api/2/project/VR00330757
+2025-07-14 15:14:05,119 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/search?jql=project=VR00330757&maxResults=50
+2025-07-14 15:14:05,259 - INFO - JIRA response for /rest/api/2/search?jql=project=VR00330757&maxResults=50: 401
+2025-07-14 15:14:05,260 - WARNING - JIRA authentication failed for /rest/api/2/search?jql=project=VR00330757&maxResults=50
+2025-07-14 15:14:05,260 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/VR00330757/statuses
+2025-07-14 15:14:05,394 - INFO - JIRA response for /rest/api/2/project/VR00330757/statuses: 401
+2025-07-14 15:14:05,394 - WARNING - JIRA authentication failed for /rest/api/2/project/VR00330757/statuses
+2025-07-14 15:14:05,395 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/VR00330757/versions
+2025-07-14 15:14:05,540 - INFO - JIRA response for /rest/api/2/project/VR00330757/versions: 401
+2025-07-14 15:14:05,541 - WARNING - JIRA authentication failed for /rest/api/2/project/VR00330757/versions
+2025-07-14 15:14:05,542 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/VR00330757/components
+2025-07-14 15:14:05,697 - INFO - JIRA response for /rest/api/2/project/VR00330757/components: 401
+2025-07-14 15:14:05,697 - WARNING - JIRA authentication failed for /rest/api/2/project/VR00330757/components
+2025-07-14 15:14:05,700 - INFO - Saved 0 artifacts for JIRA/VR00330757 to data/multi_app_data\JIRA\VR00330757
+2025-07-14 15:14:05,703 - INFO - Fetching JIRA/ANPR (Anomaly Predictor)...
+2025-07-14 15:14:05,703 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/ANPR
+2025-07-14 15:14:05,831 - INFO - JIRA response for /rest/api/2/project/ANPR: 401
+2025-07-14 15:14:05,831 - WARNING - JIRA authentication failed for /rest/api/2/project/ANPR
+2025-07-14 15:14:05,832 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/search?jql=project=ANPR&maxResults=50
+2025-07-14 15:14:05,986 - INFO - JIRA response for /rest/api/2/search?jql=project=ANPR&maxResults=50: 401
+2025-07-14 15:14:05,986 - WARNING - JIRA authentication failed for /rest/api/2/search?jql=project=ANPR&maxResults=50
+2025-07-14 15:14:05,987 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/ANPR/statuses
+2025-07-14 15:14:06,116 - INFO - JIRA response for /rest/api/2/project/ANPR/statuses: 401
+2025-07-14 15:14:06,116 - WARNING - JIRA authentication failed for /rest/api/2/project/ANPR/statuses
+2025-07-14 15:14:06,117 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/ANPR/versions
+2025-07-14 15:14:06,280 - INFO - JIRA response for /rest/api/2/project/ANPR/versions: 401
+2025-07-14 15:14:06,281 - WARNING - JIRA authentication failed for /rest/api/2/project/ANPR/versions
+2025-07-14 15:14:06,281 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/ANPR/components
+2025-07-14 15:14:06,432 - INFO - JIRA response for /rest/api/2/project/ANPR/components: 401
+2025-07-14 15:14:06,433 - WARNING - JIRA authentication failed for /rest/api/2/project/ANPR/components
+2025-07-14 15:14:06,438 - INFO - Saved 0 artifacts for JIRA/ANPR to data/multi_app_data\JIRA\ANPR
+2025-07-14 15:14:06,441 - INFO - Fetching JIRA/VR00458351 (SW Asset)...
+2025-07-14 15:14:06,441 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/VR00458351
+2025-07-14 15:14:06,591 - INFO - JIRA response for /rest/api/2/project/VR00458351: 401
+2025-07-14 15:14:06,592 - WARNING - JIRA authentication failed for /rest/api/2/project/VR00458351
+2025-07-14 15:14:06,593 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/search?jql=project=VR00458351&maxResults=50
+2025-07-14 15:14:06,740 - INFO - JIRA response for /rest/api/2/search?jql=project=VR00458351&maxResults=50: 401
+2025-07-14 15:14:06,741 - WARNING - JIRA authentication failed for /rest/api/2/search?jql=project=VR00458351&maxResults=50
+2025-07-14 15:14:06,741 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/VR00458351/statuses
+2025-07-14 15:14:06,902 - INFO - JIRA response for /rest/api/2/project/VR00458351/statuses: 401
+2025-07-14 15:14:06,902 - WARNING - JIRA authentication failed for /rest/api/2/project/VR00458351/statuses
+2025-07-14 15:14:06,903 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/VR00458351/versions
+2025-07-14 15:14:07,031 - INFO - JIRA response for /rest/api/2/project/VR00458351/versions: 401
+2025-07-14 15:14:07,032 - WARNING - JIRA authentication failed for /rest/api/2/project/VR00458351/versions
+2025-07-14 15:14:07,032 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/VR00458351/components
+2025-07-14 15:14:07,180 - INFO - JIRA response for /rest/api/2/project/VR00458351/components: 401
+2025-07-14 15:14:07,181 - WARNING - JIRA authentication failed for /rest/api/2/project/VR00458351/components
+2025-07-14 15:14:07,188 - INFO - Saved 0 artifacts for JIRA/VR00458351 to data/multi_app_data\JIRA\VR00458351
+2025-07-14 15:14:07,196 - INFO - Fetching JIRA/WSTLTJ (Working Student Tasks)...
+2025-07-14 15:14:07,196 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/WSTLTJ
+2025-07-14 15:14:07,361 - INFO - JIRA response for /rest/api/2/project/WSTLTJ: 401
+2025-07-14 15:14:07,362 - WARNING - JIRA authentication failed for /rest/api/2/project/WSTLTJ
+2025-07-14 15:14:07,363 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/search?jql=project=WSTLTJ&maxResults=50
+2025-07-14 15:14:07,547 - INFO - JIRA response for /rest/api/2/search?jql=project=WSTLTJ&maxResults=50: 401
+2025-07-14 15:14:07,548 - WARNING - JIRA authentication failed for /rest/api/2/search?jql=project=WSTLTJ&maxResults=50
+2025-07-14 15:14:07,549 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/WSTLTJ/statuses
+2025-07-14 15:14:07,794 - INFO - JIRA response for /rest/api/2/project/WSTLTJ/statuses: 401
+2025-07-14 15:14:07,794 - WARNING - JIRA authentication failed for /rest/api/2/project/WSTLTJ/statuses
+2025-07-14 15:14:07,795 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/WSTLTJ/versions
+2025-07-14 15:14:07,959 - INFO - JIRA response for /rest/api/2/project/WSTLTJ/versions: 401
+2025-07-14 15:14:07,960 - WARNING - JIRA authentication failed for /rest/api/2/project/WSTLTJ/versions
+2025-07-14 15:14:07,960 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/WSTLTJ/components
+2025-07-14 15:14:08,376 - INFO - JIRA response for /rest/api/2/project/WSTLTJ/components: 401
+2025-07-14 15:14:08,376 - WARNING - JIRA authentication failed for /rest/api/2/project/WSTLTJ/components
+2025-07-14 15:14:08,379 - INFO - Saved 0 artifacts for JIRA/WSTLTJ to data/multi_app_data\JIRA\WSTLTJ
+2025-07-14 15:14:08,382 - INFO - 
+=== Fetching data from OTHER ===
+2025-07-14 15:14:08,382 - INFO - Fetching OTHER/VR00196400 (<GENERIC> Chip Variants)...
+2025-07-14 15:14:08,385 - INFO - Saved 0 artifacts for OTHER/VR00196400 to data/multi_app_data\OTHER\VR00196400
+2025-07-14 15:14:08,387 - INFO - Fetching OTHER/VR00196396 (<GENERIC> Variants)...
+2025-07-14 15:14:08,390 - INFO - Saved 0 artifacts for OTHER/VR00196396 to data/multi_app_data\OTHER\VR00196396
+2025-07-14 15:14:08,393 - INFO - Fetching OTHER/VR00473879 (2025.05.22 Marcin)...
+2025-07-14 15:14:08,395 - INFO - Saved 0 artifacts for OTHER/VR00473879 to data/multi_app_data\OTHER\VR00473879
+2025-07-14 15:14:08,398 - INFO - Fetching OTHER/ACT (Accounting, Controlling, Tax)...
+2025-07-14 15:14:08,401 - INFO - Saved 0 artifacts for OTHER/ACT to data/multi_app_data\OTHER\ACT
+2025-07-14 15:14:08,403 - INFO - Fetching OTHER/VR00466059 (Adam Demo VE2)...
+2025-07-14 15:14:08,406 - INFO - Saved 0 artifacts for OTHER/VR00466059 to data/multi_app_data\OTHER\VR00466059
+2025-07-14 15:14:08,408 - INFO - Fetching OTHER/VR00330755 (All In One Product Variants)...
+2025-07-14 15:14:08,411 - INFO - Saved 0 artifacts for OTHER/VR00330755 to data/multi_app_data\OTHER\VR00330755
+2025-07-14 15:14:08,414 - INFO - Fetching OTHER/VR00330756 (All In One Sales Product Variants)...
+2025-07-14 15:14:08,417 - INFO - Saved 0 artifacts for OTHER/VR00330756 to data/multi_app_data\OTHER\VR00330756
+2025-07-14 15:14:08,419 - INFO - Fetching OTHER/AMR_PL90 (AMR PL90 Jira)...
+2025-07-14 15:14:08,422 - INFO - Saved 0 artifacts for OTHER/AMR_PL90 to data/multi_app_data\OTHER\AMR_PL90
+2025-07-14 15:14:08,424 - INFO - Fetching OTHER/DXPAN9 (Analytics - DXP)...
+2025-07-14 15:14:08,428 - INFO - Saved 0 artifacts for OTHER/DXPAN9 to data/multi_app_data\OTHER\DXPAN9
+2025-07-14 15:14:08,431 - INFO - Fetching OTHER/BLCAMP (Anfragen und Projekte der Betriebsleitung Campeon)...
+2025-07-14 15:14:08,433 - INFO - Saved 0 artifacts for OTHER/BLCAMP to data/multi_app_data\OTHER\BLCAMP
+2025-07-14 15:14:08,435 - INFO - Fetching OTHER/VR00331435 (Applets)...
+2025-07-14 15:14:08,438 - INFO - Saved 0 artifacts for OTHER/VR00331435 to data/multi_app_data\OTHER\VR00331435
+2025-07-14 15:14:08,441 - INFO - Fetching OTHER/APPFW (Application Framework)...
+2025-07-14 15:14:08,445 - INFO - Saved 0 artifacts for OTHER/APPFW to data/multi_app_data\OTHER\APPFW
+2025-07-14 15:14:08,448 - INFO - Fetching OTHER/AS (ASPICE)...
+2025-07-14 15:14:08,452 - INFO - Saved 0 artifacts for OTHER/AS to data/multi_app_data\OTHER\AS
+2025-07-14 15:14:08,455 - INFO - Fetching OTHER/ALRP_ (Asset Life Cycle Review Pilot Project)...
+2025-07-14 15:14:08,457 - INFO - Saved 0 artifacts for OTHER/ALRP_ to data/multi_app_data\OTHER\ALRP_
+2025-07-14 15:14:08,463 - INFO - Fetching OTHER/IE00399697 (AT_20249)...
+2025-07-14 15:14:08,470 - INFO - Saved 0 artifacts for OTHER/IE00399697 to data/multi_app_data\OTHER\IE00399697
+2025-07-14 15:14:08,472 - INFO - Fetching OTHER/FURATM (ATM Projects)...
+2025-07-14 15:14:08,475 - INFO - Saved 0 artifacts for OTHER/FURATM to data/multi_app_data\OTHER\FURATM
+2025-07-14 15:14:08,480 - INFO - Fetching OTHER/ATVBP4TEST (ATV BP TMS SAE sandbox)...
+2025-07-14 15:14:08,482 - INFO - Saved 0 artifacts for OTHER/ATVBP4TEST to data/multi_app_data\OTHER\ATVBP4TEST
+2025-07-14 15:14:08,484 - INFO - Fetching OTHER/DCE123 (ATV DCE projects)...
+2025-07-14 15:14:08,487 - INFO - Saved 0 artifacts for OTHER/DCE123 to data/multi_app_data\OTHER\DCE123
+2025-07-14 15:14:08,489 - INFO - Fetching OTHER/ATVDCL123 (ATV DCL Requests)...
+2025-07-14 15:14:08,491 - INFO - Saved 0 artifacts for OTHER/ATVDCL123 to data/multi_app_data\OTHER\ATVDCL123
+2025-07-14 15:14:08,496 - INFO - Fetching OTHER/ATVD (ATV Digitalization)...
+2025-07-14 15:14:08,499 - INFO - Saved 0 artifacts for OTHER/ATVD to data/multi_app_data\OTHER\ATVD
+2025-07-14 15:14:08,501 - INFO - Fetching OTHER/DSECR (ATV SPM Change Requests)...
+2025-07-14 15:14:08,504 - INFO - Saved 0 artifacts for OTHER/DSECR to data/multi_app_data\OTHER\DSECR
+2025-07-14 15:14:08,506 - INFO - Fetching OTHER/AURIXGCC (AURIX GCC)...
+2025-07-14 15:14:08,510 - INFO - Saved 0 artifacts for OTHER/AURIXGCC to data/multi_app_data\OTHER\AURIXGCC
+2025-07-14 15:14:08,513 - INFO - Fetching OTHER/AUCIE (Austin Industrial Engineering)...
+2025-07-14 15:14:08,516 - INFO - Saved 0 artifacts for OTHER/AUCIE to data/multi_app_data\OTHER\AUCIE
+2025-07-14 15:14:08,518 - INFO - Fetching OTHER/AUTMNTR (AUTMNT_RBG)...
+2025-07-14 15:14:08,521 - INFO - Saved 0 artifacts for OTHER/AUTMNTR to data/multi_app_data\OTHER\AUTMNTR
+2025-07-14 15:14:08,522 - INFO - Fetching OTHER/IE00469917 (Automation_Test_Jira_Project_Connector)...
+2025-07-14 15:14:08,526 - INFO - Saved 0 artifacts for OTHER/IE00469917 to data/multi_app_data\OTHER\IE00469917
+2025-07-14 15:14:08,529 - INFO - Fetching OTHER/AUTOMIC21 (Automic 21 Upgrade and OS Migration)...
+2025-07-14 15:14:08,532 - INFO - Saved 0 artifacts for OTHER/AUTOMIC21 to data/multi_app_data\OTHER\AUTOMIC21
+2025-07-14 15:14:08,534 - INFO - Fetching OTHER/AVATRACK (AVA Tracking)...
+2025-07-14 15:14:08,538 - INFO - Saved 0 artifacts for OTHER/AVATRACK to data/multi_app_data\OTHER\AVATRACK
+2025-07-14 15:14:08,547 - INFO - Fetching OTHER/AVA_E_MI (AVA_E_MI)...
+2025-07-14 15:14:08,550 - INFO - Saved 0 artifacts for OTHER/AVA_E_MI to data/multi_app_data\OTHER\AVA_E_MI
+2025-07-14 15:14:08,552 - INFO - Fetching OTHER/BATYDM (BAT PTE YDM)...
+2025-07-14 15:14:08,555 - INFO - Saved 0 artifacts for OTHER/BATYDM to data/multi_app_data\OTHER\BATYDM
+2025-07-14 15:14:08,560 - INFO - Fetching OTHER/MYKEY (BAT TDSON LSS Qualification)...
+2025-07-14 15:14:08,564 - INFO - Saved 0 artifacts for OTHER/MYKEY to data/multi_app_data\OTHER\MYKEY
+2025-07-14 15:14:08,614 - INFO - Fetching OTHER/DEVDQ (BE DEV Data Management)...
+2025-07-14 15:14:08,617 - INFO - Saved 0 artifacts for OTHER/DEVDQ to data/multi_app_data\OTHER\DEVDQ
+2025-07-14 15:14:08,619 - INFO - Fetching OTHER/MRB001 (BE MRB)...
+2025-07-14 15:14:08,631 - INFO - Saved 0 artifacts for OTHER/MRB001 to data/multi_app_data\OTHER\MRB001
+2025-07-14 15:14:08,634 - INFO - Fetching OTHER/DESIRE (BE NLoZD DESIRE)...
+2025-07-14 15:14:08,637 - INFO - Saved 0 artifacts for OTHER/DESIRE to data/multi_app_data\OTHER\DESIRE
+2025-07-14 15:14:08,639 - INFO - Fetching OTHER/BEOPCCR (BE OPC Change Request)...
+2025-07-14 15:14:08,641 - INFO - Saved 0 artifacts for OTHER/BEOPCCR to data/multi_app_data\OTHER\BEOPCCR
+2025-07-14 15:14:08,646 - INFO - Fetching OTHER/BESTCFM (BEST Confirmation)...
+2025-07-14 15:14:08,649 - INFO - Saved 0 artifacts for OTHER/BESTCFM to data/multi_app_data\OTHER\BESTCFM
+2025-07-14 15:14:08,651 - INFO - Fetching OTHER/BIKERSINT (Biker Interns)...
+2025-07-14 15:14:08,653 - INFO - Saved 0 artifacts for OTHER/BIKERSINT to data/multi_app_data\OTHER\BIKERSINT
+2025-07-14 15:14:08,654 - INFO - Fetching OTHER/BIPHR (BIP HR)...
+2025-07-14 15:14:08,657 - INFO - Saved 0 artifacts for OTHER/BIPHR to data/multi_app_data\OTHER\BIPHR
+2025-07-14 15:14:08,658 - INFO - Fetching OTHER/IEX0331755 (Bootloader NG)...
+2025-07-14 15:14:08,661 - INFO - Saved 0 artifacts for OTHER/IEX0331755 to data/multi_app_data\OTHER\IEX0331755
+2025-07-14 15:14:08,663 - INFO - Fetching OTHER/BRAIN (BRAIN)...
+2025-07-14 15:14:08,665 - INFO - Saved 0 artifacts for OTHER/BRAIN to data/multi_app_data\OTHER\BRAIN
+2025-07-14 15:14:08,667 - INFO - Fetching OTHER/WINOPS (Windows Server Operation)...
+2025-07-14 15:14:08,669 - INFO - Saved 0 artifacts for OTHER/WINOPS to data/multi_app_data\OTHER\WINOPS
+2025-07-14 15:14:08,670 - INFO - Fetching OTHER/EXPERPLAN (xHUB)...
+2025-07-14 15:14:08,672 - INFO - Saved 0 artifacts for OTHER/EXPERPLAN to data/multi_app_data\OTHER\EXPERPLAN
+2025-07-14 15:14:08,676 - INFO - 
+=== FETCH COMPLETE ===
+2025-07-14 15:14:08,676 - INFO - Total artifacts fetched: 0
+2025-07-14 15:14:08,677 - INFO - Results saved to: data/multi_app_data
+2025-07-14 15:14:08,677 - INFO - Summary saved to: data/multi_app_data\fetch_summary.json
+2025-07-15 11:49:14,492 - INFO - === Multi-Application Data Fetcher ===
+2025-07-15 11:49:14,492 - INFO - ✓ RDDL fetcher initialized
+2025-07-15 11:49:14,493 - INFO - ✓ JIRA fetcher initialized
+2025-07-15 11:49:14,493 - INFO - 
+=== Fetching data from RDDL ===
+2025-07-15 11:49:14,494 - INFO - Fetching RDDL/PWRLIB72 (PWR-Lib)...
+2025-07-15 11:49:15,040 - INFO - Saved 57 artifacts for RDDL/PWRLIB72 to data/multi_app_data\RDDL\PWRLIB72
+2025-07-15 11:49:15,041 - INFO - ✓ PWRLIB72: 57 artifacts found
+2025-07-15 11:49:15,041 - INFO - 
+=== Fetching data from JIRA ===
+2025-07-15 11:49:15,041 - INFO - Fetching JIRA/VR00473862 (1231231)...
+2025-07-15 11:49:15,042 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/VR00473862
+2025-07-15 11:49:15,461 - INFO - JIRA response for /rest/api/2/project/VR00473862: 401
+2025-07-15 11:49:15,462 - WARNING - JIRA authentication failed for /rest/api/2/project/VR00473862
+2025-07-15 11:49:15,462 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/search?jql=project=VR00473862&maxResults=50
+2025-07-15 11:49:15,650 - INFO - JIRA response for /rest/api/2/search?jql=project=VR00473862&maxResults=50: 401
+2025-07-15 11:49:15,650 - WARNING - JIRA authentication failed for /rest/api/2/search?jql=project=VR00473862&maxResults=50
+2025-07-15 11:49:15,651 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/VR00473862/statuses
+2025-07-15 11:49:15,829 - INFO - JIRA response for /rest/api/2/project/VR00473862/statuses: 401
+2025-07-15 11:49:15,829 - WARNING - JIRA authentication failed for /rest/api/2/project/VR00473862/statuses
+2025-07-15 11:49:15,829 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/VR00473862/versions
+2025-07-15 11:49:16,281 - INFO - JIRA response for /rest/api/2/project/VR00473862/versions: 401
+2025-07-15 11:49:16,281 - WARNING - JIRA authentication failed for /rest/api/2/project/VR00473862/versions
+2025-07-15 11:49:16,281 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/VR00473862/components
+2025-07-15 11:49:16,484 - INFO - JIRA response for /rest/api/2/project/VR00473862/components: 401
+2025-07-15 11:49:16,485 - WARNING - JIRA authentication failed for /rest/api/2/project/VR00473862/components
+2025-07-15 11:49:16,490 - INFO - Saved 0 artifacts for JIRA/VR00473862 to data/multi_app_data\JIRA\VR00473862
+2025-07-15 11:49:16,490 - WARNING - ✗ VR00473862: No artifacts found (success)
+2025-07-15 11:49:16,491 - INFO - Fetching JIRA/DBSDEC (PSS D Students DBS DEC)...
+2025-07-15 11:49:16,492 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/DBSDEC
+2025-07-15 11:49:16,675 - INFO - JIRA response for /rest/api/2/project/DBSDEC: 401
+2025-07-15 11:49:16,676 - WARNING - JIRA authentication failed for /rest/api/2/project/DBSDEC
+2025-07-15 11:49:16,676 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/search?jql=project=DBSDEC&maxResults=50
+2025-07-15 11:49:16,843 - INFO - JIRA response for /rest/api/2/search?jql=project=DBSDEC&maxResults=50: 401
+2025-07-15 11:49:16,843 - WARNING - JIRA authentication failed for /rest/api/2/search?jql=project=DBSDEC&maxResults=50
+2025-07-15 11:49:16,844 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/DBSDEC/statuses
+2025-07-15 11:49:17,098 - INFO - JIRA response for /rest/api/2/project/DBSDEC/statuses: 401
+2025-07-15 11:49:17,099 - WARNING - JIRA authentication failed for /rest/api/2/project/DBSDEC/statuses
+2025-07-15 11:49:17,100 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/DBSDEC/versions
+2025-07-15 11:49:17,280 - INFO - JIRA response for /rest/api/2/project/DBSDEC/versions: 401
+2025-07-15 11:49:17,281 - WARNING - JIRA authentication failed for /rest/api/2/project/DBSDEC/versions
+2025-07-15 11:49:17,282 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/DBSDEC/components
+2025-07-15 11:49:17,466 - INFO - JIRA response for /rest/api/2/project/DBSDEC/components: 401
+2025-07-15 11:49:17,466 - WARNING - JIRA authentication failed for /rest/api/2/project/DBSDEC/components
+2025-07-15 11:49:17,469 - INFO - Saved 0 artifacts for JIRA/DBSDEC to data/multi_app_data\JIRA\DBSDEC
+2025-07-15 11:49:17,469 - WARNING - ✗ DBSDEC: No artifacts found (success)
+2025-07-15 11:49:17,469 - INFO - Fetching JIRA/VR00330757 (All In One Chip Variants)...
+2025-07-15 11:49:17,469 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/VR00330757
+2025-07-15 11:49:17,647 - INFO - JIRA response for /rest/api/2/project/VR00330757: 401
+2025-07-15 11:49:17,648 - WARNING - JIRA authentication failed for /rest/api/2/project/VR00330757
+2025-07-15 11:49:17,649 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/search?jql=project=VR00330757&maxResults=50
+2025-07-15 11:49:17,816 - INFO - JIRA response for /rest/api/2/search?jql=project=VR00330757&maxResults=50: 401
+2025-07-15 11:49:17,817 - WARNING - JIRA authentication failed for /rest/api/2/search?jql=project=VR00330757&maxResults=50
+2025-07-15 11:49:17,817 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/VR00330757/statuses
+2025-07-15 11:49:18,098 - INFO - JIRA response for /rest/api/2/project/VR00330757/statuses: 401
+2025-07-15 11:49:18,099 - WARNING - JIRA authentication failed for /rest/api/2/project/VR00330757/statuses
+2025-07-15 11:49:18,100 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/VR00330757/versions
+2025-07-15 11:49:18,298 - INFO - JIRA response for /rest/api/2/project/VR00330757/versions: 401
+2025-07-15 11:49:18,298 - WARNING - JIRA authentication failed for /rest/api/2/project/VR00330757/versions
+2025-07-15 11:49:18,299 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/VR00330757/components
+2025-07-15 11:49:18,458 - INFO - JIRA response for /rest/api/2/project/VR00330757/components: 401
+2025-07-15 11:49:18,458 - WARNING - JIRA authentication failed for /rest/api/2/project/VR00330757/components
+2025-07-15 11:49:18,462 - INFO - Saved 0 artifacts for JIRA/VR00330757 to data/multi_app_data\JIRA\VR00330757
+2025-07-15 11:49:18,463 - WARNING - ✗ VR00330757: No artifacts found (success)
+2025-07-15 11:49:18,463 - INFO - Fetching JIRA/ANPR (Anomaly Predictor)...
+2025-07-15 11:49:18,464 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/ANPR
+2025-07-15 11:49:18,694 - INFO - JIRA response for /rest/api/2/project/ANPR: 401
+2025-07-15 11:49:18,695 - WARNING - JIRA authentication failed for /rest/api/2/project/ANPR
+2025-07-15 11:49:18,695 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/search?jql=project=ANPR&maxResults=50
+2025-07-15 11:49:18,924 - INFO - JIRA response for /rest/api/2/search?jql=project=ANPR&maxResults=50: 401
+2025-07-15 11:49:18,924 - WARNING - JIRA authentication failed for /rest/api/2/search?jql=project=ANPR&maxResults=50
+2025-07-15 11:49:18,925 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/ANPR/statuses
+2025-07-15 11:49:19,084 - INFO - JIRA response for /rest/api/2/project/ANPR/statuses: 401
+2025-07-15 11:49:19,086 - WARNING - JIRA authentication failed for /rest/api/2/project/ANPR/statuses
+2025-07-15 11:49:19,086 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/ANPR/versions
+2025-07-15 11:49:19,250 - INFO - JIRA response for /rest/api/2/project/ANPR/versions: 401
+2025-07-15 11:49:19,304 - WARNING - JIRA authentication failed for /rest/api/2/project/ANPR/versions
+2025-07-15 11:49:19,304 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/ANPR/components
+2025-07-15 11:49:19,471 - INFO - JIRA response for /rest/api/2/project/ANPR/components: 401
+2025-07-15 11:49:19,471 - WARNING - JIRA authentication failed for /rest/api/2/project/ANPR/components
+2025-07-15 11:49:19,474 - INFO - Saved 0 artifacts for JIRA/ANPR to data/multi_app_data\JIRA\ANPR
+2025-07-15 11:49:19,474 - WARNING - ✗ ANPR: No artifacts found (success)
+2025-07-15 11:49:19,474 - INFO - Fetching JIRA/VR00458351 (SW Asset)...
+2025-07-15 11:49:19,475 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/VR00458351
+2025-07-15 11:49:19,646 - INFO - JIRA response for /rest/api/2/project/VR00458351: 401
+2025-07-15 11:49:19,647 - WARNING - JIRA authentication failed for /rest/api/2/project/VR00458351
+2025-07-15 11:49:19,648 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/search?jql=project=VR00458351&maxResults=50
+2025-07-15 11:49:19,833 - INFO - JIRA response for /rest/api/2/search?jql=project=VR00458351&maxResults=50: 401
+2025-07-15 11:49:19,834 - WARNING - JIRA authentication failed for /rest/api/2/search?jql=project=VR00458351&maxResults=50
+2025-07-15 11:49:19,834 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/VR00458351/statuses
+2025-07-15 11:49:19,999 - INFO - JIRA response for /rest/api/2/project/VR00458351/statuses: 401
+2025-07-15 11:49:19,999 - WARNING - JIRA authentication failed for /rest/api/2/project/VR00458351/statuses
+2025-07-15 11:49:20,000 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/VR00458351/versions
+2025-07-15 11:49:20,181 - INFO - JIRA response for /rest/api/2/project/VR00458351/versions: 401
+2025-07-15 11:49:20,181 - WARNING - JIRA authentication failed for /rest/api/2/project/VR00458351/versions
+2025-07-15 11:49:20,181 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/VR00458351/components
+2025-07-15 11:49:20,372 - INFO - JIRA response for /rest/api/2/project/VR00458351/components: 401
+2025-07-15 11:49:20,373 - WARNING - JIRA authentication failed for /rest/api/2/project/VR00458351/components
+2025-07-15 11:49:20,374 - INFO - Saved 0 artifacts for JIRA/VR00458351 to data/multi_app_data\JIRA\VR00458351
+2025-07-15 11:49:20,375 - WARNING - ✗ VR00458351: No artifacts found (success)
+2025-07-15 11:49:20,375 - INFO - Fetching JIRA/WSTLTJ (Working Student Tasks)...
+2025-07-15 11:49:20,375 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/WSTLTJ
+2025-07-15 11:49:20,553 - INFO - JIRA response for /rest/api/2/project/WSTLTJ: 401
+2025-07-15 11:49:20,554 - WARNING - JIRA authentication failed for /rest/api/2/project/WSTLTJ
+2025-07-15 11:49:20,554 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/search?jql=project=WSTLTJ&maxResults=50
+2025-07-15 11:49:20,713 - INFO - JIRA response for /rest/api/2/search?jql=project=WSTLTJ&maxResults=50: 401
+2025-07-15 11:49:20,714 - WARNING - JIRA authentication failed for /rest/api/2/search?jql=project=WSTLTJ&maxResults=50
+2025-07-15 11:49:20,714 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/WSTLTJ/statuses
+2025-07-15 11:49:20,873 - INFO - JIRA response for /rest/api/2/project/WSTLTJ/statuses: 401
+2025-07-15 11:49:20,874 - WARNING - JIRA authentication failed for /rest/api/2/project/WSTLTJ/statuses
+2025-07-15 11:49:20,874 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/WSTLTJ/versions
+2025-07-15 11:49:21,058 - INFO - JIRA response for /rest/api/2/project/WSTLTJ/versions: 401
+2025-07-15 11:49:21,059 - WARNING - JIRA authentication failed for /rest/api/2/project/WSTLTJ/versions
+2025-07-15 11:49:21,059 - INFO - Trying JIRA endpoint: https://jiradctest.intra.infineon.com/rest/api/2/project/WSTLTJ/components
+2025-07-15 11:49:21,271 - INFO - JIRA response for /rest/api/2/project/WSTLTJ/components: 401
+2025-07-15 11:49:21,272 - WARNING - JIRA authentication failed for /rest/api/2/project/WSTLTJ/components
+2025-07-15 11:49:21,274 - INFO - Saved 0 artifacts for JIRA/WSTLTJ to data/multi_app_data\JIRA\WSTLTJ
+2025-07-15 11:49:21,274 - WARNING - ✗ WSTLTJ: No artifacts found (success)
+2025-07-15 11:49:21,274 - INFO - 
+=== Fetching data from OTHER ===
+2025-07-15 11:49:21,275 - INFO - Fetching OTHER/VR00196400 (<GENERIC> Chip Variants)...
+2025-07-15 11:49:21,277 - INFO - Saved 0 artifacts for OTHER/VR00196400 to data/multi_app_data\OTHER\VR00196400
+2025-07-15 11:49:21,278 - WARNING - ✗ VR00196400: No artifacts found (no_base_url)
+2025-07-15 11:49:21,278 - INFO - Fetching OTHER/VR00196396 (<GENERIC> Variants)...
+2025-07-15 11:49:21,280 - INFO - Saved 0 artifacts for OTHER/VR00196396 to data/multi_app_data\OTHER\VR00196396
+2025-07-15 11:49:21,280 - WARNING - ✗ VR00196396: No artifacts found (no_base_url)
+2025-07-15 11:49:21,281 - INFO - Fetching OTHER/VR00473879 (2025.05.22 Marcin)...
+2025-07-15 11:49:21,283 - INFO - Saved 0 artifacts for OTHER/VR00473879 to data/multi_app_data\OTHER\VR00473879
+2025-07-15 11:49:21,284 - WARNING - ✗ VR00473879: No artifacts found (no_base_url)
+2025-07-15 11:49:21,284 - INFO - Fetching OTHER/ACT (Accounting, Controlling, Tax)...
+2025-07-15 11:49:21,287 - INFO - Saved 0 artifacts for OTHER/ACT to data/multi_app_data\OTHER\ACT
+2025-07-15 11:49:21,288 - WARNING - ✗ ACT: No artifacts found (no_base_url)
+2025-07-15 11:49:21,288 - INFO - Fetching OTHER/VR00466059 (Adam Demo VE2)...
+2025-07-15 11:49:21,290 - INFO - Saved 0 artifacts for OTHER/VR00466059 to data/multi_app_data\OTHER\VR00466059
+2025-07-15 11:49:21,291 - WARNING - ✗ VR00466059: No artifacts found (no_base_url)
+2025-07-15 11:49:21,291 - INFO - Fetching OTHER/VR00330755 (All In One Product Variants)...
+2025-07-15 11:49:21,292 - INFO - Saved 0 artifacts for OTHER/VR00330755 to data/multi_app_data\OTHER\VR00330755
+2025-07-15 11:49:21,293 - WARNING - ✗ VR00330755: No artifacts found (no_base_url)
+2025-07-15 11:49:21,293 - INFO - Fetching OTHER/VR00330756 (All In One Sales Product Variants)...
+2025-07-15 11:49:21,295 - INFO - Saved 0 artifacts for OTHER/VR00330756 to data/multi_app_data\OTHER\VR00330756
+2025-07-15 11:49:21,296 - WARNING - ✗ VR00330756: No artifacts found (no_base_url)
+2025-07-15 11:49:21,296 - INFO - Fetching OTHER/AMR_PL90 (AMR PL90 Jira)...
+2025-07-15 11:49:21,298 - INFO - Saved 0 artifacts for OTHER/AMR_PL90 to data/multi_app_data\OTHER\AMR_PL90
+2025-07-15 11:49:21,298 - WARNING - ✗ AMR_PL90: No artifacts found (no_base_url)
+2025-07-15 11:49:21,299 - INFO - Fetching OTHER/DXPAN9 (Analytics - DXP)...
+2025-07-15 11:49:21,301 - INFO - Saved 0 artifacts for OTHER/DXPAN9 to data/multi_app_data\OTHER\DXPAN9
+2025-07-15 11:49:21,302 - WARNING - ✗ DXPAN9: No artifacts found (no_base_url)
+2025-07-15 11:49:21,302 - INFO - Fetching OTHER/BLCAMP (Anfragen und Projekte der Betriebsleitung Campeon)...
+2025-07-15 11:49:21,304 - INFO - Saved 0 artifacts for OTHER/BLCAMP to data/multi_app_data\OTHER\BLCAMP
+2025-07-15 11:49:21,305 - WARNING - ✗ BLCAMP: No artifacts found (no_base_url)
+2025-07-15 11:49:21,305 - INFO - Fetching OTHER/VR00331435 (Applets)...
+2025-07-15 11:49:21,307 - INFO - Saved 0 artifacts for OTHER/VR00331435 to data/multi_app_data\OTHER\VR00331435
+2025-07-15 11:49:21,308 - WARNING - ✗ VR00331435: No artifacts found (no_base_url)
+2025-07-15 11:49:21,308 - INFO - Fetching OTHER/APPFW (Application Framework)...
+2025-07-15 11:49:21,310 - INFO - Saved 0 artifacts for OTHER/APPFW to data/multi_app_data\OTHER\APPFW
+2025-07-15 11:49:21,310 - WARNING - ✗ APPFW: No artifacts found (no_base_url)
+2025-07-15 11:49:21,311 - INFO - Fetching OTHER/AS (ASPICE)...
+2025-07-15 11:49:21,312 - INFO - Saved 0 artifacts for OTHER/AS to data/multi_app_data\OTHER\AS
+2025-07-15 11:49:21,313 - WARNING - ✗ AS: No artifacts found (no_base_url)
+2025-07-15 11:49:21,313 - INFO - Fetching OTHER/ALRP_ (Asset Life Cycle Review Pilot Project)...
+2025-07-15 11:49:21,315 - INFO - Saved 0 artifacts for OTHER/ALRP_ to data/multi_app_data\OTHER\ALRP_
+2025-07-15 11:49:21,315 - WARNING - ✗ ALRP_: No artifacts found (no_base_url)
+2025-07-15 11:49:21,315 - INFO - Fetching OTHER/IE00399697 (AT_20249)...
+2025-07-15 11:49:21,318 - INFO - Saved 0 artifacts for OTHER/IE00399697 to data/multi_app_data\OTHER\IE00399697
+2025-07-15 11:49:21,318 - WARNING - ✗ IE00399697: No artifacts found (no_base_url)
+2025-07-15 11:49:21,318 - INFO - Fetching OTHER/FURATM (ATM Projects)...
+2025-07-15 11:49:21,320 - INFO - Saved 0 artifacts for OTHER/FURATM to data/multi_app_data\OTHER\FURATM
+2025-07-15 11:49:21,320 - WARNING - ✗ FURATM: No artifacts found (no_base_url)
+2025-07-15 11:49:21,321 - INFO - Fetching OTHER/ATVBP4TEST (ATV BP TMS SAE sandbox)...
+2025-07-15 11:49:21,323 - INFO - Saved 0 artifacts for OTHER/ATVBP4TEST to data/multi_app_data\OTHER\ATVBP4TEST
+2025-07-15 11:49:21,323 - WARNING - ✗ ATVBP4TEST: No artifacts found (no_base_url)
+2025-07-15 11:49:21,324 - INFO - Fetching OTHER/DCE123 (ATV DCE projects)...
+2025-07-15 11:49:21,327 - INFO - Saved 0 artifacts for OTHER/DCE123 to data/multi_app_data\OTHER\DCE123
+2025-07-15 11:49:21,327 - WARNING - ✗ DCE123: No artifacts found (no_base_url)
+2025-07-15 11:49:21,327 - INFO - Fetching OTHER/ATVDCL123 (ATV DCL Requests)...
+2025-07-15 11:49:21,329 - INFO - Saved 0 artifacts for OTHER/ATVDCL123 to data/multi_app_data\OTHER\ATVDCL123
+2025-07-15 11:49:21,329 - WARNING - ✗ ATVDCL123: No artifacts found (no_base_url)
+2025-07-15 11:49:21,330 - INFO - Fetching OTHER/ATVD (ATV Digitalization)...
+2025-07-15 11:49:21,332 - INFO - Saved 0 artifacts for OTHER/ATVD to data/multi_app_data\OTHER\ATVD
+2025-07-15 11:49:21,333 - WARNING - ✗ ATVD: No artifacts found (no_base_url)
+2025-07-15 11:49:21,333 - INFO - Fetching OTHER/DSECR (ATV SPM Change Requests)...
+2025-07-15 11:49:21,336 - INFO - Saved 0 artifacts for OTHER/DSECR to data/multi_app_data\OTHER\DSECR
+2025-07-15 11:49:21,336 - WARNING - ✗ DSECR: No artifacts found (no_base_url)
+2025-07-15 11:49:21,336 - INFO - Fetching OTHER/AURIXGCC (AURIX GCC)...
+2025-07-15 11:49:21,338 - INFO - Saved 0 artifacts for OTHER/AURIXGCC to data/multi_app_data\OTHER\AURIXGCC
+2025-07-15 11:49:21,339 - WARNING - ✗ AURIXGCC: No artifacts found (no_base_url)
+2025-07-15 11:49:21,339 - INFO - Fetching OTHER/AUCIE (Austin Industrial Engineering)...
+2025-07-15 11:49:21,341 - INFO - Saved 0 artifacts for OTHER/AUCIE to data/multi_app_data\OTHER\AUCIE
+2025-07-15 11:49:21,341 - WARNING - ✗ AUCIE: No artifacts found (no_base_url)
+2025-07-15 11:49:21,341 - INFO - Fetching OTHER/AUTMNTR (AUTMNT_RBG)...
+2025-07-15 11:49:21,343 - INFO - Saved 0 artifacts for OTHER/AUTMNTR to data/multi_app_data\OTHER\AUTMNTR
+2025-07-15 11:49:21,343 - WARNING - ✗ AUTMNTR: No artifacts found (no_base_url)
+2025-07-15 11:49:21,344 - INFO - Fetching OTHER/IE00469917 (Automation_Test_Jira_Project_Connector)...
+2025-07-15 11:49:21,345 - INFO - Saved 0 artifacts for OTHER/IE00469917 to data/multi_app_data\OTHER\IE00469917
+2025-07-15 11:49:21,345 - WARNING - ✗ IE00469917: No artifacts found (no_base_url)
+2025-07-15 11:49:21,346 - INFO - Fetching OTHER/AUTOMIC21 (Automic 21 Upgrade and OS Migration)...
+2025-07-15 11:49:21,347 - INFO - Saved 0 artifacts for OTHER/AUTOMIC21 to data/multi_app_data\OTHER\AUTOMIC21
+2025-07-15 11:49:21,347 - WARNING - ✗ AUTOMIC21: No artifacts found (no_base_url)
+2025-07-15 11:49:21,347 - INFO - Fetching OTHER/AVATRACK (AVA Tracking)...
+2025-07-15 11:49:21,349 - INFO - Saved 0 artifacts for OTHER/AVATRACK to data/multi_app_data\OTHER\AVATRACK
+2025-07-15 11:49:21,350 - WARNING - ✗ AVATRACK: No artifacts found (no_base_url)
+2025-07-15 11:49:21,350 - INFO - Fetching OTHER/AVA_E_MI (AVA_E_MI)...
+2025-07-15 11:49:21,352 - INFO - Saved 0 artifacts for OTHER/AVA_E_MI to data/multi_app_data\OTHER\AVA_E_MI
+2025-07-15 11:49:21,352 - WARNING - ✗ AVA_E_MI: No artifacts found (no_base_url)
+2025-07-15 11:49:21,352 - INFO - Fetching OTHER/BATYDM (BAT PTE YDM)...
+2025-07-15 11:49:21,356 - INFO - Saved 0 artifacts for OTHER/BATYDM to data/multi_app_data\OTHER\BATYDM
+2025-07-15 11:49:21,358 - WARNING - ✗ BATYDM: No artifacts found (no_base_url)
+2025-07-15 11:49:21,358 - INFO - Fetching OTHER/MYKEY (BAT TDSON LSS Qualification)...
+2025-07-15 11:49:21,361 - INFO - Saved 0 artifacts for OTHER/MYKEY to data/multi_app_data\OTHER\MYKEY
+2025-07-15 11:49:21,362 - WARNING - ✗ MYKEY: No artifacts found (no_base_url)
+2025-07-15 11:49:21,362 - INFO - Fetching OTHER/DEVDQ (BE DEV Data Management)...
+2025-07-15 11:49:21,364 - INFO - Saved 0 artifacts for OTHER/DEVDQ to data/multi_app_data\OTHER\DEVDQ
+2025-07-15 11:49:21,364 - WARNING - ✗ DEVDQ: No artifacts found (no_base_url)
+2025-07-15 11:49:21,364 - INFO - Fetching OTHER/MRB001 (BE MRB)...
+2025-07-15 11:49:21,367 - INFO - Saved 0 artifacts for OTHER/MRB001 to data/multi_app_data\OTHER\MRB001
+2025-07-15 11:49:21,367 - WARNING - ✗ MRB001: No artifacts found (no_base_url)
+2025-07-15 11:49:21,368 - INFO - Fetching OTHER/DESIRE (BE NLoZD DESIRE)...
+2025-07-15 11:49:21,370 - INFO - Saved 0 artifacts for OTHER/DESIRE to data/multi_app_data\OTHER\DESIRE
+2025-07-15 11:49:21,370 - WARNING - ✗ DESIRE: No artifacts found (no_base_url)
+2025-07-15 11:49:21,371 - INFO - Fetching OTHER/BEOPCCR (BE OPC Change Request)...
+2025-07-15 11:49:21,373 - INFO - Saved 0 artifacts for OTHER/BEOPCCR to data/multi_app_data\OTHER\BEOPCCR
+2025-07-15 11:49:21,374 - WARNING - ✗ BEOPCCR: No artifacts found (no_base_url)
+2025-07-15 11:49:21,374 - INFO - Fetching OTHER/BESTCFM (BEST Confirmation)...
+2025-07-15 11:49:21,376 - INFO - Saved 0 artifacts for OTHER/BESTCFM to data/multi_app_data\OTHER\BESTCFM
+2025-07-15 11:49:21,376 - WARNING - ✗ BESTCFM: No artifacts found (no_base_url)
+2025-07-15 11:49:21,377 - INFO - Fetching OTHER/BIKERSINT (Biker Interns)...
+2025-07-15 11:49:21,379 - INFO - Saved 0 artifacts for OTHER/BIKERSINT to data/multi_app_data\OTHER\BIKERSINT
+2025-07-15 11:49:21,379 - WARNING - ✗ BIKERSINT: No artifacts found (no_base_url)
+2025-07-15 11:49:21,380 - INFO - Fetching OTHER/BIPHR (BIP HR)...
+2025-07-15 11:49:21,381 - INFO - Saved 0 artifacts for OTHER/BIPHR to data/multi_app_data\OTHER\BIPHR
+2025-07-15 11:49:21,382 - WARNING - ✗ BIPHR: No artifacts found (no_base_url)
+2025-07-15 11:49:21,382 - INFO - Fetching OTHER/IEX0331755 (Bootloader NG)...
+2025-07-15 11:49:21,385 - INFO - Saved 0 artifacts for OTHER/IEX0331755 to data/multi_app_data\OTHER\IEX0331755
+2025-07-15 11:49:21,385 - WARNING - ✗ IEX0331755: No artifacts found (no_base_url)
+2025-07-15 11:49:21,386 - INFO - Fetching OTHER/BRAIN (BRAIN)...
+2025-07-15 11:49:21,388 - INFO - Saved 0 artifacts for OTHER/BRAIN to data/multi_app_data\OTHER\BRAIN
+2025-07-15 11:49:21,389 - WARNING - ✗ BRAIN: No artifacts found (no_base_url)
+2025-07-15 11:49:21,389 - INFO - Fetching OTHER/WINOPS (Windows Server Operation)...
+2025-07-15 11:49:21,390 - INFO - Saved 0 artifacts for OTHER/WINOPS to data/multi_app_data\OTHER\WINOPS
+2025-07-15 11:49:21,391 - WARNING - ✗ WINOPS: No artifacts found (no_base_url)
+2025-07-15 11:49:21,391 - INFO - Fetching OTHER/EXPERPLAN (xHUB)...
+2025-07-15 11:49:21,393 - INFO - Saved 0 artifacts for OTHER/EXPERPLAN to data/multi_app_data\OTHER\EXPERPLAN
+2025-07-15 11:49:21,394 - WARNING - ✗ EXPERPLAN: No artifacts found (no_base_url)
+2025-07-15 11:49:21,396 - INFO - 
+=== FETCH COMPLETE ===
+2025-07-15 11:49:21,396 - INFO - Total artifacts fetched: 57
+2025-07-15 11:49:21,397 - INFO - Results saved to: data/multi_app_data
+2025-07-15 11:49:21,397 - INFO - Summary saved to: data/multi_app_data\fetch_summary.json
+2025-07-15 11:49:21,397 - INFO - 
+RDDL successful projects:
+2025-07-15 11:49:21,397 - INFO -   - PWRLIB72: 57 artifacts

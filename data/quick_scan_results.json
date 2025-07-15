@@ -1,0 +1,53 @@
+{
+  "scan_date": "2025-07-14T15:02:28.118181",
+  "projects_scanned": [
+    "VR00473862",
+    "DBSDEC",
+    "VR00330757",
+    "ANPR",
+    "VR00458351",
+    "WSTLTJ",
+    "PWRLIB72"
+  ],
+  "results": {
+    "VR00473862": {
+      "status": "not_found",
+      "message": "Project does not exist"
+    },
+    "DBSDEC": {
+      "status": "not_found",
+      "message": "Project does not exist"
+    },
+    "VR00330757": {
+      "status": "not_found",
+      "message": "Project does not exist"
+    },
+    "ANPR": {
+      "status": "not_found",
+      "message": "Project does not exist"
+    },
+    "VR00458351": {
+      "status": "not_found",
+      "message": "Project does not exist"
+    },
+    "WSTLTJ": {
+      "status": "not_found",
+      "message": "Project does not exist"
+    },
+    "PWRLIB72": {
+      "status": "accessible",
+      "artifact_count": 0,
+      "response_time": 0.075779
+    }
+  },
+  "accessible_projects": [
+    "PWRLIB72"
+  ],
+  "summary": {
+    "total_scanned": 7,
+    "accessible": 1,
+    "forbidden": 0,
+    "not_found": 6,
+    "errors": 0
+  }
+}

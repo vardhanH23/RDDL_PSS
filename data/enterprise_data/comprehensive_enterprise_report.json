@@ -1,0 +1,261 @@
+{
+  "analysis_timestamp": "2025-07-14T15:19:47.058035",
+  "rddl_data_analysis": {
+    "projects": {
+      "DEMOVID": {
+        "artifact_count": 0,
+        "file_types": {},
+        "size_mb": 0,
+        "subdirectories": []
+      },
+      "IMAGIMOB": {
+        "artifact_count": 0,
+        "file_types": {},
+        "size_mb": 0,
+        "subdirectories": []
+      },
+      "LAILA": {
+        "artifact_count": 0,
+        "file_types": {},
+        "size_mb": 0,
+        "subdirectories": []
+      },
+      "PWRLIB72": {
+        "artifact_count": 6,
+        "file_types": {
+          ".log": 4,
+          "no_extension": 1,
+          ".xml": 1
+        },
+        "size_mb": 0.01,
+        "subdirectories": [
+          "logs",
+          "other",
+          "xml"
+        ]
+      },
+      "RDDLDEMO": {
+        "artifact_count": 0,
+        "file_types": {},
+        "size_mb": 0,
+        "subdirectories": []
+      },
+      "TTI-9": {
+        "artifact_count": 0,
+        "file_types": {},
+        "size_mb": 0,
+        "subdirectories": []
+      }
+    },
+    "total_artifacts": 6,
+    "file_types": {
+      ".log": 4,
+      "no_extension": 1,
+      ".xml": 1
+    },
+    "last_updated": null
+  },
+  "access_instructions": {
+    "timestamp": "2025-07-14T15:19:47.063556",
+    "network_status": "external_network",
+    "systems": {
+      "RDDL": {
+        "name": "R&D Data Lake",
+        "status": "working",
+        "access_steps": [
+          "✓ RDDL_API_TOKEN is configured",
+          "✓ Successfully downloaded data from 6 projects",
+          "Next: Connect to VPN and run data sync to get latest updates"
+        ]
+      },
+      "JIRA": {
+        "name": "JIRA Project Management",
+        "status": "needs_auth",
+        "access_steps": [
+          "1. Connect to Infineon VPN",
+          "2. Go to JIRA: https://jiradctest.intra.infineon.com",
+          "3. Navigate to Account Settings > Security > API Tokens",
+          "4. Create new API token with project access permissions",
+          "5. Set JIRA_TOKEN environment variable",
+          "6. Run JIRA data fetcher script"
+        ],
+        "target_projects": 6
+      },
+      "APJ": {
+        "name": "APJ Project Office",
+        "status": "discovery_needed",
+        "access_steps": [
+          "1. Connect to Infineon VPN",
+          "2. Navigate to https://apj.infineon.com",
+          "3. Document the authentication method used",
+          "4. Check for API documentation or developer resources",
+          "5. Create custom data fetcher based on discovered API patterns"
+        ]
+      },
+      "DES": {
+        "name": "DES SW Applications for TTI",
+        "status": "discovery_needed",
+        "access_steps": [
+          "1. Connect to Infineon VPN",
+          "2. Navigate to https://des.infineon.com",
+          "3. Document the authentication method used",
+          "4. Check for API documentation or developer resources",
+          "5. Create custom data fetcher based on discovered API patterns"
+        ]
+      },
+      "IPSTORE": {
+        "name": "IP Store",
+        "status": "discovery_needed",
+        "access_steps": [
+          "1. Connect to Infineon VPN",
+          "2. Navigate to https://ipstore.infineon.com",
+          "3. Document the authentication method used",
+          "4. Check for API documentation or developer resources",
+          "5. Create custom data fetcher based on discovered API patterns"
+        ]
+      },
+      "SUBVERSION": {
+        "name": "Subversion SCM",
+        "status": "version_control",
+        "access_steps": [
+          "1. Connect to Infineon VPN",
+          "2. Navigate to https://svn.infineon.com",
+          "3. Document the authentication method used",
+          "4. Check for API documentation or developer resources",
+          "5. Create custom data fetcher based on discovered API patterns"
+        ]
+      }
+    }
+  },
+  "unified_dashboard": {
+    "timestamp": "2025-07-14T15:19:47.082879",
+    "summary": {
+      "total_systems": 6,
+      "accessible_systems": 1,
+      "total_projects": 6,
+      "total_artifacts": 6
+    },
+    "systems": {
+      "RDDL": {
+        "status": "active",
+        "projects": 6,
+        "artifacts": 6,
+        "file_types": {
+          ".log": 4,
+          "no_extension": 1,
+          ".xml": 1
+        },
+        "size_mb": 0.01
+      },
+      "JIRA": {
+        "status": "needs_auth",
+        "name": "JIRA Project Management",
+        "projects": 6,
+        "requires_setup": true
+      },
+      "APJ": {
+        "status": "discovery_needed",
+        "name": "APJ Project Office",
+        "projects": 0,
+        "requires_setup": true
+      },
+      "DES": {
+        "status": "discovery_needed",
+        "name": "DES SW Applications for TTI",
+        "projects": 0,
+        "requires_setup": true
+      },
+      "IPSTORE": {
+        "status": "discovery_needed",
+        "name": "IP Store",
+        "projects": 0,
+        "requires_setup": true
+      },
+      "SUBVERSION": {
+        "status": "version_control",
+        "name": "Subversion SCM",
+        "projects": 0,
+        "requires_setup": true
+      }
+    },
+    "next_actions": [
+      "🔥 PRIORITY: Connect to Infineon VPN",
+      "🎯 Get JIRA API token for 6 target projects",
+      "🔍 Discover API patterns for APJ, DES, IPSTORE systems",
+      "📊 Set up automated data synchronization",
+      "🔧 Create unified data analysis pipeline"
+    ]
+  },
+  "application_configurations": {
+    "RDDL": {
+      "name": "R&D Data Lake",
+      "base_url": "https://rddl.apps.infineon.com",
+      "api_version": "v2",
+      "status": "working",
+      "projects": [
+        "PWRLIB72",
+        "DEMOVID",
+        "IMAGIMOB",
+        "LAILA",
+        "RDDLDEMO",
+        "TTI-9"
+      ]
+    },
+    "JIRA": {
+      "name": "JIRA Project Management",
+      "base_url": "https://jiradctest.intra.infineon.com",
+      "api_version": "2",
+      "status": "needs_auth",
+      "projects": [
+        {
+          "key": "VR00473862",
+          "name": "12231231"
+        },
+        {
+          "key": "DBSDEC",
+          "name": "PSS D Students DBS DEC"
+        },
+        {
+          "key": "VR00330757",
+          "name": "All In One Chip Variants"
+        },
+        {
+          "key": "ANPR",
+          "name": "Anomaly Predictor"
+        },
+        {
+          "key": "VR00458351",
+          "name": "SW Asset"
+        },
+        {
+          "key": "WSTLTJ",
+          "name": "Working Student Tasks"
+        }
+      ]
+    },
+    "APJ": {
+      "name": "APJ Project Office",
+      "base_url": "https://apj.infineon.com",
+      "status": "discovery_needed",
+      "notes": "Asia Pacific Japan project management system"
+    },
+    "DES": {
+      "name": "DES SW Applications for TTI",
+      "base_url": "https://des.infineon.com",
+      "status": "discovery_needed",
+      "notes": "Design Engineering Solutions for TTI"
+    },
+    "IPSTORE": {
+      "name": "IP Store",
+      "base_url": "https://ipstore.infineon.com",
+      "status": "discovery_needed",
+      "notes": "Intellectual Property management system"
+    },
+    "SUBVERSION": {
+      "name": "Subversion SCM",
+      "base_url": "https://svn.infineon.com",
+      "status": "version_control",
+      "notes": "Source code management - requires SVN client"
+    }
+  }
+}

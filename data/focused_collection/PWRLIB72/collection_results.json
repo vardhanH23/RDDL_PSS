@@ -1,0 +1,355 @@
+{
+  "project_key": "PWRLIB72",
+  "total_artifacts": 57,
+  "successful_downloads": 57,
+  "failed_downloads": 0,
+  "downloads": [
+    {
+      "filename": "test_fb_filter_3p3z.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\test_fb_filter_3p3z.log",
+      "size": 1384
+    },
+    {
+      "filename": "test_fb_pi_regulator.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\test_fb_pi_regulator.log",
+      "size": 1062
+    },
+    {
+      "filename": "gcovr.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\gcovr.log",
+      "size": 732
+    },
+    {
+      "filename": "report.xml",
+      "type": "xml",
+      "path": "data\\focused_collection\\PWRLIB72\\xml\\report.xml",
+      "size": 3179
+    },
+    {
+      "filename": "ceedling.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\ceedling.log",
+      "size": 2253
+    },
+    {
+      "filename": "report.xml",
+      "type": "xml",
+      "path": "data\\focused_collection\\PWRLIB72\\xml\\report.xml",
+      "size": 3179
+    },
+    {
+      "filename": "test_fb_filter_3p3z.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\test_fb_filter_3p3z.log",
+      "size": 1384
+    },
+    {
+      "filename": "test_fb_pi_regulator.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\test_fb_pi_regulator.log",
+      "size": 1062
+    },
+    {
+      "filename": "ceedling.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\ceedling.log",
+      "size": 2253
+    },
+    {
+      "filename": "gcovr.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\gcovr.log",
+      "size": 732
+    },
+    {
+      "filename": "test_fb_filter_3p3z.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\test_fb_filter_3p3z.log",
+      "size": 1384
+    },
+    {
+      "filename": "test_fb_pi_regulator.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\test_fb_pi_regulator.log",
+      "size": 1062
+    },
+    {
+      "filename": "gcovr.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\gcovr.log",
+      "size": 732
+    },
+    {
+      "filename": "report.xml",
+      "type": "xml",
+      "path": "data\\focused_collection\\PWRLIB72\\xml\\report.xml",
+      "size": 3179
+    },
+    {
+      "filename": "ceedling.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\ceedling.log",
+      "size": 2253
+    },
+    {
+      "filename": "test_fb_pi_regulator.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\test_fb_pi_regulator.log",
+      "size": 1062
+    },
+    {
+      "filename": "gcovr.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\gcovr.log",
+      "size": 732
+    },
+    {
+      "filename": "report.xml",
+      "type": "xml",
+      "path": "data\\focused_collection\\PWRLIB72\\xml\\report.xml",
+      "size": 3179
+    },
+    {
+      "filename": "test_fb_filter_3p3z.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\test_fb_filter_3p3z.log",
+      "size": 1384
+    },
+    {
+      "filename": "ceedling.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\ceedling.log",
+      "size": 2253
+    },
+    {
+      "filename": "test_fb_pi_regulator.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\test_fb_pi_regulator.log",
+      "size": 1062
+    },
+    {
+      "filename": "test_fb_filter_3p3z.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\test_fb_filter_3p3z.log",
+      "size": 1384
+    },
+    {
+      "filename": "gcovr.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\gcovr.log",
+      "size": 732
+    },
+    {
+      "filename": "report.xml",
+      "type": "xml",
+      "path": "data\\focused_collection\\PWRLIB72\\xml\\report.xml",
+      "size": 3179
+    },
+    {
+      "filename": "ceedling.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\ceedling.log",
+      "size": 2253
+    },
+    {
+      "filename": "test_fb_pi_regulator.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\test_fb_pi_regulator.log",
+      "size": 1062
+    },
+    {
+      "filename": "test_fb_filter_3p3z.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\test_fb_filter_3p3z.log",
+      "size": 1384
+    },
+    {
+      "filename": "report.xml",
+      "type": "xml",
+      "path": "data\\focused_collection\\PWRLIB72\\xml\\report.xml",
+      "size": 3179
+    },
+    {
+      "filename": "gcovr.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\gcovr.log",
+      "size": 732
+    },
+    {
+      "filename": "ceedling.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\ceedling.log",
+      "size": 2253
+    },
+    {
+      "filename": "test_fb_pi_regulator.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\test_fb_pi_regulator.log",
+      "size": 1062
+    },
+    {
+      "filename": "gcovr.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\gcovr.log",
+      "size": 732
+    },
+    {
+      "filename": "report.xml",
+      "type": "xml",
+      "path": "data\\focused_collection\\PWRLIB72\\xml\\report.xml",
+      "size": 3179
+    },
+    {
+      "filename": "test_fb_filter_3p3z.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\test_fb_filter_3p3z.log",
+      "size": 1384
+    },
+    {
+      "filename": "ceedling.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\ceedling.log",
+      "size": 2253
+    },
+    {
+      "filename": "test_fb_pi_regulator.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\test_fb_pi_regulator.log",
+      "size": 1062
+    },
+    {
+      "filename": "test_fb_filter_3p3z.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\test_fb_filter_3p3z.log",
+      "size": 1384
+    },
+    {
+      "filename": "report.xml",
+      "type": "xml",
+      "path": "data\\focused_collection\\PWRLIB72\\xml\\report.xml",
+      "size": 3179
+    },
+    {
+      "filename": "gcovr.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\gcovr.log",
+      "size": 732
+    },
+    {
+      "filename": "ceedling.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\ceedling.log",
+      "size": 2253
+    },
+    {
+      "filename": "test_fb_pi_regulator.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\test_fb_pi_regulator.log",
+      "size": 1062
+    },
+    {
+      "filename": "report.xml",
+      "type": "xml",
+      "path": "data\\focused_collection\\PWRLIB72\\xml\\report.xml",
+      "size": 3179
+    },
+    {
+      "filename": "test_fb_filter_3p3z.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\test_fb_filter_3p3z.log",
+      "size": 1384
+    },
+    {
+      "filename": "gcovr.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\gcovr.log",
+      "size": 732
+    },
+    {
+      "filename": "ceedling.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\ceedling.log",
+      "size": 2253
+    },
+    {
+      "filename": "test_fb_filter_3p3z.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\test_fb_filter_3p3z.log",
+      "size": 1384
+    },
+    {
+      "filename": "test_fb_pi_regulator.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\test_fb_pi_regulator.log",
+      "size": 1062
+    },
+    {
+      "filename": "gcovr.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\gcovr.log",
+      "size": 732
+    },
+    {
+      "filename": "report.xml",
+      "type": "xml",
+      "path": "data\\focused_collection\\PWRLIB72\\xml\\report.xml",
+      "size": 3179
+    },
+    {
+      "filename": "ceedling.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\ceedling.log",
+      "size": 2253
+    },
+    {
+      "filename": "test_fb_pi_regulator.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\test_fb_pi_regulator.log",
+      "size": 1062
+    },
+    {
+      "filename": "test_fb_filter_3p3z.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\test_fb_filter_3p3z.log",
+      "size": 1384
+    },
+    {
+      "filename": "report.xml",
+      "type": "xml",
+      "path": "data\\focused_collection\\PWRLIB72\\xml\\report.xml",
+      "size": 3179
+    },
+    {
+      "filename": "ceedling.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\ceedling.log",
+      "size": 2253
+    },
+    {
+      "filename": "gcovr.log",
+      "type": "logs",
+      "path": "data\\focused_collection\\PWRLIB72\\logs\\gcovr.log",
+      "size": 732
+    },
+    {
+      "filename": "temp_data_file",
+      "type": "other",
+      "path": "data\\focused_collection\\PWRLIB72\\other\\temp_data_file",
+      "size": 1790
+    },
+    {
+      "filename": "temp_data_file",
+      "type": "other",
+      "path": "data\\focused_collection\\PWRLIB72\\other\\temp_data_file",
+      "size": 1790
+    }
+  ],
+  "file_types": {
+    "logs": 44,
+    "xml": 11,
+    "other": 2
+  }
+}

@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.pyd
 
+# Project specific
+archive/
+
 # Distribution / packaging
 .Python
 build/
@@ -53,3 +56,7 @@ coverage.xml
 
 # VS Code
 .vscode/
+SESSION_SUMMARY.md
+dump_text.md
+README_err.md
+FINAL_COMPLETION_NOTES.md

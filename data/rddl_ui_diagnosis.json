@@ -1,0 +1,76 @@
+{
+  "diagnosis_timestamp": "2025-07-15T12:10:27.304901",
+  "ui_access_results": {
+    "timestamp": "2025-07-15T12:10:26.571231",
+    "token_configured": true,
+    "ui_access_tests": {
+      "main_ui": {
+        "url": "https://rd-datalake.intra.infineon.com",
+        "status_code": 200,
+        "accessible": true,
+        "requires_auth": false,
+        "response_size": 3917,
+        "content_type": "text/html"
+      },
+      "service_portal": {
+        "url": "https://rd-service-portal.cloudapps.infineon.com/apps/32/instances/200/resources/624890",
+        "status_code": 200,
+        "accessible": true,
+        "requires_auth": false,
+        "response_size": 1363,
+        "content_type": "text/html"
+      },
+      "api_base": {
+        "url": "https://rd-datalake.icp.infineon.com/api/v1",
+        "status_code": 200,
+        "accessible": true,
+        "requires_auth": false,
+        "response_size": 3917,
+        "content_type": "text/html"
+      },
+      "swagger": {
+        "url": "https://rd-datalake.intra.infineon.com/swagger/#/",
+        "status_code": 200,
+        "accessible": true,
+        "requires_auth": false,
+        "response_size": 717,
+        "content_type": "text/html"
+      },
+      "documentation": {
+        "url": "https://confluencewikiprod.intra.infineon.com/display/RDDLDOC/About",
+        "status_code": 200,
+        "accessible": true,
+        "requires_auth": false,
+        "response_size": 1219,
+        "content_type": "text/html;charset=utf-8"
+      }
+    }
+  },
+  "project_visibility": {
+    "api_projects_list": null,
+    "api_project_direct": {
+      "accessible": false,
+      "status_code": 403
+    },
+    "api_artifacts_count": {
+      "accessible": true,
+      "has_artifacts": true
+    }
+  },
+  "access_instructions": {
+    "primary_issue": "unknown",
+    "solutions": [],
+    "next_steps": [
+      "1. Verify VPN connection to Infineon intranet",
+      "2. Try accessing: https://rd-datalake.intra.infineon.com",
+      "3. If login required, use your Infineon credentials",
+      "4. Navigate to project PWRLIB72",
+      "5. If project not visible, contact Mojdeh or RDDL support"
+    ]
+  },
+  "mojdeh_urls": {
+    "main_ui": "https://rd-datalake.intra.infineon.com",
+    "service_portal": "https://rd-service-portal.cloudapps.infineon.com/apps/32",
+    "pwrlib_wiki": "https://confluencewikiprod.intra.infineon.com/display/PWRLib/PWR-Lib+Home"
+  }
+}

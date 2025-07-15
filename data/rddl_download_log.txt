@@ -1,0 +1,1895 @@
+2025-07-11 14:56:49,103 - INFO - Starting RDDL data download for project TTI-9
+2025-07-11 14:56:49,104 - INFO - Requesting artifacts from project TTI-9...
+2025-07-11 14:56:50,198 - ERROR - Failed to get artifacts. Status code: 401
+2025-07-11 14:56:50,198 - ERROR - Authentication failed. Check your API token.
+2025-07-11 14:56:50,199 - INFO - Total artifacts found: 0
+2025-07-11 14:56:50,200 - WARNING - No artifacts found for project TTI-9. Try another project or check permissions.
+2025-07-11 14:58:33,920 - INFO - 
+=== Checking project: PWRLIB72 ===
+2025-07-11 14:58:33,922 - INFO - Requesting artifacts from project PWRLIB72...
+2025-07-11 14:58:35,261 - ERROR - Failed to get artifacts. Status code: 401
+2025-07-11 14:58:35,262 - ERROR - Authentication failed. Check your API token.
+2025-07-11 14:58:35,262 - INFO - Total artifacts found: 0
+2025-07-11 14:58:35,263 - WARNING - No artifacts found for project PWRLIB72. Try another project or check permissions.
+2025-07-11 14:58:35,263 - INFO - 
+=== Checking project: TTI-9 ===
+2025-07-11 14:58:35,264 - INFO - Requesting artifacts from project PWRLIB72...
+2025-07-11 14:58:36,423 - ERROR - Failed to get artifacts. Status code: 401
+2025-07-11 14:58:36,459 - ERROR - Authentication failed. Check your API token.
+2025-07-11 14:58:36,461 - INFO - Total artifacts found: 0
+2025-07-11 14:58:36,463 - WARNING - No artifacts found for project TTI-9. Try another project or check permissions.
+2025-07-11 14:58:36,464 - INFO - 
+=== Checking project: RDDLDEMO ===
+2025-07-11 14:58:36,468 - INFO - Requesting artifacts from project PWRLIB72...
+2025-07-11 14:58:36,697 - ERROR - Failed to get artifacts. Status code: 401
+2025-07-11 14:58:36,698 - ERROR - Authentication failed. Check your API token.
+2025-07-11 14:58:36,699 - INFO - Total artifacts found: 0
+2025-07-11 14:58:36,700 - WARNING - No artifacts found for project RDDLDEMO. Try another project or check permissions.
+2025-07-11 14:58:36,700 - INFO - 
+=== Checking project: LAILA ===
+2025-07-11 14:58:36,767 - INFO - Requesting artifacts from project PWRLIB72...
+2025-07-11 14:58:37,412 - ERROR - Failed to get artifacts. Status code: 401
+2025-07-11 14:58:37,414 - ERROR - Authentication failed. Check your API token.
+2025-07-11 14:58:37,415 - INFO - Total artifacts found: 0
+2025-07-11 14:58:37,416 - WARNING - No artifacts found for project LAILA. Try another project or check permissions.
+2025-07-11 14:58:37,417 - INFO - 
+=== Checking project: DEMOVID ===
+2025-07-11 14:58:37,471 - INFO - Requesting artifacts from project PWRLIB72...
+2025-07-11 14:58:38,643 - ERROR - Failed to get artifacts. Status code: 401
+2025-07-11 14:58:38,645 - ERROR - Authentication failed. Check your API token.
+2025-07-11 14:58:38,646 - INFO - Total artifacts found: 0
+2025-07-11 14:58:38,649 - WARNING - No artifacts found for project DEMOVID. Try another project or check permissions.
+2025-07-11 14:58:38,650 - INFO - 
+=== Checking project: IMAGIMOB ===
+2025-07-11 14:58:38,717 - INFO - Requesting artifacts from project PWRLIB72...
+2025-07-11 14:58:38,936 - ERROR - Failed to get artifacts. Status code: 401
+2025-07-11 14:58:38,937 - ERROR - Authentication failed. Check your API token.
+2025-07-11 14:58:38,938 - INFO - Total artifacts found: 0
+2025-07-11 14:58:38,939 - WARNING - No artifacts found for project IMAGIMOB. Try another project or check permissions.
+2025-07-11 14:59:39,657 - INFO - 
+=== Checking project: PWRLIB72 ===
+2025-07-11 14:59:39,659 - INFO - Requesting artifacts from project PWRLIB72...
+2025-07-11 14:59:39,950 - ERROR - Failed to get artifacts. Status code: 400
+2025-07-11 14:59:39,951 - INFO - Total artifacts found: 0
+2025-07-11 14:59:39,952 - WARNING - No artifacts found for project PWRLIB72. Try another project or check permissions.
+2025-07-11 14:59:39,952 - INFO - 
+=== Checking project: TTI-9 ===
+2025-07-11 14:59:39,953 - INFO - Requesting artifacts from project PWRLIB72...
+2025-07-11 14:59:40,048 - ERROR - Failed to get artifacts. Status code: 404
+2025-07-11 14:59:40,049 - ERROR - Project PWRLIB72 not found.
+2025-07-11 14:59:40,049 - INFO - Total artifacts found: 0
+2025-07-11 14:59:40,050 - WARNING - No artifacts found for project TTI-9. Try another project or check permissions.
+2025-07-11 14:59:40,050 - INFO - 
+=== Checking project: RDDLDEMO ===
+2025-07-11 14:59:40,051 - INFO - Requesting artifacts from project PWRLIB72...
+2025-07-11 14:59:40,172 - ERROR - Failed to get artifacts. Status code: 403
+2025-07-11 14:59:40,173 - ERROR - Access forbidden. You may not have permission to access this project.
+2025-07-11 14:59:40,173 - INFO - Total artifacts found: 0
+2025-07-11 14:59:40,174 - WARNING - No artifacts found for project RDDLDEMO. Try another project or check permissions.
+2025-07-11 14:59:40,175 - INFO - 
+=== Checking project: LAILA ===
+2025-07-11 14:59:40,176 - INFO - Requesting artifacts from project PWRLIB72...
+2025-07-11 14:59:40,295 - ERROR - Failed to get artifacts. Status code: 403
+2025-07-11 14:59:40,296 - ERROR - Access forbidden. You may not have permission to access this project.
+2025-07-11 14:59:40,296 - INFO - Total artifacts found: 0
+2025-07-11 14:59:40,297 - WARNING - No artifacts found for project LAILA. Try another project or check permissions.
+2025-07-11 14:59:40,298 - INFO - 
+=== Checking project: DEMOVID ===
+2025-07-11 14:59:40,299 - INFO - Requesting artifacts from project PWRLIB72...
+2025-07-11 14:59:40,423 - ERROR - Failed to get artifacts. Status code: 403
+2025-07-11 14:59:40,425 - ERROR - Access forbidden. You may not have permission to access this project.
+2025-07-11 14:59:40,425 - INFO - Total artifacts found: 0
+2025-07-11 14:59:40,427 - WARNING - No artifacts found for project DEMOVID. Try another project or check permissions.
+2025-07-11 14:59:40,428 - INFO - 
+=== Checking project: IMAGIMOB ===
+2025-07-11 14:59:40,429 - INFO - Requesting artifacts from project PWRLIB72...
+2025-07-11 14:59:40,566 - ERROR - Failed to get artifacts. Status code: 403
+2025-07-11 14:59:40,567 - ERROR - Access forbidden. You may not have permission to access this project.
+2025-07-11 14:59:40,568 - INFO - Total artifacts found: 0
+2025-07-11 14:59:40,570 - WARNING - No artifacts found for project IMAGIMOB. Try another project or check permissions.
+2025-07-11 15:09:30,857 - INFO - === RDDL Data Downloader ===
+2025-07-11 15:09:30,861 - INFO - Testing 6 projects with different API paths
+2025-07-11 15:09:30,862 - INFO - 
+=== Checking project: PWRLIB72 ===
+2025-07-11 15:09:30,863 - INFO - Trying API path: /api/v1
+2025-07-11 15:09:30,864 - INFO - Requesting artifacts from project PWRLIB72...
+2025-07-11 15:09:31,134 - ERROR - Failed to get artifacts. Status code: 400
+2025-07-11 15:09:31,134 - INFO - Total artifacts found: 0
+2025-07-11 15:09:31,136 - INFO - Trying API path: /v1
+2025-07-11 15:09:31,136 - INFO - Requesting artifacts from project PWRLIB72...
+2025-07-11 15:09:31,221 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:09:31,223 - INFO - Total artifacts found: 0
+2025-07-11 15:09:31,224 - INFO - Trying API path: /api
+2025-07-11 15:09:31,225 - INFO - Requesting artifacts from project PWRLIB72...
+2025-07-11 15:09:31,309 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:09:31,310 - INFO - Total artifacts found: 0
+2025-07-11 15:09:31,311 - INFO - Trying API path: 
+2025-07-11 15:09:31,311 - INFO - Requesting artifacts from project PWRLIB72...
+2025-07-11 15:09:31,395 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:09:31,396 - INFO - Total artifacts found: 0
+2025-07-11 15:09:31,397 - WARNING - All API paths failed for project PWRLIB72. Check permissions or try another project.
+2025-07-11 15:09:31,398 - INFO - 
+=== Checking project: TTI-9 ===
+2025-07-11 15:09:31,399 - INFO - Trying API path: /api/v1
+2025-07-11 15:09:31,400 - INFO - Requesting artifacts from project TTI-9...
+2025-07-11 15:09:31,502 - ERROR - Failed to get artifacts. Status code: 404
+2025-07-11 15:09:31,503 - ERROR - Project TTI-9 not found.
+2025-07-11 15:09:31,504 - INFO - Total artifacts found: 0
+2025-07-11 15:09:31,505 - INFO - Trying API path: /v1
+2025-07-11 15:09:31,506 - INFO - Requesting artifacts from project TTI-9...
+2025-07-11 15:09:31,584 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:09:31,585 - INFO - Total artifacts found: 0
+2025-07-11 15:09:31,586 - INFO - Trying API path: /api
+2025-07-11 15:09:31,586 - INFO - Requesting artifacts from project TTI-9...
+2025-07-11 15:09:31,680 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:09:31,680 - INFO - Total artifacts found: 0
+2025-07-11 15:09:31,681 - INFO - Trying API path: 
+2025-07-11 15:09:31,681 - INFO - Requesting artifacts from project TTI-9...
+2025-07-11 15:09:31,777 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:09:31,778 - INFO - Total artifacts found: 0
+2025-07-11 15:09:31,779 - WARNING - All API paths failed for project TTI-9. Check permissions or try another project.
+2025-07-11 15:09:31,780 - INFO - 
+=== Checking project: RDDLDEMO ===
+2025-07-11 15:09:31,782 - INFO - Trying API path: /api/v1
+2025-07-11 15:09:31,782 - INFO - Requesting artifacts from project RDDLDEMO...
+2025-07-11 15:09:31,868 - ERROR - Failed to get artifacts. Status code: 403
+2025-07-11 15:09:31,870 - ERROR - Access forbidden. You may not have permission to access this project.
+2025-07-11 15:09:31,871 - INFO - Total artifacts found: 0
+2025-07-11 15:09:31,872 - INFO - Trying API path: /v1
+2025-07-11 15:09:31,874 - INFO - Requesting artifacts from project RDDLDEMO...
+2025-07-11 15:09:31,962 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:09:31,963 - INFO - Total artifacts found: 0
+2025-07-11 15:09:31,964 - INFO - Trying API path: /api
+2025-07-11 15:09:31,965 - INFO - Requesting artifacts from project RDDLDEMO...
+2025-07-11 15:09:32,058 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:09:32,059 - INFO - Total artifacts found: 0
+2025-07-11 15:09:32,060 - INFO - Trying API path: 
+2025-07-11 15:09:32,062 - INFO - Requesting artifacts from project RDDLDEMO...
+2025-07-11 15:09:32,144 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:09:32,178 - INFO - Total artifacts found: 0
+2025-07-11 15:09:32,180 - WARNING - All API paths failed for project RDDLDEMO. Check permissions or try another project.
+2025-07-11 15:09:32,181 - INFO - 
+=== Checking project: LAILA ===
+2025-07-11 15:09:32,182 - INFO - Trying API path: /api/v1
+2025-07-11 15:09:32,183 - INFO - Requesting artifacts from project LAILA...
+2025-07-11 15:09:32,298 - ERROR - Failed to get artifacts. Status code: 403
+2025-07-11 15:09:32,298 - ERROR - Access forbidden. You may not have permission to access this project.
+2025-07-11 15:09:32,299 - INFO - Total artifacts found: 0
+2025-07-11 15:09:32,299 - INFO - Trying API path: /v1
+2025-07-11 15:09:32,300 - INFO - Requesting artifacts from project LAILA...
+2025-07-11 15:09:32,379 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:09:32,380 - INFO - Total artifacts found: 0
+2025-07-11 15:09:32,381 - INFO - Trying API path: /api
+2025-07-11 15:09:32,381 - INFO - Requesting artifacts from project LAILA...
+2025-07-11 15:09:32,500 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:09:32,501 - INFO - Total artifacts found: 0
+2025-07-11 15:09:32,502 - INFO - Trying API path: 
+2025-07-11 15:09:32,508 - INFO - Requesting artifacts from project LAILA...
+2025-07-11 15:09:32,619 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:09:32,620 - INFO - Total artifacts found: 0
+2025-07-11 15:09:32,621 - WARNING - All API paths failed for project LAILA. Check permissions or try another project.
+2025-07-11 15:09:32,621 - INFO - 
+=== Checking project: DEMOVID ===
+2025-07-11 15:09:32,622 - INFO - Trying API path: /api/v1
+2025-07-11 15:09:32,623 - INFO - Requesting artifacts from project DEMOVID...
+2025-07-11 15:09:32,723 - ERROR - Failed to get artifacts. Status code: 403
+2025-07-11 15:09:32,724 - ERROR - Access forbidden. You may not have permission to access this project.
+2025-07-11 15:09:32,724 - INFO - Total artifacts found: 0
+2025-07-11 15:09:32,725 - INFO - Trying API path: /v1
+2025-07-11 15:09:32,726 - INFO - Requesting artifacts from project DEMOVID...
+2025-07-11 15:09:32,804 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:09:32,805 - INFO - Total artifacts found: 0
+2025-07-11 15:09:32,806 - INFO - Trying API path: /api
+2025-07-11 15:09:32,807 - INFO - Requesting artifacts from project DEMOVID...
+2025-07-11 15:09:32,887 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:09:32,887 - INFO - Total artifacts found: 0
+2025-07-11 15:09:32,888 - INFO - Trying API path: 
+2025-07-11 15:09:32,888 - INFO - Requesting artifacts from project DEMOVID...
+2025-07-11 15:09:32,998 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:09:32,999 - INFO - Total artifacts found: 0
+2025-07-11 15:09:33,000 - WARNING - All API paths failed for project DEMOVID. Check permissions or try another project.
+2025-07-11 15:09:33,000 - INFO - 
+=== Checking project: IMAGIMOB ===
+2025-07-11 15:09:33,001 - INFO - Trying API path: /api/v1
+2025-07-11 15:09:33,002 - INFO - Requesting artifacts from project IMAGIMOB...
+2025-07-11 15:09:33,125 - ERROR - Failed to get artifacts. Status code: 403
+2025-07-11 15:09:33,126 - ERROR - Access forbidden. You may not have permission to access this project.
+2025-07-11 15:09:33,126 - INFO - Total artifacts found: 0
+2025-07-11 15:09:33,127 - INFO - Trying API path: /v1
+2025-07-11 15:09:33,128 - INFO - Requesting artifacts from project IMAGIMOB...
+2025-07-11 15:09:33,228 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:09:33,229 - INFO - Total artifacts found: 0
+2025-07-11 15:09:33,230 - INFO - Trying API path: /api
+2025-07-11 15:09:33,230 - INFO - Requesting artifacts from project IMAGIMOB...
+2025-07-11 15:09:33,309 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:09:33,310 - INFO - Total artifacts found: 0
+2025-07-11 15:09:33,311 - INFO - Trying API path: 
+2025-07-11 15:09:33,311 - INFO - Requesting artifacts from project IMAGIMOB...
+2025-07-11 15:09:33,398 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:09:33,398 - INFO - Total artifacts found: 0
+2025-07-11 15:09:33,399 - WARNING - All API paths failed for project IMAGIMOB. Check permissions or try another project.
+2025-07-11 15:09:33,452 - INFO - Total time: 2.5 seconds
+2025-07-11 15:15:16,913 - INFO - === RDDL Data Downloader ===
+2025-07-11 15:15:16,913 - INFO - Testing 6 projects with different API paths
+2025-07-11 15:15:16,914 - INFO - 
+=== Checking project: PWRLIB72 ===
+2025-07-11 15:15:16,914 - INFO - Trying API path: /api/v1
+2025-07-11 15:15:16,914 - INFO - Requesting artifacts from project PWRLIB72...
+2025-07-11 15:15:17,158 - ERROR - Failed to get artifacts. Status code: 400
+2025-07-11 15:15:17,159 - ERROR - Response text: {"type":"Validation","message":"Key: 'Query.PageNumber' Error:Field validation for 'PageNumber' failed on the 'min' tag","messageId":"aTaIXBK1K3OUahq3Ak7eysdTxrXpB1Lr","validationErrors":[{"class":"Query","field":"PageNumber","validator":"min","message":"Key: 'Query.PageNumber' Error:Field validation for 'PageNumber' failed on the 'min' tag"}]}
+
+2025-07-11 15:15:17,159 - INFO - Total artifacts found: 0
+2025-07-11 15:15:17,160 - INFO - Trying POST fallback for artifact listing...
+2025-07-11 15:15:17,161 - INFO - [POST] Requesting artifacts from project PWRLIB72...
+2025-07-11 15:15:17,305 - ERROR - [POST] Failed to get artifacts. Status code: 400
+2025-07-11 15:15:17,306 - ERROR - [POST] Response text: {"type":"Validation","message":"Key: 'CompleteRequest.UploadID' Error:Field validation for 'UploadID' failed on the 'required' tag\nKey: 'CompleteRequest.Parts' Error:Field validation for 'Parts' failed on the 'required' tag","messageId":"yq4iw87H7QRwMOP5HLuBIyhT0PHdGIzF","validationErrors":[{"class":"CompleteRequest","field":"UploadID","validator":"required","message":"Key: 'CompleteRequest.UploadID' Error:Field validation for 'UploadID' failed on the 'required' tag"},{"class":"CompleteRequest","field":"Parts","validator":"required","message":"Key: 'CompleteRequest.Parts' Error:Field validation for 'Parts' failed on the 'required' tag"}]}
+
+2025-07-11 15:15:17,307 - INFO - [POST] Total artifacts found: 0
+2025-07-11 15:15:17,308 - INFO - Trying API path: /v1
+2025-07-11 15:15:17,308 - INFO - Requesting artifacts from project PWRLIB72...
+2025-07-11 15:15:17,390 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:15:17,392 - ERROR - Response text: <!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.C0BAuEbG.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/BnB4aFIa.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.Vp3O4dG5.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/videos.Dhsni9K3.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Chta6iX7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CL1Nde-w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ChtO37lb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DlAUqK2U.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D0Jvzv4l.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CrRD9hTU.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D28zMICP.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C1
+2025-07-11 15:15:17,393 - INFO - Total artifacts found: 0
+2025-07-11 15:15:17,395 - INFO - Trying POST fallback for artifact listing...
+2025-07-11 15:15:17,395 - INFO - [POST] Requesting artifacts from project PWRLIB72...
+2025-07-11 15:15:17,477 - ERROR - [POST] Failed to get artifacts. Status code: 405
+2025-07-11 15:15:17,478 - ERROR - [POST] Response text: <html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-11 15:15:17,479 - INFO - [POST] Total artifacts found: 0
+2025-07-11 15:15:17,480 - INFO - Trying API path: /api
+2025-07-11 15:15:17,480 - INFO - Requesting artifacts from project PWRLIB72...
+2025-07-11 15:15:17,600 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:15:17,601 - ERROR - Response text: <!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.C0BAuEbG.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/BnB4aFIa.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.Vp3O4dG5.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/videos.Dhsni9K3.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Chta6iX7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CL1Nde-w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ChtO37lb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DlAUqK2U.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D0Jvzv4l.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CrRD9hTU.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D28zMICP.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C1
+2025-07-11 15:15:17,603 - INFO - Total artifacts found: 0
+2025-07-11 15:15:17,604 - INFO - Trying POST fallback for artifact listing...
+2025-07-11 15:15:17,605 - INFO - [POST] Requesting artifacts from project PWRLIB72...
+2025-07-11 15:15:17,701 - ERROR - [POST] Failed to get artifacts. Status code: 405
+2025-07-11 15:15:17,702 - ERROR - [POST] Response text: <html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-11 15:15:17,703 - INFO - [POST] Total artifacts found: 0
+2025-07-11 15:15:17,704 - INFO - Trying API path: 
+2025-07-11 15:15:17,704 - INFO - Requesting artifacts from project PWRLIB72...
+2025-07-11 15:15:17,805 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:15:17,806 - ERROR - Response text: <!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.C0BAuEbG.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/BnB4aFIa.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.Vp3O4dG5.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/videos.Dhsni9K3.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Chta6iX7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CL1Nde-w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ChtO37lb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DlAUqK2U.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D0Jvzv4l.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CrRD9hTU.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D28zMICP.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C1
+2025-07-11 15:15:17,807 - INFO - Total artifacts found: 0
+2025-07-11 15:15:17,808 - INFO - Trying POST fallback for artifact listing...
+2025-07-11 15:15:17,809 - INFO - [POST] Requesting artifacts from project PWRLIB72...
+2025-07-11 15:15:17,900 - ERROR - [POST] Failed to get artifacts. Status code: 405
+2025-07-11 15:15:17,901 - ERROR - [POST] Response text: <html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-11 15:15:17,902 - INFO - [POST] Total artifacts found: 0
+2025-07-11 15:15:17,903 - WARNING - All API paths failed for project PWRLIB72. Check permissions or try another project.
+2025-07-11 15:15:17,904 - INFO - 
+=== Checking project: TTI-9 ===
+2025-07-11 15:15:17,905 - INFO - Trying API path: /api/v1
+2025-07-11 15:15:17,905 - INFO - Requesting artifacts from project TTI-9...
+2025-07-11 15:15:18,001 - ERROR - Failed to get artifacts. Status code: 404
+2025-07-11 15:15:18,001 - ERROR - Project TTI-9 not found.
+2025-07-11 15:15:18,002 - ERROR - Response text: {"type":"ResourceNotFound","message":"The project 'TTI-9' could not be found.","messageId":"ivlG99WMzfcEH73Ptvxy453Tmg9SrYwf"}
+
+2025-07-11 15:15:18,002 - INFO - Total artifacts found: 0
+2025-07-11 15:15:18,003 - INFO - Trying POST fallback for artifact listing...
+2025-07-11 15:15:18,003 - INFO - [POST] Requesting artifacts from project TTI-9...
+2025-07-11 15:15:18,103 - ERROR - [POST] Failed to get artifacts. Status code: 404
+2025-07-11 15:15:18,104 - ERROR - [POST] Response text: {"type":"ResourceNotFound","message":"The project 'TTI-9' could not be found.","messageId":"yiXEclw9qfuJbnN3r78HYiANEzYgna1N"}
+
+2025-07-11 15:15:18,105 - INFO - [POST] Total artifacts found: 0
+2025-07-11 15:15:18,106 - INFO - Trying API path: /v1
+2025-07-11 15:15:18,107 - INFO - Requesting artifacts from project TTI-9...
+2025-07-11 15:15:18,204 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:15:18,205 - ERROR - Response text: <!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.C0BAuEbG.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/BnB4aFIa.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.Vp3O4dG5.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/videos.Dhsni9K3.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Chta6iX7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CL1Nde-w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ChtO37lb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DlAUqK2U.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D0Jvzv4l.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CrRD9hTU.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D28zMICP.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C1
+2025-07-11 15:15:18,206 - INFO - Total artifacts found: 0
+2025-07-11 15:15:18,207 - INFO - Trying POST fallback for artifact listing...
+2025-07-11 15:15:18,208 - INFO - [POST] Requesting artifacts from project TTI-9...
+2025-07-11 15:15:18,291 - ERROR - [POST] Failed to get artifacts. Status code: 405
+2025-07-11 15:15:18,292 - ERROR - [POST] Response text: <html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-11 15:15:18,292 - INFO - [POST] Total artifacts found: 0
+2025-07-11 15:15:18,293 - INFO - Trying API path: /api
+2025-07-11 15:15:18,294 - INFO - Requesting artifacts from project TTI-9...
+2025-07-11 15:15:18,386 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:15:18,387 - ERROR - Response text: <!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.C0BAuEbG.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/BnB4aFIa.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.Vp3O4dG5.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/videos.Dhsni9K3.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Chta6iX7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CL1Nde-w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ChtO37lb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DlAUqK2U.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D0Jvzv4l.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CrRD9hTU.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D28zMICP.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C1
+2025-07-11 15:15:18,388 - INFO - Total artifacts found: 0
+2025-07-11 15:15:18,389 - INFO - Trying POST fallback for artifact listing...
+2025-07-11 15:15:18,389 - INFO - [POST] Requesting artifacts from project TTI-9...
+2025-07-11 15:15:18,500 - ERROR - [POST] Failed to get artifacts. Status code: 405
+2025-07-11 15:15:18,501 - ERROR - [POST] Response text: <html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-11 15:15:18,501 - INFO - [POST] Total artifacts found: 0
+2025-07-11 15:15:18,502 - INFO - Trying API path: 
+2025-07-11 15:15:18,502 - INFO - Requesting artifacts from project TTI-9...
+2025-07-11 15:15:18,602 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:15:18,602 - ERROR - Response text: <!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.C0BAuEbG.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/BnB4aFIa.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.Vp3O4dG5.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/videos.Dhsni9K3.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Chta6iX7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CL1Nde-w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ChtO37lb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DlAUqK2U.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D0Jvzv4l.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CrRD9hTU.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D28zMICP.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C1
+2025-07-11 15:15:18,603 - INFO - Total artifacts found: 0
+2025-07-11 15:15:18,605 - INFO - Trying POST fallback for artifact listing...
+2025-07-11 15:15:18,605 - INFO - [POST] Requesting artifacts from project TTI-9...
+2025-07-11 15:15:18,694 - ERROR - [POST] Failed to get artifacts. Status code: 405
+2025-07-11 15:15:18,695 - ERROR - [POST] Response text: <html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-11 15:15:18,696 - INFO - [POST] Total artifacts found: 0
+2025-07-11 15:15:18,698 - WARNING - All API paths failed for project TTI-9. Check permissions or try another project.
+2025-07-11 15:15:18,699 - INFO - 
+=== Checking project: RDDLDEMO ===
+2025-07-11 15:15:18,700 - INFO - Trying API path: /api/v1
+2025-07-11 15:15:18,700 - INFO - Requesting artifacts from project RDDLDEMO...
+2025-07-11 15:15:18,823 - ERROR - Failed to get artifacts. Status code: 403
+2025-07-11 15:15:18,824 - ERROR - Access forbidden. You may not have permission to access this project.
+2025-07-11 15:15:18,824 - ERROR - Response text: {"type":"Forbidden","message":"You are lacking the required rights to access this resource.","messageId":"tnYfLoXjreCajQNZLQSZyD4wfEbvYDy6"}
+
+2025-07-11 15:15:18,825 - INFO - Total artifacts found: 0
+2025-07-11 15:15:18,826 - INFO - Trying POST fallback for artifact listing...
+2025-07-11 15:15:18,827 - INFO - [POST] Requesting artifacts from project RDDLDEMO...
+2025-07-11 15:15:18,918 - ERROR - [POST] Failed to get artifacts. Status code: 403
+2025-07-11 15:15:18,919 - ERROR - [POST] Response text: {"type":"Forbidden","message":"You are lacking the required rights to access this resource.","messageId":"GVXtAwYnSw1gkPZOHOA2tJMeRQ3vjhD1"}
+
+2025-07-11 15:15:18,920 - INFO - [POST] Total artifacts found: 0
+2025-07-11 15:15:18,921 - INFO - Trying API path: /v1
+2025-07-11 15:15:18,922 - INFO - Requesting artifacts from project RDDLDEMO...
+2025-07-11 15:15:19,008 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:15:19,009 - ERROR - Response text: <!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.C0BAuEbG.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/BnB4aFIa.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.Vp3O4dG5.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/videos.Dhsni9K3.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Chta6iX7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CL1Nde-w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ChtO37lb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DlAUqK2U.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D0Jvzv4l.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CrRD9hTU.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D28zMICP.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C1
+2025-07-11 15:15:19,010 - INFO - Total artifacts found: 0
+2025-07-11 15:15:19,010 - INFO - Trying POST fallback for artifact listing...
+2025-07-11 15:15:19,011 - INFO - [POST] Requesting artifacts from project RDDLDEMO...
+2025-07-11 15:15:19,105 - ERROR - [POST] Failed to get artifacts. Status code: 405
+2025-07-11 15:15:19,106 - ERROR - [POST] Response text: <html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-11 15:15:19,106 - INFO - [POST] Total artifacts found: 0
+2025-07-11 15:15:19,107 - INFO - Trying API path: /api
+2025-07-11 15:15:19,108 - INFO - Requesting artifacts from project RDDLDEMO...
+2025-07-11 15:15:19,186 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:15:19,187 - ERROR - Response text: <!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.C0BAuEbG.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/BnB4aFIa.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.Vp3O4dG5.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/videos.Dhsni9K3.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Chta6iX7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CL1Nde-w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ChtO37lb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DlAUqK2U.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D0Jvzv4l.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CrRD9hTU.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D28zMICP.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C1
+2025-07-11 15:15:19,188 - INFO - Total artifacts found: 0
+2025-07-11 15:15:19,190 - INFO - Trying POST fallback for artifact listing...
+2025-07-11 15:15:19,190 - INFO - [POST] Requesting artifacts from project RDDLDEMO...
+2025-07-11 15:15:19,274 - ERROR - [POST] Failed to get artifacts. Status code: 405
+2025-07-11 15:15:19,275 - ERROR - [POST] Response text: <html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-11 15:15:19,275 - INFO - [POST] Total artifacts found: 0
+2025-07-11 15:15:19,276 - INFO - Trying API path: 
+2025-07-11 15:15:19,277 - INFO - Requesting artifacts from project RDDLDEMO...
+2025-07-11 15:15:19,380 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:15:19,381 - ERROR - Response text: <!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.C0BAuEbG.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/BnB4aFIa.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.Vp3O4dG5.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/videos.Dhsni9K3.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Chta6iX7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CL1Nde-w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ChtO37lb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DlAUqK2U.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D0Jvzv4l.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CrRD9hTU.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D28zMICP.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C1
+2025-07-11 15:15:19,381 - INFO - Total artifacts found: 0
+2025-07-11 15:15:19,382 - INFO - Trying POST fallback for artifact listing...
+2025-07-11 15:15:19,383 - INFO - [POST] Requesting artifacts from project RDDLDEMO...
+2025-07-11 15:15:19,464 - ERROR - [POST] Failed to get artifacts. Status code: 405
+2025-07-11 15:15:19,465 - ERROR - [POST] Response text: <html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-11 15:15:19,465 - INFO - [POST] Total artifacts found: 0
+2025-07-11 15:15:19,466 - WARNING - All API paths failed for project RDDLDEMO. Check permissions or try another project.
+2025-07-11 15:15:19,467 - INFO - 
+=== Checking project: LAILA ===
+2025-07-11 15:15:19,468 - INFO - Trying API path: /api/v1
+2025-07-11 15:15:19,468 - INFO - Requesting artifacts from project LAILA...
+2025-07-11 15:15:19,559 - ERROR - Failed to get artifacts. Status code: 403
+2025-07-11 15:15:19,560 - ERROR - Access forbidden. You may not have permission to access this project.
+2025-07-11 15:15:19,560 - ERROR - Response text: {"type":"Forbidden","message":"You are lacking the required rights to access this resource.","messageId":"YIuOpyZ6ceWGAsqboQwHgM3iTW14IFRT"}
+
+2025-07-11 15:15:19,560 - INFO - Total artifacts found: 0
+2025-07-11 15:15:19,561 - INFO - Trying POST fallback for artifact listing...
+2025-07-11 15:15:19,561 - INFO - [POST] Requesting artifacts from project LAILA...
+2025-07-11 15:15:19,699 - ERROR - [POST] Failed to get artifacts. Status code: 403
+2025-07-11 15:15:19,700 - ERROR - [POST] Response text: {"type":"Forbidden","message":"You are lacking the required rights to access this resource.","messageId":"RRQKMJdwH9kBe3ooOnMTgkxToX7VIrTK"}
+
+2025-07-11 15:15:19,701 - INFO - [POST] Total artifacts found: 0
+2025-07-11 15:15:19,702 - INFO - Trying API path: /v1
+2025-07-11 15:15:19,702 - INFO - Requesting artifacts from project LAILA...
+2025-07-11 15:15:19,784 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:15:19,815 - ERROR - Response text: <!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.C0BAuEbG.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/BnB4aFIa.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.Vp3O4dG5.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/videos.Dhsni9K3.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Chta6iX7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CL1Nde-w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ChtO37lb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DlAUqK2U.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D0Jvzv4l.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CrRD9hTU.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D28zMICP.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C1
+2025-07-11 15:15:19,816 - INFO - Total artifacts found: 0
+2025-07-11 15:15:19,817 - INFO - Trying POST fallback for artifact listing...
+2025-07-11 15:15:19,817 - INFO - [POST] Requesting artifacts from project LAILA...
+2025-07-11 15:15:19,890 - ERROR - [POST] Failed to get artifacts. Status code: 405
+2025-07-11 15:15:19,891 - ERROR - [POST] Response text: <html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-11 15:15:19,892 - INFO - [POST] Total artifacts found: 0
+2025-07-11 15:15:19,893 - INFO - Trying API path: /api
+2025-07-11 15:15:19,893 - INFO - Requesting artifacts from project LAILA...
+2025-07-11 15:15:20,003 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:15:20,004 - ERROR - Response text: <!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.C0BAuEbG.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/BnB4aFIa.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.Vp3O4dG5.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/videos.Dhsni9K3.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Chta6iX7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CL1Nde-w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ChtO37lb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DlAUqK2U.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D0Jvzv4l.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CrRD9hTU.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D28zMICP.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C1
+2025-07-11 15:15:20,006 - INFO - Total artifacts found: 0
+2025-07-11 15:15:20,008 - INFO - Trying POST fallback for artifact listing...
+2025-07-11 15:15:20,009 - INFO - [POST] Requesting artifacts from project LAILA...
+2025-07-11 15:15:20,098 - ERROR - [POST] Failed to get artifacts. Status code: 405
+2025-07-11 15:15:20,099 - ERROR - [POST] Response text: <html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-11 15:15:20,099 - INFO - [POST] Total artifacts found: 0
+2025-07-11 15:15:20,100 - INFO - Trying API path: 
+2025-07-11 15:15:20,101 - INFO - Requesting artifacts from project LAILA...
+2025-07-11 15:15:20,175 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:15:20,176 - ERROR - Response text: <!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.C0BAuEbG.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/BnB4aFIa.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.Vp3O4dG5.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/videos.Dhsni9K3.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Chta6iX7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CL1Nde-w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ChtO37lb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DlAUqK2U.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D0Jvzv4l.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CrRD9hTU.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D28zMICP.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C1
+2025-07-11 15:15:20,177 - INFO - Total artifacts found: 0
+2025-07-11 15:15:20,178 - INFO - Trying POST fallback for artifact listing...
+2025-07-11 15:15:20,178 - INFO - [POST] Requesting artifacts from project LAILA...
+2025-07-11 15:15:20,272 - ERROR - [POST] Failed to get artifacts. Status code: 405
+2025-07-11 15:15:20,273 - ERROR - [POST] Response text: <html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-11 15:15:20,274 - INFO - [POST] Total artifacts found: 0
+2025-07-11 15:15:20,275 - WARNING - All API paths failed for project LAILA. Check permissions or try another project.
+2025-07-11 15:15:20,276 - INFO - 
+=== Checking project: DEMOVID ===
+2025-07-11 15:15:20,277 - INFO - Trying API path: /api/v1
+2025-07-11 15:15:20,278 - INFO - Requesting artifacts from project DEMOVID...
+2025-07-11 15:15:20,427 - ERROR - Failed to get artifacts. Status code: 403
+2025-07-11 15:15:20,428 - ERROR - Access forbidden. You may not have permission to access this project.
+2025-07-11 15:15:20,428 - ERROR - Response text: {"type":"Forbidden","message":"You are lacking the required rights to access this resource.","messageId":"Su064S09KuazZC9zP4YMrkrnOAMdBr58"}
+
+2025-07-11 15:15:20,429 - INFO - Total artifacts found: 0
+2025-07-11 15:15:20,430 - INFO - Trying POST fallback for artifact listing...
+2025-07-11 15:15:20,431 - INFO - [POST] Requesting artifacts from project DEMOVID...
+2025-07-11 15:15:20,532 - ERROR - [POST] Failed to get artifacts. Status code: 403
+2025-07-11 15:15:20,532 - ERROR - [POST] Response text: {"type":"Forbidden","message":"You are lacking the required rights to access this resource.","messageId":"x8F7TkveONc6AS6H68kjaAbwMzNx3XuL"}
+
+2025-07-11 15:15:20,533 - INFO - [POST] Total artifacts found: 0
+2025-07-11 15:15:20,534 - INFO - Trying API path: /v1
+2025-07-11 15:15:20,535 - INFO - Requesting artifacts from project DEMOVID...
+2025-07-11 15:15:20,620 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:15:20,621 - ERROR - Response text: <!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.C0BAuEbG.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/BnB4aFIa.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.Vp3O4dG5.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/videos.Dhsni9K3.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Chta6iX7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CL1Nde-w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ChtO37lb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DlAUqK2U.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D0Jvzv4l.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CrRD9hTU.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D28zMICP.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C1
+2025-07-11 15:15:20,623 - INFO - Total artifacts found: 0
+2025-07-11 15:15:20,624 - INFO - Trying POST fallback for artifact listing...
+2025-07-11 15:15:20,625 - INFO - [POST] Requesting artifacts from project DEMOVID...
+2025-07-11 15:15:20,706 - ERROR - [POST] Failed to get artifacts. Status code: 405
+2025-07-11 15:15:20,706 - ERROR - [POST] Response text: <html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-11 15:15:20,707 - INFO - [POST] Total artifacts found: 0
+2025-07-11 15:15:20,708 - INFO - Trying API path: /api
+2025-07-11 15:15:20,708 - INFO - Requesting artifacts from project DEMOVID...
+2025-07-11 15:15:20,800 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:15:20,801 - ERROR - Response text: <!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.C0BAuEbG.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/BnB4aFIa.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.Vp3O4dG5.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/videos.Dhsni9K3.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Chta6iX7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CL1Nde-w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ChtO37lb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DlAUqK2U.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D0Jvzv4l.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CrRD9hTU.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D28zMICP.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C1
+2025-07-11 15:15:20,802 - INFO - Total artifacts found: 0
+2025-07-11 15:15:20,803 - INFO - Trying POST fallback for artifact listing...
+2025-07-11 15:15:20,804 - INFO - [POST] Requesting artifacts from project DEMOVID...
+2025-07-11 15:15:20,889 - ERROR - [POST] Failed to get artifacts. Status code: 405
+2025-07-11 15:15:20,890 - ERROR - [POST] Response text: <html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-11 15:15:20,890 - INFO - [POST] Total artifacts found: 0
+2025-07-11 15:15:20,892 - INFO - Trying API path: 
+2025-07-11 15:15:20,892 - INFO - Requesting artifacts from project DEMOVID...
+2025-07-11 15:15:20,992 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:15:20,993 - ERROR - Response text: <!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.C0BAuEbG.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/BnB4aFIa.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.Vp3O4dG5.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/videos.Dhsni9K3.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Chta6iX7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CL1Nde-w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ChtO37lb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DlAUqK2U.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D0Jvzv4l.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CrRD9hTU.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D28zMICP.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C1
+2025-07-11 15:15:20,994 - INFO - Total artifacts found: 0
+2025-07-11 15:15:20,995 - INFO - Trying POST fallback for artifact listing...
+2025-07-11 15:15:20,996 - INFO - [POST] Requesting artifacts from project DEMOVID...
+2025-07-11 15:15:21,091 - ERROR - [POST] Failed to get artifacts. Status code: 405
+2025-07-11 15:15:21,092 - ERROR - [POST] Response text: <html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-11 15:15:21,092 - INFO - [POST] Total artifacts found: 0
+2025-07-11 15:15:21,093 - WARNING - All API paths failed for project DEMOVID. Check permissions or try another project.
+2025-07-11 15:15:21,093 - INFO - 
+=== Checking project: IMAGIMOB ===
+2025-07-11 15:15:21,094 - INFO - Trying API path: /api/v1
+2025-07-11 15:15:21,095 - INFO - Requesting artifacts from project IMAGIMOB...
+2025-07-11 15:15:21,204 - ERROR - Failed to get artifacts. Status code: 403
+2025-07-11 15:15:21,204 - ERROR - Access forbidden. You may not have permission to access this project.
+2025-07-11 15:15:21,205 - ERROR - Response text: {"type":"Forbidden","message":"You are lacking the required rights to access this resource.","messageId":"AyRbfZJ1szRmlAOk0IKKUIU1eEzeCdFJ"}
+
+2025-07-11 15:15:21,205 - INFO - Total artifacts found: 0
+2025-07-11 15:15:21,206 - INFO - Trying POST fallback for artifact listing...
+2025-07-11 15:15:21,206 - INFO - [POST] Requesting artifacts from project IMAGIMOB...
+2025-07-11 15:15:21,286 - ERROR - [POST] Failed to get artifacts. Status code: 403
+2025-07-11 15:15:21,287 - ERROR - [POST] Response text: {"type":"Forbidden","message":"You are lacking the required rights to access this resource.","messageId":"QMqdKopWdrVsOFwMIRAWGg0whpZjvmP2"}
+
+2025-07-11 15:15:21,288 - INFO - [POST] Total artifacts found: 0
+2025-07-11 15:15:21,289 - INFO - Trying API path: /v1
+2025-07-11 15:15:21,289 - INFO - Requesting artifacts from project IMAGIMOB...
+2025-07-11 15:15:21,402 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:15:21,403 - ERROR - Response text: <!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.C0BAuEbG.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/BnB4aFIa.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.Vp3O4dG5.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/videos.Dhsni9K3.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Chta6iX7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CL1Nde-w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ChtO37lb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DlAUqK2U.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D0Jvzv4l.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CrRD9hTU.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D28zMICP.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C1
+2025-07-11 15:15:21,404 - INFO - Total artifacts found: 0
+2025-07-11 15:15:21,405 - INFO - Trying POST fallback for artifact listing...
+2025-07-11 15:15:21,406 - INFO - [POST] Requesting artifacts from project IMAGIMOB...
+2025-07-11 15:15:21,485 - ERROR - [POST] Failed to get artifacts. Status code: 405
+2025-07-11 15:15:21,486 - ERROR - [POST] Response text: <html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-11 15:15:21,487 - INFO - [POST] Total artifacts found: 0
+2025-07-11 15:15:21,488 - INFO - Trying API path: /api
+2025-07-11 15:15:21,488 - INFO - Requesting artifacts from project IMAGIMOB...
+2025-07-11 15:15:21,568 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:15:21,569 - ERROR - Response text: <!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.C0BAuEbG.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/BnB4aFIa.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.Vp3O4dG5.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/videos.Dhsni9K3.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Chta6iX7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CL1Nde-w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ChtO37lb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DlAUqK2U.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D0Jvzv4l.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CrRD9hTU.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D28zMICP.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C1
+2025-07-11 15:15:21,570 - INFO - Total artifacts found: 0
+2025-07-11 15:15:21,571 - INFO - Trying POST fallback for artifact listing...
+2025-07-11 15:15:21,572 - INFO - [POST] Requesting artifacts from project IMAGIMOB...
+2025-07-11 15:15:21,675 - ERROR - [POST] Failed to get artifacts. Status code: 405
+2025-07-11 15:15:21,676 - ERROR - [POST] Response text: <html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-11 15:15:21,677 - INFO - [POST] Total artifacts found: 0
+2025-07-11 15:15:21,678 - INFO - Trying API path: 
+2025-07-11 15:15:21,679 - INFO - Requesting artifacts from project IMAGIMOB...
+2025-07-11 15:15:21,758 - ERROR - Could not decode JSON response: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:15:21,760 - ERROR - Response text: <!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.C0BAuEbG.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/BnB4aFIa.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.Vp3O4dG5.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/videos.Dhsni9K3.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Chta6iX7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CL1Nde-w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ChtO37lb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DlAUqK2U.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D0Jvzv4l.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CrRD9hTU.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D28zMICP.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C1
+2025-07-11 15:15:21,761 - INFO - Total artifacts found: 0
+2025-07-11 15:15:21,762 - INFO - Trying POST fallback for artifact listing...
+2025-07-11 15:15:21,763 - INFO - [POST] Requesting artifacts from project IMAGIMOB...
+2025-07-11 15:15:21,844 - ERROR - [POST] Failed to get artifacts. Status code: 405
+2025-07-11 15:15:21,845 - ERROR - [POST] Response text: <html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-11 15:15:21,846 - INFO - [POST] Total artifacts found: 0
+2025-07-11 15:15:21,847 - WARNING - All API paths failed for project IMAGIMOB. Check permissions or try another project.
+2025-07-11 15:15:21,847 - INFO - Total time: 4.9 seconds
+2025-07-11 15:17:51,901 - INFO - === RDDL Data Downloader ===
+2025-07-11 15:17:51,902 - INFO - 
+=== Checking project: PWRLIB72 ===
+2025-07-11 15:17:51,902 - INFO - Trying GET https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/metadata with params: {'pageSize': 100, 'pageNumber': 0}
+2025-07-11 15:17:52,102 - INFO - Status code: 400
+2025-07-11 15:17:52,102 - ERROR - Failed to get artifacts. Status code: 400
+2025-07-11 15:17:52,103 - ERROR - Response text: {"type":"Validation","message":"Key: 'Query.PageNumber' Error:Field validation for 'PageNumber' failed on the 'min' tag","messageId":"feY8wF0FZ70I7cps9qGGIKRTG7hBWJkr","validationErrors":[{"class":"Query","field":"PageNumber","validator":"min","message":"Key: 'Query.PageNumber' Error:Field validation for 'PageNumber' failed on the 'min' tag"}]}
+
+2025-07-11 15:17:52,103 - INFO - Trying GET https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/metadata with params: {}
+2025-07-11 15:17:52,249 - INFO - Status code: 200
+2025-07-11 15:17:52,250 - INFO - Found 0 artifacts.
+2025-07-11 15:17:52,251 - WARNING - No artifacts found or accessible for project PWRLIB72.
+2025-07-11 15:17:52,251 - INFO - 
+=== Checking project: TTI-9 ===
+2025-07-11 15:17:52,252 - INFO - Trying GET https://rd-datalake.icp.infineon.com/api/v1/projects/TTI-9/artifacts/metadata with params: {'pageSize': 100, 'pageNumber': 0}
+2025-07-11 15:17:52,331 - INFO - Status code: 404
+2025-07-11 15:17:52,332 - ERROR - Failed to get artifacts. Status code: 404
+2025-07-11 15:17:52,333 - ERROR - Response text: {"type":"ResourceNotFound","message":"The project 'TTI-9' could not be found.","messageId":"XKZ9L00B4OoX0AFW7MqO5PRTOaSMItNn"}
+
+2025-07-11 15:17:52,333 - INFO - Trying GET https://rd-datalake.icp.infineon.com/api/v1/projects/TTI-9/artifacts/metadata with params: {}
+2025-07-11 15:17:52,407 - INFO - Status code: 404
+2025-07-11 15:17:52,408 - ERROR - Failed to get artifacts. Status code: 404
+2025-07-11 15:17:52,408 - ERROR - Response text: {"type":"ResourceNotFound","message":"The project 'TTI-9' could not be found.","messageId":"3aAzGQqCrBGkCJvSvpsNza7ggNf5ZRXj"}
+
+2025-07-11 15:17:52,408 - INFO - Trying GET https://rd-datalake.icp.infineon.com/api/v1/projects/TTI-9/artifacts with params: {'pageSize': 100, 'pageNumber': 0}
+2025-07-11 15:17:52,504 - INFO - Status code: 200
+2025-07-11 15:17:52,521 - ERROR - Could not decode JSON: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:17:52,523 - ERROR - Response text: <!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.C0BAuEbG.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/BnB4aFIa.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.Vp3O4dG5.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/videos.Dhsni9K3.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Chta6iX7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CL1Nde-w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ChtO37lb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DlAUqK2U.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D0Jvzv4l.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CrRD9hTU.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D28zMICP.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C1
+2025-07-11 15:17:52,524 - INFO - Trying GET https://rd-datalake.icp.infineon.com/api/v1/projects/TTI-9/artifacts with params: {}
+2025-07-11 15:17:52,619 - INFO - Status code: 200
+2025-07-11 15:17:52,620 - ERROR - Could not decode JSON: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:17:52,620 - ERROR - Response text: <!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.C0BAuEbG.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/BnB4aFIa.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.Vp3O4dG5.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/videos.Dhsni9K3.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Chta6iX7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CL1Nde-w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ChtO37lb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DlAUqK2U.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D0Jvzv4l.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CrRD9hTU.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D28zMICP.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C1
+2025-07-11 15:17:52,621 - WARNING - No artifacts found or accessible for project TTI-9.
+2025-07-11 15:17:52,622 - INFO - 
+=== Checking project: RDDLDEMO ===
+2025-07-11 15:17:52,623 - INFO - Trying GET https://rd-datalake.icp.infineon.com/api/v1/projects/RDDLDEMO/artifacts/metadata with params: {'pageSize': 100, 'pageNumber': 0}
+2025-07-11 15:17:52,745 - INFO - Status code: 403
+2025-07-11 15:17:52,746 - ERROR - Failed to get artifacts. Status code: 403
+2025-07-11 15:17:52,746 - ERROR - Response text: {"type":"Forbidden","message":"You are lacking the required rights to access this resource.","messageId":"si8zas4YTUKEpPiWOuJw3Jh0GW91vXFu"}
+
+2025-07-11 15:17:52,747 - INFO - Trying GET https://rd-datalake.icp.infineon.com/api/v1/projects/RDDLDEMO/artifacts/metadata with params: {}
+2025-07-11 15:17:52,915 - INFO - Status code: 403
+2025-07-11 15:17:52,915 - ERROR - Failed to get artifacts. Status code: 403
+2025-07-11 15:17:52,916 - ERROR - Response text: {"type":"Forbidden","message":"You are lacking the required rights to access this resource.","messageId":"DVHpRJ0L7CfSfLu654P59k9OMLHbKuTC"}
+
+2025-07-11 15:17:52,917 - INFO - Trying GET https://rd-datalake.icp.infineon.com/api/v1/projects/RDDLDEMO/artifacts with params: {'pageSize': 100, 'pageNumber': 0}
+2025-07-11 15:17:53,015 - INFO - Status code: 200
+2025-07-11 15:17:53,016 - ERROR - Could not decode JSON: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:17:53,016 - ERROR - Response text: <!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.C0BAuEbG.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/BnB4aFIa.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.Vp3O4dG5.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/videos.Dhsni9K3.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Chta6iX7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CL1Nde-w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ChtO37lb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DlAUqK2U.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D0Jvzv4l.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CrRD9hTU.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D28zMICP.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C1
+2025-07-11 15:17:53,018 - INFO - Trying GET https://rd-datalake.icp.infineon.com/api/v1/projects/RDDLDEMO/artifacts with params: {}
+2025-07-11 15:17:53,152 - INFO - Status code: 200
+2025-07-11 15:17:53,153 - ERROR - Could not decode JSON: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:17:53,154 - ERROR - Response text: <!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.C0BAuEbG.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/BnB4aFIa.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.Vp3O4dG5.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/videos.Dhsni9K3.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Chta6iX7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CL1Nde-w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ChtO37lb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DlAUqK2U.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D0Jvzv4l.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CrRD9hTU.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D28zMICP.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C1
+2025-07-11 15:17:53,156 - WARNING - No artifacts found or accessible for project RDDLDEMO.
+2025-07-11 15:17:53,156 - INFO - 
+=== Checking project: LAILA ===
+2025-07-11 15:17:53,158 - INFO - Trying GET https://rd-datalake.icp.infineon.com/api/v1/projects/LAILA/artifacts/metadata with params: {'pageSize': 100, 'pageNumber': 0}
+2025-07-11 15:17:53,234 - INFO - Status code: 403
+2025-07-11 15:17:53,234 - ERROR - Failed to get artifacts. Status code: 403
+2025-07-11 15:17:53,235 - ERROR - Response text: {"type":"Forbidden","message":"You are lacking the required rights to access this resource.","messageId":"FOUYOHNvpeUn7tS1mLSUC6PDr1y2xbVt"}
+
+2025-07-11 15:17:53,235 - INFO - Trying GET https://rd-datalake.icp.infineon.com/api/v1/projects/LAILA/artifacts/metadata with params: {}
+2025-07-11 15:17:53,333 - INFO - Status code: 403
+2025-07-11 15:17:53,333 - ERROR - Failed to get artifacts. Status code: 403
+2025-07-11 15:17:53,334 - ERROR - Response text: {"type":"Forbidden","message":"You are lacking the required rights to access this resource.","messageId":"4f3w0KnT6HTF25rRYNXUYPNLVMhej5Y6"}
+
+2025-07-11 15:17:53,334 - INFO - Trying GET https://rd-datalake.icp.infineon.com/api/v1/projects/LAILA/artifacts with params: {'pageSize': 100, 'pageNumber': 0}
+2025-07-11 15:17:53,454 - INFO - Status code: 200
+2025-07-11 15:17:53,455 - ERROR - Could not decode JSON: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:17:53,456 - ERROR - Response text: <!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.C0BAuEbG.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/BnB4aFIa.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.Vp3O4dG5.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/videos.Dhsni9K3.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Chta6iX7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CL1Nde-w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ChtO37lb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DlAUqK2U.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D0Jvzv4l.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CrRD9hTU.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D28zMICP.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C1
+2025-07-11 15:17:53,457 - INFO - Trying GET https://rd-datalake.icp.infineon.com/api/v1/projects/LAILA/artifacts with params: {}
+2025-07-11 15:17:53,539 - INFO - Status code: 200
+2025-07-11 15:17:53,541 - ERROR - Could not decode JSON: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:17:53,541 - ERROR - Response text: <!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.C0BAuEbG.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/BnB4aFIa.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.Vp3O4dG5.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/videos.Dhsni9K3.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Chta6iX7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CL1Nde-w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ChtO37lb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DlAUqK2U.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D0Jvzv4l.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CrRD9hTU.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D28zMICP.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C1
+2025-07-11 15:17:53,543 - WARNING - No artifacts found or accessible for project LAILA.
+2025-07-11 15:17:53,543 - INFO - 
+=== Checking project: DEMOVID ===
+2025-07-11 15:17:53,544 - INFO - Trying GET https://rd-datalake.icp.infineon.com/api/v1/projects/DEMOVID/artifacts/metadata with params: {'pageSize': 100, 'pageNumber': 0}
+2025-07-11 15:17:53,628 - INFO - Status code: 403
+2025-07-11 15:17:53,629 - ERROR - Failed to get artifacts. Status code: 403
+2025-07-11 15:17:53,630 - ERROR - Response text: {"type":"Forbidden","message":"You are lacking the required rights to access this resource.","messageId":"1PvjrWgm4xsnaY5rbaaaAadB1SDK8vQW"}
+
+2025-07-11 15:17:53,630 - INFO - Trying GET https://rd-datalake.icp.infineon.com/api/v1/projects/DEMOVID/artifacts/metadata with params: {}
+2025-07-11 15:17:53,715 - INFO - Status code: 403
+2025-07-11 15:17:53,716 - ERROR - Failed to get artifacts. Status code: 403
+2025-07-11 15:17:53,716 - ERROR - Response text: {"type":"Forbidden","message":"You are lacking the required rights to access this resource.","messageId":"PiKKOfIvegYDNnwrZV7VrVAVX6ntWprp"}
+
+2025-07-11 15:17:53,717 - INFO - Trying GET https://rd-datalake.icp.infineon.com/api/v1/projects/DEMOVID/artifacts with params: {'pageSize': 100, 'pageNumber': 0}
+2025-07-11 15:17:53,795 - INFO - Status code: 200
+2025-07-11 15:17:53,797 - ERROR - Could not decode JSON: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:17:53,798 - ERROR - Response text: <!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.C0BAuEbG.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/BnB4aFIa.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.Vp3O4dG5.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/videos.Dhsni9K3.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Chta6iX7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CL1Nde-w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ChtO37lb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DlAUqK2U.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D0Jvzv4l.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CrRD9hTU.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D28zMICP.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C1
+2025-07-11 15:17:53,800 - INFO - Trying GET https://rd-datalake.icp.infineon.com/api/v1/projects/DEMOVID/artifacts with params: {}
+2025-07-11 15:17:53,900 - INFO - Status code: 200
+2025-07-11 15:17:53,901 - ERROR - Could not decode JSON: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:17:53,901 - ERROR - Response text: <!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.C0BAuEbG.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/BnB4aFIa.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.Vp3O4dG5.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/videos.Dhsni9K3.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Chta6iX7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CL1Nde-w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ChtO37lb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DlAUqK2U.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D0Jvzv4l.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CrRD9hTU.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D28zMICP.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C1
+2025-07-11 15:17:53,902 - WARNING - No artifacts found or accessible for project DEMOVID.
+2025-07-11 15:17:53,902 - INFO - 
+=== Checking project: IMAGIMOB ===
+2025-07-11 15:17:53,903 - INFO - Trying GET https://rd-datalake.icp.infineon.com/api/v1/projects/IMAGIMOB/artifacts/metadata with params: {'pageSize': 100, 'pageNumber': 0}
+2025-07-11 15:17:54,002 - INFO - Status code: 403
+2025-07-11 15:17:54,002 - ERROR - Failed to get artifacts. Status code: 403
+2025-07-11 15:17:54,003 - ERROR - Response text: {"type":"Forbidden","message":"You are lacking the required rights to access this resource.","messageId":"WevLUKYUa7VIBtevDe9ii0Ja1h9kT8ou"}
+
+2025-07-11 15:17:54,003 - INFO - Trying GET https://rd-datalake.icp.infineon.com/api/v1/projects/IMAGIMOB/artifacts/metadata with params: {}
+2025-07-11 15:17:54,081 - INFO - Status code: 403
+2025-07-11 15:17:54,082 - ERROR - Failed to get artifacts. Status code: 403
+2025-07-11 15:17:54,082 - ERROR - Response text: {"type":"Forbidden","message":"You are lacking the required rights to access this resource.","messageId":"zdCYOAMzK5ayuTZPHg1rc59cIHxBiymX"}
+
+2025-07-11 15:17:54,083 - INFO - Trying GET https://rd-datalake.icp.infineon.com/api/v1/projects/IMAGIMOB/artifacts with params: {'pageSize': 100, 'pageNumber': 0}
+2025-07-11 15:17:54,183 - INFO - Status code: 200
+2025-07-11 15:17:54,184 - ERROR - Could not decode JSON: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:17:54,184 - ERROR - Response text: <!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.C0BAuEbG.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/BnB4aFIa.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.Vp3O4dG5.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/videos.Dhsni9K3.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Chta6iX7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CL1Nde-w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ChtO37lb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DlAUqK2U.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D0Jvzv4l.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CrRD9hTU.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D28zMICP.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C1
+2025-07-11 15:17:54,185 - INFO - Trying GET https://rd-datalake.icp.infineon.com/api/v1/projects/IMAGIMOB/artifacts with params: {}
+2025-07-11 15:17:54,289 - INFO - Status code: 200
+2025-07-11 15:17:54,290 - ERROR - Could not decode JSON: Expecting value: line 1 column 1 (char 0)
+2025-07-11 15:17:54,290 - ERROR - Response text: <!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.C0BAuEbG.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/BnB4aFIa.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.Vp3O4dG5.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/videos.Dhsni9K3.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Chta6iX7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CL1Nde-w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ChtO37lb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DlAUqK2U.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D0Jvzv4l.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CrRD9hTU.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D28zMICP.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C1
+2025-07-11 15:17:54,291 - WARNING - No artifacts found or accessible for project IMAGIMOB.
+2025-07-11 15:17:54,292 - INFO - Total time: 2.4 seconds
+2025-07-11 15:22:48,494 - INFO - === RDDL Data Downloader ===
+2025-07-11 15:22:48,495 - INFO - 
+=== Checking project: PWRLIB72 ===
+2025-07-11 15:22:48,497 - INFO - GET https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/metadata with params: {'pageSize': 100, 'pageNumber': 1}
+2025-07-11 15:22:48,725 - INFO - Status code: 400
+2025-07-11 15:22:48,726 - ERROR - Failed to get artifacts. Status code: 400
+2025-07-11 15:22:48,726 - ERROR - Response text: {"type":"BadRequest","message":"the provided page size exceeds the page size limit of 25","messageId":"sLEydALPe468FlPMu8DSAz1DVAWRROm9"}
+
+2025-07-11 15:22:48,727 - WARNING - No artifacts found or accessible for project PWRLIB72.
+2025-07-11 15:22:48,728 - INFO - 
+=== Checking project: TTI-9 ===
+2025-07-11 15:22:48,729 - INFO - GET https://rd-datalake.icp.infineon.com/api/v1/projects/TTI-9/artifacts/metadata with params: {'pageSize': 100, 'pageNumber': 1}
+2025-07-11 15:22:48,807 - INFO - Status code: 404
+2025-07-11 15:22:48,808 - ERROR - Failed to get artifacts. Status code: 404
+2025-07-11 15:22:48,809 - ERROR - Response text: {"type":"ResourceNotFound","message":"The project 'TTI-9' could not be found.","messageId":"x08zFcqOFKpR31c0F5vNLrkoeuYc1bJs"}
+
+2025-07-11 15:22:48,810 - WARNING - No artifacts found or accessible for project TTI-9.
+2025-07-11 15:22:48,810 - INFO - 
+=== Checking project: RDDLDEMO ===
+2025-07-11 15:22:48,811 - INFO - GET https://rd-datalake.icp.infineon.com/api/v1/projects/RDDLDEMO/artifacts/metadata with params: {'pageSize': 100, 'pageNumber': 1}
+2025-07-11 15:22:48,900 - INFO - Status code: 403
+2025-07-11 15:22:48,901 - ERROR - Failed to get artifacts. Status code: 403
+2025-07-11 15:22:48,901 - ERROR - Response text: {"type":"Forbidden","message":"You are lacking the required rights to access this resource.","messageId":"qtB5EZ0qDDP4O3dIYwK7sZBlOdHNU2DY"}
+
+2025-07-11 15:22:48,902 - WARNING - No artifacts found or accessible for project RDDLDEMO.
+2025-07-11 15:22:48,903 - INFO - 
+=== Checking project: LAILA ===
+2025-07-11 15:22:48,904 - INFO - GET https://rd-datalake.icp.infineon.com/api/v1/projects/LAILA/artifacts/metadata with params: {'pageSize': 100, 'pageNumber': 1}
+2025-07-11 15:22:48,988 - INFO - Status code: 403
+2025-07-11 15:22:48,989 - ERROR - Failed to get artifacts. Status code: 403
+2025-07-11 15:22:48,989 - ERROR - Response text: {"type":"Forbidden","message":"You are lacking the required rights to access this resource.","messageId":"DZcxeAQMS4k4JJf0x42mR8iPiGlcTqEW"}
+
+2025-07-11 15:22:48,990 - WARNING - No artifacts found or accessible for project LAILA.
+2025-07-11 15:22:48,990 - INFO - 
+=== Checking project: DEMOVID ===
+2025-07-11 15:22:48,991 - INFO - GET https://rd-datalake.icp.infineon.com/api/v1/projects/DEMOVID/artifacts/metadata with params: {'pageSize': 100, 'pageNumber': 1}
+2025-07-11 15:22:49,074 - INFO - Status code: 403
+2025-07-11 15:22:49,076 - ERROR - Failed to get artifacts. Status code: 403
+2025-07-11 15:22:49,076 - ERROR - Response text: {"type":"Forbidden","message":"You are lacking the required rights to access this resource.","messageId":"pxFr5LhiBLbDPQ88sXKWJDXDL6vADHBN"}
+
+2025-07-11 15:22:49,077 - WARNING - No artifacts found or accessible for project DEMOVID.
+2025-07-11 15:22:49,078 - INFO - 
+=== Checking project: IMAGIMOB ===
+2025-07-11 15:22:49,079 - INFO - GET https://rd-datalake.icp.infineon.com/api/v1/projects/IMAGIMOB/artifacts/metadata with params: {'pageSize': 100, 'pageNumber': 1}
+2025-07-11 15:22:49,182 - INFO - Status code: 403
+2025-07-11 15:22:49,183 - ERROR - Failed to get artifacts. Status code: 403
+2025-07-11 15:22:49,183 - ERROR - Response text: {"type":"Forbidden","message":"You are lacking the required rights to access this resource.","messageId":"fMbmVl58Inf679cJAGeGf5z3Umbtmxkg"}
+
+2025-07-11 15:22:49,184 - WARNING - No artifacts found or accessible for project IMAGIMOB.
+2025-07-11 15:22:49,184 - INFO - Total time: 0.7 seconds
+2025-07-11 15:33:56,654 - INFO - === RDDL Data Downloader ===
+2025-07-11 15:33:56,655 - INFO - 
+=== Checking project: PWRLIB72 ===
+2025-07-11 15:33:56,656 - INFO - GET https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/metadata with params: {'pageSize': 25, 'pageNumber': 1}
+2025-07-11 15:33:56,905 - INFO - Status code: 200
+2025-07-11 15:33:56,906 - INFO - Found 0 artifacts on page 1.
+2025-07-11 15:33:56,907 - INFO - Total artifacts found: 0
+2025-07-11 15:33:56,908 - WARNING - No artifacts found or accessible for project PWRLIB72.
+2025-07-11 15:33:56,908 - INFO - 
+=== Checking project: TTI-9 ===
+2025-07-11 15:33:56,910 - INFO - GET https://rd-datalake.icp.infineon.com/api/v1/projects/TTI-9/artifacts/metadata with params: {'pageSize': 25, 'pageNumber': 1}
+2025-07-11 15:33:56,995 - INFO - Status code: 404
+2025-07-11 15:33:56,996 - ERROR - Failed to get artifacts. Status code: 404
+2025-07-11 15:33:56,997 - ERROR - Response text: {"type":"ResourceNotFound","message":"The project 'TTI-9' could not be found.","messageId":"Mmk1z73KgvGeBEOMvGNBPyLGSC5Olpnu"}
+
+2025-07-11 15:33:56,997 - INFO - Total artifacts found: 0
+2025-07-11 15:33:56,998 - WARNING - No artifacts found or accessible for project TTI-9.
+2025-07-11 15:33:56,998 - INFO - 
+=== Checking project: RDDLDEMO ===
+2025-07-11 15:33:56,999 - INFO - GET https://rd-datalake.icp.infineon.com/api/v1/projects/RDDLDEMO/artifacts/metadata with params: {'pageSize': 25, 'pageNumber': 1}
+2025-07-11 15:33:57,103 - INFO - Status code: 403
+2025-07-11 15:33:57,104 - ERROR - Failed to get artifacts. Status code: 403
+2025-07-11 15:33:57,104 - ERROR - Response text: {"type":"Forbidden","message":"You are lacking the required rights to access this resource.","messageId":"wYYi7gBbMg3mlp7kHhYbNKnsnvGxwSvk"}
+
+2025-07-11 15:33:57,105 - INFO - Total artifacts found: 0
+2025-07-11 15:33:57,106 - WARNING - No artifacts found or accessible for project RDDLDEMO.
+2025-07-11 15:33:57,108 - INFO - 
+=== Checking project: LAILA ===
+2025-07-11 15:33:57,109 - INFO - GET https://rd-datalake.icp.infineon.com/api/v1/projects/LAILA/artifacts/metadata with params: {'pageSize': 25, 'pageNumber': 1}
+2025-07-11 15:33:57,230 - INFO - Status code: 403
+2025-07-11 15:33:57,231 - ERROR - Failed to get artifacts. Status code: 403
+2025-07-11 15:33:57,232 - ERROR - Response text: {"type":"Forbidden","message":"You are lacking the required rights to access this resource.","messageId":"V0GR7VlOfv8VQB9XYegAvfc9ubRIXBd0"}
+
+2025-07-11 15:33:57,233 - INFO - Total artifacts found: 0
+2025-07-11 15:33:57,234 - WARNING - No artifacts found or accessible for project LAILA.
+2025-07-11 15:33:57,235 - INFO - 
+=== Checking project: DEMOVID ===
+2025-07-11 15:33:57,236 - INFO - GET https://rd-datalake.icp.infineon.com/api/v1/projects/DEMOVID/artifacts/metadata with params: {'pageSize': 25, 'pageNumber': 1}
+2025-07-11 15:33:57,354 - INFO - Status code: 403
+2025-07-11 15:33:57,355 - ERROR - Failed to get artifacts. Status code: 403
+2025-07-11 15:33:57,356 - ERROR - Response text: {"type":"Forbidden","message":"You are lacking the required rights to access this resource.","messageId":"vPEfPJ10o4FX77yFNJoQqWnmUqaHmaD4"}
+
+2025-07-11 15:33:57,357 - INFO - Total artifacts found: 0
+2025-07-11 15:33:57,359 - WARNING - No artifacts found or accessible for project DEMOVID.
+2025-07-11 15:33:57,360 - INFO - 
+=== Checking project: IMAGIMOB ===
+2025-07-11 15:33:57,361 - INFO - GET https://rd-datalake.icp.infineon.com/api/v1/projects/IMAGIMOB/artifacts/metadata with params: {'pageSize': 25, 'pageNumber': 1}
+2025-07-11 15:33:57,479 - INFO - Status code: 403
+2025-07-11 15:33:57,480 - ERROR - Failed to get artifacts. Status code: 403
+2025-07-11 15:33:57,481 - ERROR - Response text: {"type":"Forbidden","message":"You are lacking the required rights to access this resource.","messageId":"lJYt9RBqlDIrEJLyQtOcoVOIBq6CTeNL"}
+
+2025-07-11 15:33:57,482 - INFO - Total artifacts found: 0
+2025-07-11 15:33:57,483 - WARNING - No artifacts found or accessible for project IMAGIMOB.
+2025-07-11 15:33:57,483 - INFO - Total time: 0.8 seconds
+2025-07-14 15:02:46,846 - INFO - === RDDL Data Discovery Scanner ===
+2025-07-14 15:02:46,847 - INFO - Testing 1 project keys from your applications
+2025-07-14 15:02:46,847 - INFO - 
+=== [1/1] Testing project: PWRLIB72 (R&D Data Lake) ===
+2025-07-14 15:02:46,848 - INFO - GET https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/metadata with params: {'pageSize': 25, 'pageNumber': 1}
+2025-07-14 15:02:47,036 - INFO - Status code: 200
+2025-07-14 15:02:47,037 - INFO - Found 0 artifacts on page 1.
+2025-07-14 15:02:47,037 - INFO - Total artifacts found: 0
+2025-07-14 15:02:47,127 - WARNING - No artifacts found for accessible project PWRLIB72 (status: 200)
+2025-07-14 15:02:47,130 - INFO - Saved project access report to data/rddl_downloads\project_access_report.json
+2025-07-14 15:02:47,130 - INFO - 
+=== SCAN COMPLETE ===
+2025-07-14 15:02:47,130 - INFO - Total time: 0.3 seconds
+2025-07-14 15:02:47,131 - INFO - Projects with data: 0
+2025-07-14 15:02:47,131 - INFO - Accessible but empty: 1
+2025-07-14 15:02:47,131 - INFO - Forbidden (403): 0
+2025-07-14 15:02:47,131 - INFO - Not found (404): 0
+2025-07-14 15:02:47,131 - INFO - 
+Projects with data access:
+2025-07-14 15:02:47,132 - INFO - 
+Detailed report saved to: data/rddl_downloads\project_access_report.json
+2025-07-14 15:03:07,788 - INFO - === RDDL Data Discovery Scanner ===
+2025-07-14 15:03:07,788 - INFO - Testing 1 project keys from your applications
+2025-07-14 15:03:07,789 - INFO - 
+=== [1/1] Testing project: PWRLIB72 (R&D Data Lake) ===
+2025-07-14 15:03:07,789 - INFO - GET https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/metadata with params: {'pageSize': 25, 'pageNumber': 1}
+2025-07-14 15:03:07,964 - INFO - Status code: 200
+2025-07-14 15:03:07,964 - INFO - Raw API response: {
+  "data": [
+    {
+      "artifactID": "e1c5bd2f9ccd40f08fc74321300955b3",
+      "dateCreated": "2025-07-14T13:02:15.986013925Z",
+      "description": "Auto-uploaded log file test_fb_filter_3p3z.log",
+      "rawDataFile": {
+        "contentType": "application/octet-stream",
+        "fileName": "test_fb_filter_3p3z.log",
+        "fileSize": 1384,
+        "masterSite": "MUC",
+        "md5": "6c9e9adcd51531fe6a1b45124651dd96",
+        "path": "rddl/e1c5bd2f9ccd40f08fc74321300955b3"
+      },
+      ...
+2025-07-14 15:03:07,965 - INFO - Found 0 artifacts on page 1. Total count: 0
+2025-07-14 15:03:07,965 - INFO - Total artifacts found: 0
+2025-07-14 15:03:08,044 - WARNING - No artifacts found for accessible project PWRLIB72 (status: 200)
+2025-07-14 15:03:08,047 - INFO - Saved project access report to data/rddl_downloads\project_access_report.json
+2025-07-14 15:03:08,047 - INFO - 
+=== SCAN COMPLETE ===
+2025-07-14 15:03:08,048 - INFO - Total time: 0.3 seconds
+2025-07-14 15:03:08,048 - INFO - Projects with data: 0
+2025-07-14 15:03:08,048 - INFO - Accessible but empty: 1
+2025-07-14 15:03:08,048 - INFO - Forbidden (403): 0
+2025-07-14 15:03:08,049 - INFO - Not found (404): 0
+2025-07-14 15:03:08,049 - INFO - 
+Projects with data access:
+2025-07-14 15:03:08,049 - INFO - 
+Detailed report saved to: data/rddl_downloads\project_access_report.json
+2025-07-14 15:03:35,418 - INFO - === RDDL Data Discovery Scanner ===
+2025-07-14 15:03:35,419 - INFO - Testing 1 project keys from your applications
+2025-07-14 15:03:35,419 - INFO - 
+=== [1/1] Testing project: PWRLIB72 (R&D Data Lake) ===
+2025-07-14 15:03:35,419 - INFO - GET https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/metadata with params: {'pageSize': 25, 'pageNumber': 1}
+2025-07-14 15:03:35,596 - INFO - Status code: 200
+2025-07-14 15:03:35,597 - INFO - Raw API response: {
+  "data": [
+    {
+      "artifactID": "e1c5bd2f9ccd40f08fc74321300955b3",
+      "dateCreated": "2025-07-14T13:02:15.986013925Z",
+      "description": "Auto-uploaded log file test_fb_filter_3p3z.log",
+      "rawDataFile": {
+        "contentType": "application/octet-stream",
+        "fileName": "test_fb_filter_3p3z.log",
+        "fileSize": 1384,
+        "masterSite": "MUC",
+        "md5": "6c9e9adcd51531fe6a1b45124651dd96",
+        "path": "rddl/e1c5bd2f9ccd40f08fc74321300955b3"
+      },
+      ...
+2025-07-14 15:03:35,598 - INFO - Found 25 artifacts on page 1. Total count: 25
+2025-07-14 15:03:35,598 - INFO - GET https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/metadata with params: {'pageSize': 25, 'pageNumber': 2}
+2025-07-14 15:03:35,694 - INFO - Status code: 200
+2025-07-14 15:03:35,695 - INFO - Raw API response: {
+  "data": [
+    {
+      "artifactID": "7acb153835d4423398b16dd08e291686",
+      "dateCreated": "2025-07-08T12:53:12.078243887Z",
+      "description": "Auto-uploaded log file test_fb_pi_regulator.log",
+      "rawDataFile": {
+        "contentType": "application/octet-stream",
+        "fileName": "test_fb_pi_regulator.log",
+        "fileSize": 1062,
+        "masterSite": "MUC",
+        "md5": "15b4eb605997364f97f17bd371ec0cbb",
+        "path": "rddl/7acb153835d4423398b16dd08e291686"
+      },
+    ...
+2025-07-14 15:03:35,695 - INFO - Found 25 artifacts on page 2. Total count: 25
+2025-07-14 15:03:35,696 - INFO - GET https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/metadata with params: {'pageSize': 25, 'pageNumber': 3}
+2025-07-14 15:03:35,804 - INFO - Status code: 200
+2025-07-14 15:03:35,805 - INFO - Raw API response: {
+  "data": [
+    {
+      "artifactID": "81f3d0ddd16f4ec5bde872ecc9dcd032",
+      "dateCreated": "2025-07-02T21:37:01.340394078Z",
+      "description": "Auto-uploaded log file test_fb_pi_regulator.log",
+      "rawDataFile": {
+        "contentType": "application/octet-stream",
+        "fileName": "test_fb_pi_regulator.log",
+        "fileSize": 1062,
+        "masterSite": "MUC",
+        "md5": "15b4eb605997364f97f17bd371ec0cbb",
+        "path": "rddl/81f3d0ddd16f4ec5bde872ecc9dcd032"
+      },
+    ...
+2025-07-14 15:03:35,806 - INFO - Found 7 artifacts on page 3. Total count: 7
+2025-07-14 15:03:35,806 - INFO - Total artifacts found: 57
+2025-07-14 15:03:35,807 - INFO - SUCCESS! Found 57 artifacts for project PWRLIB72
+2025-07-14 15:03:35,812 - INFO - Saved metadata for 57 artifacts to data/rddl_downloads\PWRLIB72\metadata.json
+2025-07-14 15:03:35,812 - INFO - Processing artifact 1/57: test_fb_filter_3p3z.log
+2025-07-14 15:03:35,813 - INFO - Downloading test_fb_filter_3p3z.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/e1c5bd2f9ccd40f08fc74321300955b3 ...
+2025-07-14 15:03:35,898 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:36,042 - INFO - Saved test_fb_filter_3p3z.log (1.4 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_filter_3p3z.log
+2025-07-14 15:03:36,044 - INFO - Processing artifact 2/57: test_fb_pi_regulator.log
+2025-07-14 15:03:36,045 - INFO - Downloading test_fb_pi_regulator.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/163acd44af3648ba8bbf34bfcf3a8de0 ...
+2025-07-14 15:03:36,143 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:36,294 - INFO - Saved test_fb_pi_regulator.log (1.0 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_pi_regulator.log
+2025-07-14 15:03:36,295 - INFO - Processing artifact 3/57: gcovr.log
+2025-07-14 15:03:36,296 - INFO - Downloading gcovr.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/211d9ef12a7749ec84484ae733298045 ...
+2025-07-14 15:03:36,403 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:36,667 - INFO - Saved gcovr.log (0.7 KB) to data/rddl_downloads\PWRLIB72\logs\gcovr.log
+2025-07-14 15:03:36,669 - INFO - Processing artifact 4/57: report.xml
+2025-07-14 15:03:36,670 - INFO - Downloading report.xml (xml) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/54ddc08896ef4127baee35c3a223c598 ...
+2025-07-14 15:03:36,768 - INFO - Artifact verified: text/xml, unknown bytes
+2025-07-14 15:03:36,904 - INFO - Saved report.xml (3.1 KB) to data/rddl_downloads\PWRLIB72\xml\report.xml
+2025-07-14 15:03:36,905 - INFO - Processing artifact 5/57: ceedling.log
+2025-07-14 15:03:36,906 - INFO - Downloading ceedling.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/601c7d1129354fdca01d4c873e3d2c40 ...
+2025-07-14 15:03:36,991 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:37,107 - INFO - Saved ceedling.log (2.2 KB) to data/rddl_downloads\PWRLIB72\logs\ceedling.log
+2025-07-14 15:03:37,108 - INFO - Processing artifact 6/57: test_fb_filter_3p3z.log
+2025-07-14 15:03:37,109 - INFO - Downloading test_fb_filter_3p3z.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/592d5ff78fb444199a2deba9ecec1b78 ...
+2025-07-14 15:03:37,209 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:37,360 - INFO - Saved test_fb_filter_3p3z.log (1.4 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_filter_3p3z.log
+2025-07-14 15:03:37,362 - INFO - Processing artifact 7/57: test_fb_pi_regulator.log
+2025-07-14 15:03:37,363 - INFO - Downloading test_fb_pi_regulator.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/1db75bdc1e554e67a99d7b9a154bac17 ...
+2025-07-14 15:03:37,468 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:37,771 - INFO - Saved test_fb_pi_regulator.log (1.0 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_pi_regulator.log
+2025-07-14 15:03:37,772 - INFO - Processing artifact 8/57: report.xml
+2025-07-14 15:03:37,772 - INFO - Downloading report.xml (xml) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/fd9d522edf104fe988b47e98180584d0 ...
+2025-07-14 15:03:37,896 - INFO - Artifact verified: text/xml, unknown bytes
+2025-07-14 15:03:38,024 - INFO - Saved report.xml (3.1 KB) to data/rddl_downloads\PWRLIB72\xml\report.xml
+2025-07-14 15:03:38,025 - INFO - Processing artifact 9/57: ceedling.log
+2025-07-14 15:03:38,026 - INFO - Downloading ceedling.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/bd427c9869224bac8cfa0ef0f04032e2 ...
+2025-07-14 15:03:38,119 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:38,275 - INFO - Saved ceedling.log (2.2 KB) to data/rddl_downloads\PWRLIB72\logs\ceedling.log
+2025-07-14 15:03:38,276 - INFO - Processing artifact 10/57: gcovr.log
+2025-07-14 15:03:38,277 - INFO - Downloading gcovr.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/2899fdad193e42a1bf30754f00b3ea3a ...
+2025-07-14 15:03:38,376 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:38,512 - INFO - Saved gcovr.log (0.7 KB) to data/rddl_downloads\PWRLIB72\logs\gcovr.log
+2025-07-14 15:03:38,513 - INFO - Processing artifact 11/57: gcovr.log
+2025-07-14 15:03:38,514 - INFO - Downloading gcovr.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/11a5cf111f8e4a5a8ac5486ff85b960a ...
+2025-07-14 15:03:38,611 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:38,748 - INFO - Saved gcovr.log (0.7 KB) to data/rddl_downloads\PWRLIB72\logs\gcovr.log
+2025-07-14 15:03:38,748 - INFO - Processing artifact 12/57: report.xml
+2025-07-14 15:03:38,749 - INFO - Downloading report.xml (xml) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/a8619885e90c4242839c05195634d6c9 ...
+2025-07-14 15:03:38,847 - INFO - Artifact verified: text/xml, unknown bytes
+2025-07-14 15:03:39,205 - INFO - Saved report.xml (3.1 KB) to data/rddl_downloads\PWRLIB72\xml\report.xml
+2025-07-14 15:03:39,206 - INFO - Processing artifact 13/57: test_fb_filter_3p3z.log
+2025-07-14 15:03:39,207 - INFO - Downloading test_fb_filter_3p3z.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/3632fa57ebed4c388f28eeb9889f3895 ...
+2025-07-14 15:03:39,293 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:39,403 - INFO - Saved test_fb_filter_3p3z.log (1.4 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_filter_3p3z.log
+2025-07-14 15:03:39,404 - INFO - Processing artifact 14/57: test_fb_pi_regulator.log
+2025-07-14 15:03:39,404 - INFO - Downloading test_fb_pi_regulator.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/6b21be3c6e0146d1b1bb827bc016dd1c ...
+2025-07-14 15:03:39,485 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:39,642 - INFO - Saved test_fb_pi_regulator.log (1.0 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_pi_regulator.log
+2025-07-14 15:03:39,643 - INFO - Processing artifact 15/57: ceedling.log
+2025-07-14 15:03:39,643 - INFO - Downloading ceedling.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/df139c46b09544919b5ff98550093fdb ...
+2025-07-14 15:03:39,747 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:39,911 - INFO - Saved ceedling.log (2.2 KB) to data/rddl_downloads\PWRLIB72\logs\ceedling.log
+2025-07-14 15:03:39,912 - INFO - Processing artifact 16/57: test_fb_pi_regulator.log
+2025-07-14 15:03:39,913 - INFO - Downloading test_fb_pi_regulator.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/4d97ee72484f4fd3a0f2e26c021b087c ...
+2025-07-14 15:03:39,989 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:40,205 - INFO - Saved test_fb_pi_regulator.log (1.0 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_pi_regulator.log
+2025-07-14 15:03:40,206 - INFO - Processing artifact 17/57: test_fb_filter_3p3z.log
+2025-07-14 15:03:40,207 - INFO - Downloading test_fb_filter_3p3z.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/983547c84bb84c0ba18c1342544f149a ...
+2025-07-14 15:03:40,305 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:40,445 - INFO - Saved test_fb_filter_3p3z.log (1.4 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_filter_3p3z.log
+2025-07-14 15:03:40,446 - INFO - Processing artifact 18/57: gcovr.log
+2025-07-14 15:03:40,447 - INFO - Downloading gcovr.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/b4c6fd30217d4c63b58a589bde735ec5 ...
+2025-07-14 15:03:40,530 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:40,638 - INFO - Saved gcovr.log (0.7 KB) to data/rddl_downloads\PWRLIB72\logs\gcovr.log
+2025-07-14 15:03:40,639 - INFO - Processing artifact 19/57: report.xml
+2025-07-14 15:03:40,640 - INFO - Downloading report.xml (xml) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/134204a76ce74106ae8f1ff369ca3126 ...
+2025-07-14 15:03:40,734 - INFO - Artifact verified: text/xml, unknown bytes
+2025-07-14 15:03:40,861 - INFO - Saved report.xml (3.1 KB) to data/rddl_downloads\PWRLIB72\xml\report.xml
+2025-07-14 15:03:40,862 - INFO - Processing artifact 20/57: ceedling.log
+2025-07-14 15:03:40,862 - INFO - Downloading ceedling.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/8e6b618ccb0142a0a2f908f6432837da ...
+2025-07-14 15:03:40,943 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:41,061 - INFO - Saved ceedling.log (2.2 KB) to data/rddl_downloads\PWRLIB72\logs\ceedling.log
+2025-07-14 15:03:41,062 - INFO - Processing artifact 21/57: test_fb_pi_regulator.log
+2025-07-14 15:03:41,063 - INFO - Downloading test_fb_pi_regulator.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/20153d131eec4153a5ee28374cc7aa5e ...
+2025-07-14 15:03:41,153 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:41,276 - INFO - Saved test_fb_pi_regulator.log (1.0 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_pi_regulator.log
+2025-07-14 15:03:41,277 - INFO - Processing artifact 22/57: test_fb_filter_3p3z.log
+2025-07-14 15:03:41,278 - INFO - Downloading test_fb_filter_3p3z.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/970408eae7b44a9ebf74c2c5caf29707 ...
+2025-07-14 15:03:41,355 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:41,500 - INFO - Saved test_fb_filter_3p3z.log (1.4 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_filter_3p3z.log
+2025-07-14 15:03:41,500 - INFO - Processing artifact 23/57: gcovr.log
+2025-07-14 15:03:41,501 - INFO - Downloading gcovr.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/92ab963af88e45ba9362c73b00fac90d ...
+2025-07-14 15:03:41,594 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:41,705 - INFO - Saved gcovr.log (0.7 KB) to data/rddl_downloads\PWRLIB72\logs\gcovr.log
+2025-07-14 15:03:41,707 - INFO - Processing artifact 24/57: report.xml
+2025-07-14 15:03:41,708 - INFO - Downloading report.xml (xml) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/6a575455e0564b83862810d05a4d27d1 ...
+2025-07-14 15:03:41,788 - INFO - Artifact verified: text/xml, unknown bytes
+2025-07-14 15:03:41,930 - INFO - Saved report.xml (3.1 KB) to data/rddl_downloads\PWRLIB72\xml\report.xml
+2025-07-14 15:03:41,930 - INFO - Processing artifact 25/57: ceedling.log
+2025-07-14 15:03:41,931 - INFO - Downloading ceedling.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/73a898709339407e93bd6e307deafe93 ...
+2025-07-14 15:03:42,035 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:42,192 - INFO - Saved ceedling.log (2.2 KB) to data/rddl_downloads\PWRLIB72\logs\ceedling.log
+2025-07-14 15:03:42,193 - INFO - Processing artifact 26/57: test_fb_pi_regulator.log
+2025-07-14 15:03:42,194 - INFO - Downloading test_fb_pi_regulator.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/7acb153835d4423398b16dd08e291686 ...
+2025-07-14 15:03:42,293 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:42,509 - INFO - Saved test_fb_pi_regulator.log (1.0 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_pi_regulator.log
+2025-07-14 15:03:42,511 - INFO - Processing artifact 27/57: test_fb_filter_3p3z.log
+2025-07-14 15:03:42,511 - INFO - Downloading test_fb_filter_3p3z.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/0dd46de49cac4a3c840ae58da598fdb6 ...
+2025-07-14 15:03:42,609 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:42,802 - INFO - Saved test_fb_filter_3p3z.log (1.4 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_filter_3p3z.log
+2025-07-14 15:03:42,804 - INFO - Processing artifact 28/57: report.xml
+2025-07-14 15:03:42,805 - INFO - Downloading report.xml (xml) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/4ab8f0329d6a490985549989709e6308 ...
+2025-07-14 15:03:42,943 - INFO - Artifact verified: text/xml, unknown bytes
+2025-07-14 15:03:43,090 - INFO - Saved report.xml (3.1 KB) to data/rddl_downloads\PWRLIB72\xml\report.xml
+2025-07-14 15:03:43,091 - INFO - Processing artifact 29/57: gcovr.log
+2025-07-14 15:03:43,092 - INFO - Downloading gcovr.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/b9f634e9bec042e3b5d28f4dbcf3e120 ...
+2025-07-14 15:03:43,211 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:43,387 - INFO - Saved gcovr.log (0.7 KB) to data/rddl_downloads\PWRLIB72\logs\gcovr.log
+2025-07-14 15:03:43,388 - INFO - Processing artifact 30/57: ceedling.log
+2025-07-14 15:03:43,388 - INFO - Downloading ceedling.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/16a3790c2c59466aaea1a0e9055e13be ...
+2025-07-14 15:03:43,473 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:43,636 - INFO - Saved ceedling.log (2.2 KB) to data/rddl_downloads\PWRLIB72\logs\ceedling.log
+2025-07-14 15:03:43,637 - INFO - Processing artifact 31/57: test_fb_pi_regulator.log
+2025-07-14 15:03:43,638 - INFO - Downloading test_fb_pi_regulator.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/2191b63022aa44d3932c7f2311875658 ...
+2025-07-14 15:03:43,733 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:43,859 - INFO - Saved test_fb_pi_regulator.log (1.0 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_pi_regulator.log
+2025-07-14 15:03:43,860 - INFO - Processing artifact 32/57: test_fb_filter_3p3z.log
+2025-07-14 15:03:43,860 - INFO - Downloading test_fb_filter_3p3z.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/1b82943135e44a80878fb09a358ce80b ...
+2025-07-14 15:03:43,949 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:44,079 - INFO - Saved test_fb_filter_3p3z.log (1.4 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_filter_3p3z.log
+2025-07-14 15:03:44,081 - INFO - Processing artifact 33/57: ceedling.log
+2025-07-14 15:03:44,083 - INFO - Downloading ceedling.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/aa6d5ee1a6b146d28538431a1ac60377 ...
+2025-07-14 15:03:44,175 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:44,329 - INFO - Saved ceedling.log (2.2 KB) to data/rddl_downloads\PWRLIB72\logs\ceedling.log
+2025-07-14 15:03:44,330 - INFO - Processing artifact 34/57: gcovr.log
+2025-07-14 15:03:44,330 - INFO - Downloading gcovr.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/58295fd4c1134a6a82765df9686108a1 ...
+2025-07-14 15:03:44,413 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:44,587 - INFO - Saved gcovr.log (0.7 KB) to data/rddl_downloads\PWRLIB72\logs\gcovr.log
+2025-07-14 15:03:44,588 - INFO - Processing artifact 35/57: report.xml
+2025-07-14 15:03:44,588 - INFO - Downloading report.xml (xml) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/314dfce05f6244aeb68f7a61354e9e6e ...
+2025-07-14 15:03:44,692 - INFO - Artifact verified: text/xml, unknown bytes
+2025-07-14 15:03:44,902 - INFO - Saved report.xml (3.1 KB) to data/rddl_downloads\PWRLIB72\xml\report.xml
+2025-07-14 15:03:44,903 - INFO - Processing artifact 36/57: test_fb_pi_regulator.log
+2025-07-14 15:03:44,904 - INFO - Downloading test_fb_pi_regulator.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/8dbe0915c695449db91c2d4e5762ebc0 ...
+2025-07-14 15:03:44,987 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:45,092 - INFO - Saved test_fb_pi_regulator.log (1.0 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_pi_regulator.log
+2025-07-14 15:03:45,094 - INFO - Processing artifact 37/57: test_fb_filter_3p3z.log
+2025-07-14 15:03:45,094 - INFO - Downloading test_fb_filter_3p3z.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/669003301d714d118ce0575fa0ff5e01 ...
+2025-07-14 15:03:45,168 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:45,291 - INFO - Saved test_fb_filter_3p3z.log (1.4 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_filter_3p3z.log
+2025-07-14 15:03:45,293 - INFO - Processing artifact 38/57: report.xml
+2025-07-14 15:03:45,293 - INFO - Downloading report.xml (xml) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/91ba1eb88eb94511ad6a2c3ea76d52c2 ...
+2025-07-14 15:03:45,392 - INFO - Artifact verified: text/xml, unknown bytes
+2025-07-14 15:03:45,532 - INFO - Saved report.xml (3.1 KB) to data/rddl_downloads\PWRLIB72\xml\report.xml
+2025-07-14 15:03:45,533 - INFO - Processing artifact 39/57: gcovr.log
+2025-07-14 15:03:45,533 - INFO - Downloading gcovr.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/cd7f38d31c564253940fbade972c6da6 ...
+2025-07-14 15:03:45,629 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:45,780 - INFO - Saved gcovr.log (0.7 KB) to data/rddl_downloads\PWRLIB72\logs\gcovr.log
+2025-07-14 15:03:45,780 - INFO - Processing artifact 40/57: ceedling.log
+2025-07-14 15:03:45,781 - INFO - Downloading ceedling.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/9f1ff32df7d84f94adb398707fd9f07f ...
+2025-07-14 15:03:45,882 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:46,049 - INFO - Saved ceedling.log (2.2 KB) to data/rddl_downloads\PWRLIB72\logs\ceedling.log
+2025-07-14 15:03:46,050 - INFO - Processing artifact 41/57: test_fb_pi_regulator.log
+2025-07-14 15:03:46,051 - INFO - Downloading test_fb_pi_regulator.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/9993c18d7dcf40b5a0bc79ce1e551b60 ...
+2025-07-14 15:03:46,147 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:46,269 - INFO - Saved test_fb_pi_regulator.log (1.0 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_pi_regulator.log
+2025-07-14 15:03:46,269 - INFO - Processing artifact 42/57: test_fb_filter_3p3z.log
+2025-07-14 15:03:46,270 - INFO - Downloading test_fb_filter_3p3z.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/26ba37c1924f4ba5a089b33b64082744 ...
+2025-07-14 15:03:46,353 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:46,506 - INFO - Saved test_fb_filter_3p3z.log (1.4 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_filter_3p3z.log
+2025-07-14 15:03:46,507 - INFO - Processing artifact 43/57: report.xml
+2025-07-14 15:03:46,508 - INFO - Downloading report.xml (xml) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/57ea1b57cb5a4358bb30dba2d968c553 ...
+2025-07-14 15:03:46,594 - INFO - Artifact verified: text/xml, unknown bytes
+2025-07-14 15:03:46,722 - INFO - Saved report.xml (3.1 KB) to data/rddl_downloads\PWRLIB72\xml\report.xml
+2025-07-14 15:03:46,723 - INFO - Processing artifact 44/57: gcovr.log
+2025-07-14 15:03:46,724 - INFO - Downloading gcovr.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/c8dfb274c438457d8c5112f93bbf1e4d ...
+2025-07-14 15:03:46,838 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:46,961 - INFO - Saved gcovr.log (0.7 KB) to data/rddl_downloads\PWRLIB72\logs\gcovr.log
+2025-07-14 15:03:46,962 - INFO - Processing artifact 45/57: ceedling.log
+2025-07-14 15:03:46,963 - INFO - Downloading ceedling.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/27e6405e25164ca5aa117272681de8d3 ...
+2025-07-14 15:03:47,058 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:47,229 - INFO - Saved ceedling.log (2.2 KB) to data/rddl_downloads\PWRLIB72\logs\ceedling.log
+2025-07-14 15:03:47,229 - INFO - Processing artifact 46/57: test_fb_pi_regulator.log
+2025-07-14 15:03:47,230 - INFO - Downloading test_fb_pi_regulator.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/c78ba89bfa6a455084f1c365d99cf2bc ...
+2025-07-14 15:03:47,318 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:47,437 - INFO - Saved test_fb_pi_regulator.log (1.0 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_pi_regulator.log
+2025-07-14 15:03:47,438 - INFO - Processing artifact 47/57: test_fb_filter_3p3z.log
+2025-07-14 15:03:47,439 - INFO - Downloading test_fb_filter_3p3z.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/56ed6c1500814a6d9c800f40140d42cb ...
+2025-07-14 15:03:47,609 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:47,740 - INFO - Saved test_fb_filter_3p3z.log (1.4 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_filter_3p3z.log
+2025-07-14 15:03:47,741 - INFO - Processing artifact 48/57: gcovr.log
+2025-07-14 15:03:47,742 - INFO - Downloading gcovr.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/44fbc77154ee48ca87c70d59c88395dd ...
+2025-07-14 15:03:47,828 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:48,078 - INFO - Saved gcovr.log (0.7 KB) to data/rddl_downloads\PWRLIB72\logs\gcovr.log
+2025-07-14 15:03:48,079 - INFO - Processing artifact 49/57: report.xml
+2025-07-14 15:03:48,080 - INFO - Downloading report.xml (xml) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/8ac714af0d294c84a2de68744f4e9f9c ...
+2025-07-14 15:03:48,187 - INFO - Artifact verified: text/xml, unknown bytes
+2025-07-14 15:03:48,329 - INFO - Saved report.xml (3.1 KB) to data/rddl_downloads\PWRLIB72\xml\report.xml
+2025-07-14 15:03:48,330 - INFO - Processing artifact 50/57: ceedling.log
+2025-07-14 15:03:48,330 - INFO - Downloading ceedling.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/9152dbd12fa343fa97c2fe686d212dc3 ...
+2025-07-14 15:03:48,443 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:48,829 - INFO - Saved ceedling.log (2.2 KB) to data/rddl_downloads\PWRLIB72\logs\ceedling.log
+2025-07-14 15:03:48,829 - INFO - Processing artifact 51/57: test_fb_pi_regulator.log
+2025-07-14 15:03:48,830 - INFO - Downloading test_fb_pi_regulator.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/81f3d0ddd16f4ec5bde872ecc9dcd032 ...
+2025-07-14 15:03:48,921 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:49,057 - INFO - Saved test_fb_pi_regulator.log (1.0 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_pi_regulator.log
+2025-07-14 15:03:49,058 - INFO - Processing artifact 52/57: test_fb_filter_3p3z.log
+2025-07-14 15:03:49,059 - INFO - Downloading test_fb_filter_3p3z.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/4e7f6f3d93b64a15be4323e47a9070b9 ...
+2025-07-14 15:03:49,146 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:49,413 - INFO - Saved test_fb_filter_3p3z.log (1.4 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_filter_3p3z.log
+2025-07-14 15:03:49,415 - INFO - Processing artifact 53/57: report.xml
+2025-07-14 15:03:49,415 - INFO - Downloading report.xml (xml) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/f711b3bd887e4987a6244313f6bf6d6e ...
+2025-07-14 15:03:49,518 - INFO - Artifact verified: text/xml, unknown bytes
+2025-07-14 15:03:49,669 - INFO - Saved report.xml (3.1 KB) to data/rddl_downloads\PWRLIB72\xml\report.xml
+2025-07-14 15:03:49,670 - INFO - Processing artifact 54/57: ceedling.log
+2025-07-14 15:03:49,671 - INFO - Downloading ceedling.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/70f847c4b65f48c5a0a3ee8886305c40 ...
+2025-07-14 15:03:49,778 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:49,922 - INFO - Saved ceedling.log (2.2 KB) to data/rddl_downloads\PWRLIB72\logs\ceedling.log
+2025-07-14 15:03:49,923 - INFO - Processing artifact 55/57: gcovr.log
+2025-07-14 15:03:49,924 - INFO - Downloading gcovr.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/1985a45a213543189ca05770c70a2fe2 ...
+2025-07-14 15:03:50,018 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:50,148 - INFO - Saved gcovr.log (0.7 KB) to data/rddl_downloads\PWRLIB72\logs\gcovr.log
+2025-07-14 15:03:50,149 - INFO - Processing artifact 56/57: temp_data_file
+2025-07-14 15:03:50,150 - INFO - Downloading temp_data_file (other) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/d497c121d5024235ad4b052c6931dfa3 ...
+2025-07-14 15:03:50,228 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:50,432 - INFO - Saved temp_data_file (1.7 KB) to data/rddl_downloads\PWRLIB72\other\temp_data_file
+2025-07-14 15:03:50,433 - INFO - Processing artifact 57/57: temp_data_file
+2025-07-14 15:03:50,433 - INFO - Downloading temp_data_file (other) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/bfe47f006a4b425781138892a6a0fd86 ...
+2025-07-14 15:03:50,516 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-14 15:03:50,646 - INFO - Saved temp_data_file (1.7 KB) to data/rddl_downloads\PWRLIB72\other\temp_data_file
+2025-07-14 15:03:50,648 - INFO - Download complete for project PWRLIB72
+2025-07-14 15:03:50,648 - INFO - Successfully downloaded: 57/57 artifacts
+2025-07-14 15:03:50,648 - INFO - Files saved to: data/rddl_downloads\PWRLIB72
+2025-07-14 15:03:50,650 - INFO - Saved project access report to data/rddl_downloads\project_access_report.json
+2025-07-14 15:03:50,650 - INFO - 
+=== SCAN COMPLETE ===
+2025-07-14 15:03:50,650 - INFO - Total time: 15.2 seconds
+2025-07-14 15:03:50,650 - INFO - Projects with data: 1
+2025-07-14 15:03:50,651 - INFO - Accessible but empty: 0
+2025-07-14 15:03:50,651 - INFO - Forbidden (403): 0
+2025-07-14 15:03:50,651 - INFO - Not found (404): 0
+2025-07-14 15:03:50,651 - INFO - 
+Projects with data access:
+2025-07-14 15:03:50,652 - INFO -   - PWRLIB72: 57 artifacts (xml, logs, other)
+2025-07-14 15:03:50,652 - INFO - 
+Detailed report saved to: data/rddl_downloads\project_access_report.json
+2025-07-15 11:50:52,243 - INFO - === RDDL Data Discovery Scanner ===
+2025-07-15 11:50:52,243 - INFO - Testing 4 project keys from your applications
+2025-07-15 11:50:52,244 - INFO - 
+=== [1/4] Testing project: PWRLIB72 (R&D Data Lake) ===
+2025-07-15 11:50:52,244 - INFO - GET https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/metadata with params: {'pageSize': 25, 'pageNumber': 1}
+2025-07-15 11:50:53,430 - INFO - Status code: 200
+2025-07-15 11:50:53,432 - INFO - Raw API response: {
+  "data": [
+    {
+      "artifactID": "e1c5bd2f9ccd40f08fc74321300955b3",
+      "dateCreated": "2025-07-14T13:02:15.986013925Z",
+      "description": "Auto-uploaded log file test_fb_filter_3p3z.log",
+      "rawDataFile": {
+        "contentType": "application/octet-stream",
+        "fileName": "test_fb_filter_3p3z.log",
+        "fileSize": 1384,
+        "masterSite": "MUC",
+        "md5": "6c9e9adcd51531fe6a1b45124651dd96",
+        "path": "rddl/e1c5bd2f9ccd40f08fc74321300955b3"
+      },
+      ...
+2025-07-15 11:50:53,433 - INFO - Found 25 artifacts on page 1. Total count: 25
+2025-07-15 11:50:53,433 - INFO - GET https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/metadata with params: {'pageSize': 25, 'pageNumber': 2}
+2025-07-15 11:50:53,550 - INFO - Status code: 200
+2025-07-15 11:50:53,551 - INFO - Raw API response: {
+  "data": [
+    {
+      "artifactID": "7acb153835d4423398b16dd08e291686",
+      "dateCreated": "2025-07-08T12:53:12.078243887Z",
+      "description": "Auto-uploaded log file test_fb_pi_regulator.log",
+      "rawDataFile": {
+        "contentType": "application/octet-stream",
+        "fileName": "test_fb_pi_regulator.log",
+        "fileSize": 1062,
+        "masterSite": "MUC",
+        "md5": "15b4eb605997364f97f17bd371ec0cbb",
+        "path": "rddl/7acb153835d4423398b16dd08e291686"
+      },
+    ...
+2025-07-15 11:50:53,552 - INFO - Found 25 artifacts on page 2. Total count: 25
+2025-07-15 11:50:53,553 - INFO - GET https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/metadata with params: {'pageSize': 25, 'pageNumber': 3}
+2025-07-15 11:50:53,654 - INFO - Status code: 200
+2025-07-15 11:50:53,655 - INFO - Raw API response: {
+  "data": [
+    {
+      "artifactID": "81f3d0ddd16f4ec5bde872ecc9dcd032",
+      "dateCreated": "2025-07-02T21:37:01.340394078Z",
+      "description": "Auto-uploaded log file test_fb_pi_regulator.log",
+      "rawDataFile": {
+        "contentType": "application/octet-stream",
+        "fileName": "test_fb_pi_regulator.log",
+        "fileSize": 1062,
+        "masterSite": "MUC",
+        "md5": "15b4eb605997364f97f17bd371ec0cbb",
+        "path": "rddl/81f3d0ddd16f4ec5bde872ecc9dcd032"
+      },
+    ...
+2025-07-15 11:50:53,655 - INFO - Found 7 artifacts on page 3. Total count: 7
+2025-07-15 11:50:53,655 - INFO - Total artifacts found: 57
+2025-07-15 11:50:53,656 - INFO - SUCCESS! Found 57 artifacts for project PWRLIB72
+2025-07-15 11:50:53,661 - INFO - Saved metadata for 57 artifacts to data/rddl_downloads\PWRLIB72\metadata.json
+2025-07-15 11:50:53,662 - INFO - Processing artifact 1/57: test_fb_filter_3p3z.log
+2025-07-15 11:50:53,663 - INFO - Downloading test_fb_filter_3p3z.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/e1c5bd2f9ccd40f08fc74321300955b3 ...
+2025-07-15 11:50:53,766 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:50:53,906 - INFO - Saved test_fb_filter_3p3z.log (1.4 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_filter_3p3z.log
+2025-07-15 11:50:53,907 - INFO - Processing artifact 2/57: test_fb_pi_regulator.log
+2025-07-15 11:50:53,908 - INFO - Downloading test_fb_pi_regulator.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/163acd44af3648ba8bbf34bfcf3a8de0 ...
+2025-07-15 11:50:54,030 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:50:54,164 - INFO - Saved test_fb_pi_regulator.log (1.0 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_pi_regulator.log
+2025-07-15 11:50:54,165 - INFO - Processing artifact 3/57: gcovr.log
+2025-07-15 11:50:54,165 - INFO - Downloading gcovr.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/211d9ef12a7749ec84484ae733298045 ...
+2025-07-15 11:50:54,275 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:50:54,567 - INFO - Saved gcovr.log (0.7 KB) to data/rddl_downloads\PWRLIB72\logs\gcovr.log
+2025-07-15 11:50:54,568 - INFO - Processing artifact 4/57: report.xml
+2025-07-15 11:50:54,568 - INFO - Downloading report.xml (xml) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/54ddc08896ef4127baee35c3a223c598 ...
+2025-07-15 11:50:54,690 - INFO - Artifact verified: text/xml, unknown bytes
+2025-07-15 11:50:54,918 - INFO - Saved report.xml (3.1 KB) to data/rddl_downloads\PWRLIB72\xml\report.xml
+2025-07-15 11:50:54,919 - INFO - Processing artifact 5/57: ceedling.log
+2025-07-15 11:50:54,920 - INFO - Downloading ceedling.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/601c7d1129354fdca01d4c873e3d2c40 ...
+2025-07-15 11:50:56,026 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:50:56,214 - INFO - Saved ceedling.log (2.2 KB) to data/rddl_downloads\PWRLIB72\logs\ceedling.log
+2025-07-15 11:50:56,215 - INFO - Processing artifact 6/57: report.xml
+2025-07-15 11:50:56,215 - INFO - Downloading report.xml (xml) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/fd9d522edf104fe988b47e98180584d0 ...
+2025-07-15 11:50:56,300 - INFO - Artifact verified: text/xml, unknown bytes
+2025-07-15 11:50:56,445 - INFO - Saved report.xml (3.1 KB) to data/rddl_downloads\PWRLIB72\xml\report.xml
+2025-07-15 11:50:56,445 - INFO - Processing artifact 7/57: test_fb_filter_3p3z.log
+2025-07-15 11:50:56,446 - INFO - Downloading test_fb_filter_3p3z.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/592d5ff78fb444199a2deba9ecec1b78 ...
+2025-07-15 11:50:56,545 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:50:56,700 - INFO - Saved test_fb_filter_3p3z.log (1.4 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_filter_3p3z.log
+2025-07-15 11:50:56,701 - INFO - Processing artifact 8/57: test_fb_pi_regulator.log
+2025-07-15 11:50:56,702 - INFO - Downloading test_fb_pi_regulator.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/1db75bdc1e554e67a99d7b9a154bac17 ...
+2025-07-15 11:50:56,786 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:50:56,932 - INFO - Saved test_fb_pi_regulator.log (1.0 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_pi_regulator.log
+2025-07-15 11:50:56,933 - INFO - Processing artifact 9/57: ceedling.log
+2025-07-15 11:50:56,934 - INFO - Downloading ceedling.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/bd427c9869224bac8cfa0ef0f04032e2 ...
+2025-07-15 11:50:57,021 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:50:57,197 - INFO - Saved ceedling.log (2.2 KB) to data/rddl_downloads\PWRLIB72\logs\ceedling.log
+2025-07-15 11:50:57,198 - INFO - Processing artifact 10/57: gcovr.log
+2025-07-15 11:50:57,199 - INFO - Downloading gcovr.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/2899fdad193e42a1bf30754f00b3ea3a ...
+2025-07-15 11:50:57,334 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:50:57,470 - INFO - Saved gcovr.log (0.7 KB) to data/rddl_downloads\PWRLIB72\logs\gcovr.log
+2025-07-15 11:50:57,471 - INFO - Processing artifact 11/57: test_fb_filter_3p3z.log
+2025-07-15 11:50:57,471 - INFO - Downloading test_fb_filter_3p3z.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/3632fa57ebed4c388f28eeb9889f3895 ...
+2025-07-15 11:50:57,572 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:50:57,797 - INFO - Saved test_fb_filter_3p3z.log (1.4 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_filter_3p3z.log
+2025-07-15 11:50:57,798 - INFO - Processing artifact 12/57: test_fb_pi_regulator.log
+2025-07-15 11:50:57,798 - INFO - Downloading test_fb_pi_regulator.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/6b21be3c6e0146d1b1bb827bc016dd1c ...
+2025-07-15 11:50:57,919 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:50:58,255 - INFO - Saved test_fb_pi_regulator.log (1.0 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_pi_regulator.log
+2025-07-15 11:50:58,256 - INFO - Processing artifact 13/57: gcovr.log
+2025-07-15 11:50:58,257 - INFO - Downloading gcovr.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/11a5cf111f8e4a5a8ac5486ff85b960a ...
+2025-07-15 11:50:58,392 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:50:58,499 - INFO - Saved gcovr.log (0.7 KB) to data/rddl_downloads\PWRLIB72\logs\gcovr.log
+2025-07-15 11:50:58,501 - INFO - Processing artifact 14/57: report.xml
+2025-07-15 11:50:58,502 - INFO - Downloading report.xml (xml) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/a8619885e90c4242839c05195634d6c9 ...
+2025-07-15 11:50:58,596 - INFO - Artifact verified: text/xml, unknown bytes
+2025-07-15 11:50:58,876 - INFO - Saved report.xml (3.1 KB) to data/rddl_downloads\PWRLIB72\xml\report.xml
+2025-07-15 11:50:58,878 - INFO - Processing artifact 15/57: ceedling.log
+2025-07-15 11:50:58,879 - INFO - Downloading ceedling.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/df139c46b09544919b5ff98550093fdb ...
+2025-07-15 11:50:58,969 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:50:59,085 - INFO - Saved ceedling.log (2.2 KB) to data/rddl_downloads\PWRLIB72\logs\ceedling.log
+2025-07-15 11:50:59,086 - INFO - Processing artifact 16/57: test_fb_pi_regulator.log
+2025-07-15 11:50:59,087 - INFO - Downloading test_fb_pi_regulator.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/4d97ee72484f4fd3a0f2e26c021b087c ...
+2025-07-15 11:50:59,208 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:50:59,334 - INFO - Saved test_fb_pi_regulator.log (1.0 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_pi_regulator.log
+2025-07-15 11:50:59,335 - INFO - Processing artifact 17/57: gcovr.log
+2025-07-15 11:50:59,336 - INFO - Downloading gcovr.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/b4c6fd30217d4c63b58a589bde735ec5 ...
+2025-07-15 11:50:59,475 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:50:59,789 - INFO - Saved gcovr.log (0.7 KB) to data/rddl_downloads\PWRLIB72\logs\gcovr.log
+2025-07-15 11:50:59,790 - INFO - Processing artifact 18/57: report.xml
+2025-07-15 11:50:59,791 - INFO - Downloading report.xml (xml) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/134204a76ce74106ae8f1ff369ca3126 ...
+2025-07-15 11:50:59,923 - INFO - Artifact verified: text/xml, unknown bytes
+2025-07-15 11:51:00,300 - INFO - Saved report.xml (3.1 KB) to data/rddl_downloads\PWRLIB72\xml\report.xml
+2025-07-15 11:51:00,301 - INFO - Processing artifact 19/57: test_fb_filter_3p3z.log
+2025-07-15 11:51:00,302 - INFO - Downloading test_fb_filter_3p3z.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/983547c84bb84c0ba18c1342544f149a ...
+2025-07-15 11:51:00,389 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:00,601 - INFO - Saved test_fb_filter_3p3z.log (1.4 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_filter_3p3z.log
+2025-07-15 11:51:00,602 - INFO - Processing artifact 20/57: ceedling.log
+2025-07-15 11:51:00,603 - INFO - Downloading ceedling.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/8e6b618ccb0142a0a2f908f6432837da ...
+2025-07-15 11:51:00,717 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:00,845 - INFO - Saved ceedling.log (2.2 KB) to data/rddl_downloads\PWRLIB72\logs\ceedling.log
+2025-07-15 11:51:00,846 - INFO - Processing artifact 21/57: test_fb_pi_regulator.log
+2025-07-15 11:51:00,846 - INFO - Downloading test_fb_pi_regulator.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/20153d131eec4153a5ee28374cc7aa5e ...
+2025-07-15 11:51:00,938 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:01,267 - INFO - Saved test_fb_pi_regulator.log (1.0 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_pi_regulator.log
+2025-07-15 11:51:01,268 - INFO - Processing artifact 22/57: test_fb_filter_3p3z.log
+2025-07-15 11:51:01,269 - INFO - Downloading test_fb_filter_3p3z.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/970408eae7b44a9ebf74c2c5caf29707 ...
+2025-07-15 11:51:01,377 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:01,525 - INFO - Saved test_fb_filter_3p3z.log (1.4 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_filter_3p3z.log
+2025-07-15 11:51:01,526 - INFO - Processing artifact 23/57: gcovr.log
+2025-07-15 11:51:01,527 - INFO - Downloading gcovr.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/92ab963af88e45ba9362c73b00fac90d ...
+2025-07-15 11:51:01,677 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:01,831 - INFO - Saved gcovr.log (0.7 KB) to data/rddl_downloads\PWRLIB72\logs\gcovr.log
+2025-07-15 11:51:01,833 - INFO - Processing artifact 24/57: report.xml
+2025-07-15 11:51:01,834 - INFO - Downloading report.xml (xml) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/6a575455e0564b83862810d05a4d27d1 ...
+2025-07-15 11:51:02,054 - INFO - Artifact verified: text/xml, unknown bytes
+2025-07-15 11:51:02,350 - INFO - Saved report.xml (3.1 KB) to data/rddl_downloads\PWRLIB72\xml\report.xml
+2025-07-15 11:51:02,351 - INFO - Processing artifact 25/57: ceedling.log
+2025-07-15 11:51:02,352 - INFO - Downloading ceedling.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/73a898709339407e93bd6e307deafe93 ...
+2025-07-15 11:51:02,440 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:02,580 - INFO - Saved ceedling.log (2.2 KB) to data/rddl_downloads\PWRLIB72\logs\ceedling.log
+2025-07-15 11:51:02,581 - INFO - Processing artifact 26/57: test_fb_pi_regulator.log
+2025-07-15 11:51:02,582 - INFO - Downloading test_fb_pi_regulator.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/7acb153835d4423398b16dd08e291686 ...
+2025-07-15 11:51:02,714 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:02,826 - INFO - Saved test_fb_pi_regulator.log (1.0 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_pi_regulator.log
+2025-07-15 11:51:02,827 - INFO - Processing artifact 27/57: test_fb_filter_3p3z.log
+2025-07-15 11:51:02,828 - INFO - Downloading test_fb_filter_3p3z.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/0dd46de49cac4a3c840ae58da598fdb6 ...
+2025-07-15 11:51:02,920 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:03,119 - INFO - Saved test_fb_filter_3p3z.log (1.4 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_filter_3p3z.log
+2025-07-15 11:51:03,121 - INFO - Processing artifact 28/57: report.xml
+2025-07-15 11:51:03,121 - INFO - Downloading report.xml (xml) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/4ab8f0329d6a490985549989709e6308 ...
+2025-07-15 11:51:03,233 - INFO - Artifact verified: text/xml, unknown bytes
+2025-07-15 11:51:03,451 - INFO - Saved report.xml (3.1 KB) to data/rddl_downloads\PWRLIB72\xml\report.xml
+2025-07-15 11:51:03,452 - INFO - Processing artifact 29/57: gcovr.log
+2025-07-15 11:51:03,453 - INFO - Downloading gcovr.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/b9f634e9bec042e3b5d28f4dbcf3e120 ...
+2025-07-15 11:51:03,578 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:03,884 - INFO - Saved gcovr.log (0.7 KB) to data/rddl_downloads\PWRLIB72\logs\gcovr.log
+2025-07-15 11:51:03,885 - INFO - Processing artifact 30/57: ceedling.log
+2025-07-15 11:51:03,885 - INFO - Downloading ceedling.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/16a3790c2c59466aaea1a0e9055e13be ...
+2025-07-15 11:51:04,025 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:04,218 - INFO - Saved ceedling.log (2.2 KB) to data/rddl_downloads\PWRLIB72\logs\ceedling.log
+2025-07-15 11:51:04,278 - INFO - Processing artifact 31/57: test_fb_pi_regulator.log
+2025-07-15 11:51:04,279 - INFO - Downloading test_fb_pi_regulator.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/2191b63022aa44d3932c7f2311875658 ...
+2025-07-15 11:51:04,374 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:04,515 - INFO - Saved test_fb_pi_regulator.log (1.0 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_pi_regulator.log
+2025-07-15 11:51:04,516 - INFO - Processing artifact 32/57: test_fb_filter_3p3z.log
+2025-07-15 11:51:04,517 - INFO - Downloading test_fb_filter_3p3z.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/1b82943135e44a80878fb09a358ce80b ...
+2025-07-15 11:51:04,623 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:04,815 - INFO - Saved test_fb_filter_3p3z.log (1.4 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_filter_3p3z.log
+2025-07-15 11:51:04,816 - INFO - Processing artifact 33/57: ceedling.log
+2025-07-15 11:51:04,816 - INFO - Downloading ceedling.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/aa6d5ee1a6b146d28538431a1ac60377 ...
+2025-07-15 11:51:04,908 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:05,123 - INFO - Saved ceedling.log (2.2 KB) to data/rddl_downloads\PWRLIB72\logs\ceedling.log
+2025-07-15 11:51:05,124 - INFO - Processing artifact 34/57: gcovr.log
+2025-07-15 11:51:05,124 - INFO - Downloading gcovr.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/58295fd4c1134a6a82765df9686108a1 ...
+2025-07-15 11:51:05,278 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:05,509 - INFO - Saved gcovr.log (0.7 KB) to data/rddl_downloads\PWRLIB72\logs\gcovr.log
+2025-07-15 11:51:05,510 - INFO - Processing artifact 35/57: report.xml
+2025-07-15 11:51:05,511 - INFO - Downloading report.xml (xml) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/314dfce05f6244aeb68f7a61354e9e6e ...
+2025-07-15 11:51:05,679 - INFO - Artifact verified: text/xml, unknown bytes
+2025-07-15 11:51:05,805 - INFO - Saved report.xml (3.1 KB) to data/rddl_downloads\PWRLIB72\xml\report.xml
+2025-07-15 11:51:05,806 - INFO - Processing artifact 36/57: test_fb_pi_regulator.log
+2025-07-15 11:51:05,807 - INFO - Downloading test_fb_pi_regulator.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/8dbe0915c695449db91c2d4e5762ebc0 ...
+2025-07-15 11:51:05,895 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:06,017 - INFO - Saved test_fb_pi_regulator.log (1.0 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_pi_regulator.log
+2025-07-15 11:51:06,018 - INFO - Processing artifact 37/57: test_fb_filter_3p3z.log
+2025-07-15 11:51:06,019 - INFO - Downloading test_fb_filter_3p3z.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/669003301d714d118ce0575fa0ff5e01 ...
+2025-07-15 11:51:06,110 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:06,313 - INFO - Saved test_fb_filter_3p3z.log (1.4 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_filter_3p3z.log
+2025-07-15 11:51:06,314 - INFO - Processing artifact 38/57: report.xml
+2025-07-15 11:51:06,314 - INFO - Downloading report.xml (xml) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/91ba1eb88eb94511ad6a2c3ea76d52c2 ...
+2025-07-15 11:51:06,410 - INFO - Artifact verified: text/xml, unknown bytes
+2025-07-15 11:51:06,546 - INFO - Saved report.xml (3.1 KB) to data/rddl_downloads\PWRLIB72\xml\report.xml
+2025-07-15 11:51:06,547 - INFO - Processing artifact 39/57: gcovr.log
+2025-07-15 11:51:06,548 - INFO - Downloading gcovr.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/cd7f38d31c564253940fbade972c6da6 ...
+2025-07-15 11:51:06,626 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:06,719 - INFO - Saved gcovr.log (0.7 KB) to data/rddl_downloads\PWRLIB72\logs\gcovr.log
+2025-07-15 11:51:06,720 - INFO - Processing artifact 40/57: ceedling.log
+2025-07-15 11:51:06,721 - INFO - Downloading ceedling.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/9f1ff32df7d84f94adb398707fd9f07f ...
+2025-07-15 11:51:06,870 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:06,974 - INFO - Saved ceedling.log (2.2 KB) to data/rddl_downloads\PWRLIB72\logs\ceedling.log
+2025-07-15 11:51:06,992 - INFO - Processing artifact 41/57: test_fb_pi_regulator.log
+2025-07-15 11:51:06,993 - INFO - Downloading test_fb_pi_regulator.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/9993c18d7dcf40b5a0bc79ce1e551b60 ...
+2025-07-15 11:51:07,114 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:07,366 - INFO - Saved test_fb_pi_regulator.log (1.0 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_pi_regulator.log
+2025-07-15 11:51:07,368 - INFO - Processing artifact 42/57: test_fb_filter_3p3z.log
+2025-07-15 11:51:07,368 - INFO - Downloading test_fb_filter_3p3z.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/26ba37c1924f4ba5a089b33b64082744 ...
+2025-07-15 11:51:07,671 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:07,785 - INFO - Saved test_fb_filter_3p3z.log (1.4 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_filter_3p3z.log
+2025-07-15 11:51:07,786 - INFO - Processing artifact 43/57: report.xml
+2025-07-15 11:51:07,787 - INFO - Downloading report.xml (xml) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/57ea1b57cb5a4358bb30dba2d968c553 ...
+2025-07-15 11:51:07,938 - INFO - Artifact verified: text/xml, unknown bytes
+2025-07-15 11:51:08,129 - INFO - Saved report.xml (3.1 KB) to data/rddl_downloads\PWRLIB72\xml\report.xml
+2025-07-15 11:51:08,130 - INFO - Processing artifact 44/57: gcovr.log
+2025-07-15 11:51:08,130 - INFO - Downloading gcovr.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/c8dfb274c438457d8c5112f93bbf1e4d ...
+2025-07-15 11:51:08,212 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:08,338 - INFO - Saved gcovr.log (0.7 KB) to data/rddl_downloads\PWRLIB72\logs\gcovr.log
+2025-07-15 11:51:08,362 - INFO - Processing artifact 45/57: ceedling.log
+2025-07-15 11:51:08,363 - INFO - Downloading ceedling.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/27e6405e25164ca5aa117272681de8d3 ...
+2025-07-15 11:51:08,443 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:08,653 - INFO - Saved ceedling.log (2.2 KB) to data/rddl_downloads\PWRLIB72\logs\ceedling.log
+2025-07-15 11:51:08,654 - INFO - Processing artifact 46/57: test_fb_pi_regulator.log
+2025-07-15 11:51:08,655 - INFO - Downloading test_fb_pi_regulator.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/c78ba89bfa6a455084f1c365d99cf2bc ...
+2025-07-15 11:51:08,739 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:08,858 - INFO - Saved test_fb_pi_regulator.log (1.0 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_pi_regulator.log
+2025-07-15 11:51:08,858 - INFO - Processing artifact 47/57: test_fb_filter_3p3z.log
+2025-07-15 11:51:08,859 - INFO - Downloading test_fb_filter_3p3z.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/56ed6c1500814a6d9c800f40140d42cb ...
+2025-07-15 11:51:08,948 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:09,125 - INFO - Saved test_fb_filter_3p3z.log (1.4 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_filter_3p3z.log
+2025-07-15 11:51:09,126 - INFO - Processing artifact 48/57: gcovr.log
+2025-07-15 11:51:09,126 - INFO - Downloading gcovr.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/44fbc77154ee48ca87c70d59c88395dd ...
+2025-07-15 11:51:09,208 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:09,315 - INFO - Saved gcovr.log (0.7 KB) to data/rddl_downloads\PWRLIB72\logs\gcovr.log
+2025-07-15 11:51:09,315 - INFO - Processing artifact 49/57: report.xml
+2025-07-15 11:51:09,316 - INFO - Downloading report.xml (xml) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/8ac714af0d294c84a2de68744f4e9f9c ...
+2025-07-15 11:51:09,416 - INFO - Artifact verified: text/xml, unknown bytes
+2025-07-15 11:51:09,528 - INFO - Saved report.xml (3.1 KB) to data/rddl_downloads\PWRLIB72\xml\report.xml
+2025-07-15 11:51:09,529 - INFO - Processing artifact 50/57: ceedling.log
+2025-07-15 11:51:09,529 - INFO - Downloading ceedling.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/9152dbd12fa343fa97c2fe686d212dc3 ...
+2025-07-15 11:51:09,661 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:10,233 - INFO - Saved ceedling.log (2.2 KB) to data/rddl_downloads\PWRLIB72\logs\ceedling.log
+2025-07-15 11:51:10,234 - INFO - Processing artifact 51/57: test_fb_pi_regulator.log
+2025-07-15 11:51:10,235 - INFO - Downloading test_fb_pi_regulator.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/81f3d0ddd16f4ec5bde872ecc9dcd032 ...
+2025-07-15 11:51:10,357 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:10,501 - INFO - Saved test_fb_pi_regulator.log (1.0 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_pi_regulator.log
+2025-07-15 11:51:10,502 - INFO - Processing artifact 52/57: test_fb_filter_3p3z.log
+2025-07-15 11:51:10,503 - INFO - Downloading test_fb_filter_3p3z.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/4e7f6f3d93b64a15be4323e47a9070b9 ...
+2025-07-15 11:51:10,623 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:11,053 - INFO - Saved test_fb_filter_3p3z.log (1.4 KB) to data/rddl_downloads\PWRLIB72\logs\test_fb_filter_3p3z.log
+2025-07-15 11:51:11,084 - INFO - Processing artifact 53/57: report.xml
+2025-07-15 11:51:11,085 - INFO - Downloading report.xml (xml) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/f711b3bd887e4987a6244313f6bf6d6e ...
+2025-07-15 11:51:11,201 - INFO - Artifact verified: text/xml, unknown bytes
+2025-07-15 11:51:11,460 - INFO - Saved report.xml (3.1 KB) to data/rddl_downloads\PWRLIB72\xml\report.xml
+2025-07-15 11:51:11,461 - INFO - Processing artifact 54/57: ceedling.log
+2025-07-15 11:51:11,462 - INFO - Downloading ceedling.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/70f847c4b65f48c5a0a3ee8886305c40 ...
+2025-07-15 11:51:11,584 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:11,872 - INFO - Saved ceedling.log (2.2 KB) to data/rddl_downloads\PWRLIB72\logs\ceedling.log
+2025-07-15 11:51:11,874 - INFO - Processing artifact 55/57: gcovr.log
+2025-07-15 11:51:11,874 - INFO - Downloading gcovr.log (logs) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/1985a45a213543189ca05770c70a2fe2 ...
+2025-07-15 11:51:12,983 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:13,137 - INFO - Saved gcovr.log (0.7 KB) to data/rddl_downloads\PWRLIB72\logs\gcovr.log
+2025-07-15 11:51:13,138 - INFO - Processing artifact 56/57: temp_data_file
+2025-07-15 11:51:13,139 - INFO - Downloading temp_data_file (other) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/d497c121d5024235ad4b052c6931dfa3 ...
+2025-07-15 11:51:13,307 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:13,521 - INFO - Saved temp_data_file (1.7 KB) to data/rddl_downloads\PWRLIB72\other\temp_data_file
+2025-07-15 11:51:13,523 - INFO - Processing artifact 57/57: temp_data_file
+2025-07-15 11:51:13,523 - INFO - Downloading temp_data_file (other) from https://rd-datalake.icp.infineon.com/api/v1/projects/PWRLIB72/artifacts/bfe47f006a4b425781138892a6a0fd86 ...
+2025-07-15 11:51:13,610 - INFO - Artifact verified: application/octet-stream, unknown bytes
+2025-07-15 11:51:13,737 - INFO - Saved temp_data_file (1.7 KB) to data/rddl_downloads\PWRLIB72\other\temp_data_file
+2025-07-15 11:51:13,739 - INFO - Download complete for project PWRLIB72
+2025-07-15 11:51:13,739 - INFO - Successfully downloaded: 57/57 artifacts
+2025-07-15 11:51:13,739 - INFO - Files saved to: data/rddl_downloads\PWRLIB72
+2025-07-15 11:51:13,740 - INFO - 
+=== [2/4] Testing project: VR00473862 (JIRA Priority) ===
+2025-07-15 11:51:13,741 - INFO - GET https://rd-datalake.icp.infineon.com/api/v1/projects/VR00473862/artifacts/metadata with params: {'pageSize': 25, 'pageNumber': 1}
+2025-07-15 11:51:13,820 - INFO - Status code: 404
+2025-07-15 11:51:13,820 - ERROR - Failed to get artifacts. Status code: 404
+2025-07-15 11:51:13,821 - ERROR - Response text: {"type":"ResourceNotFound","message":"The project 'VR00473862' could not be found.","messageId":"e3R3UensBrwzYxwMMqlt4qppHNxhnFn8"}
+
+2025-07-15 11:51:13,821 - INFO - Total artifacts found: 0
+2025-07-15 11:51:13,894 - WARNING - NOT FOUND: Project VR00473862 does not exist or is not accessible
+2025-07-15 11:51:13,894 - INFO - 
+=== [3/4] Testing project: DBSDEC (JIRA Priority) ===
+2025-07-15 11:51:13,895 - INFO - GET https://rd-datalake.icp.infineon.com/api/v1/projects/DBSDEC/artifacts/metadata with params: {'pageSize': 25, 'pageNumber': 1}
+2025-07-15 11:51:13,988 - INFO - Status code: 404
+2025-07-15 11:51:13,988 - ERROR - Failed to get artifacts. Status code: 404
+2025-07-15 11:51:13,988 - ERROR - Response text: {"type":"ResourceNotFound","message":"The project 'DBSDEC' could not be found.","messageId":"s6R5HDQIUciR4safShG1fUxA6KhMX43X"}
+
+2025-07-15 11:51:13,989 - INFO - Total artifacts found: 0
+2025-07-15 11:51:14,063 - WARNING - NOT FOUND: Project DBSDEC does not exist or is not accessible
+2025-07-15 11:51:14,064 - INFO - 
+=== [4/4] Testing project: VR00330757 (JIRA Priority) ===
+2025-07-15 11:51:14,064 - INFO - GET https://rd-datalake.icp.infineon.com/api/v1/projects/VR00330757/artifacts/metadata with params: {'pageSize': 25, 'pageNumber': 1}
+2025-07-15 11:51:14,135 - INFO - Status code: 404
+2025-07-15 11:51:14,135 - ERROR - Failed to get artifacts. Status code: 404
+2025-07-15 11:51:14,136 - ERROR - Response text: {"type":"ResourceNotFound","message":"The project 'VR00330757' could not be found.","messageId":"wZCZ7EW5IfbdHV43nbxLNCRIiOpDvugp"}
+
+2025-07-15 11:51:14,136 - INFO - Total artifacts found: 0
+2025-07-15 11:51:14,234 - WARNING - NOT FOUND: Project VR00330757 does not exist or is not accessible
+2025-07-15 11:51:14,236 - INFO - Saved project access report to data/rddl_downloads\project_access_report.json
+2025-07-15 11:51:14,237 - INFO - 
+=== SCAN COMPLETE ===
+2025-07-15 11:51:14,237 - INFO - Total time: 22.0 seconds
+2025-07-15 11:51:14,237 - INFO - Projects with data: 1
+2025-07-15 11:51:14,237 - INFO - Accessible but empty: 0
+2025-07-15 11:51:14,238 - INFO - Forbidden (403): 0
+2025-07-15 11:51:14,238 - INFO - Not found (404): 3
+2025-07-15 11:51:14,238 - INFO - 
+Projects with data access:
+2025-07-15 11:51:14,239 - INFO -   - PWRLIB72: 57 artifacts (other, logs, xml)
+2025-07-15 11:51:14,239 - INFO - 
+Detailed report saved to: data/rddl_downloads\project_access_report.json

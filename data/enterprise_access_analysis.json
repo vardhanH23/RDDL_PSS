@@ -1,0 +1,175 @@
+{
+  "timestamp": "2025-07-15T11:48:47.592632",
+  "analysis": {
+    "rddl": {
+      "accessible": true,
+      "projects": 6,
+      "total_artifacts": 6,
+      "project_list": [
+        "DEMOVID",
+        "IMAGIMOB",
+        "LAILA",
+        "PWRLIB72",
+        "RDDLDEMO",
+        "TTI-9"
+      ],
+      "project_details": {
+        "DEMOVID": {
+          "artifacts": 0,
+          "files": []
+        },
+        "IMAGIMOB": {
+          "artifacts": 0,
+          "files": []
+        },
+        "LAILA": {
+          "artifacts": 0,
+          "files": []
+        },
+        "PWRLIB72": {
+          "artifacts": 6,
+          "files": [
+            "metadata.json",
+            "ceedling.log",
+            "gcovr.log",
+            "test_fb_filter_3p3z.log",
+            "test_fb_pi_regulator.log"
+          ]
+        },
+        "RDDLDEMO": {
+          "artifacts": 0,
+          "files": []
+        },
+        "TTI-9": {
+          "artifacts": 0,
+          "files": []
+        }
+      },
+      "status": "WORKING - Downloaded successfully"
+    },
+    "jira": {
+      "accessible": false,
+      "reason": "Requires authentication token and VPN connection",
+      "projects": [
+        {
+          "key": "VR00473862",
+          "name": "12231231",
+          "id": "12231231"
+        },
+        {
+          "key": "DBSDEC",
+          "name": "PSS D Students DBS DEC",
+          "id": "11936738"
+        },
+        {
+          "key": "VR00330757",
+          "name": "All In One Chip Variants",
+          "id": "11714349"
+        },
+        {
+          "key": "ANPR",
+          "name": "Anomaly Predictor",
+          "id": "12231231"
+        },
+        {
+          "key": "VR00458351",
+          "name": "SW Asset",
+          "id": "12231231"
+        },
+        {
+          "key": "WSTLTJ",
+          "name": "Working Student Tasks",
+          "id": "11936738"
+        }
+      ],
+      "endpoints": [
+        "https://jiradctest.intra.infineon.com",
+        "https://jira.infineon.com"
+      ],
+      "status": "NEEDS SETUP - Authentication required"
+    },
+    "other_applications": [
+      {
+        "name": "APJ Project Office",
+        "status": "UNKNOWN - Requires discovery",
+        "likely_url": "https://apj.infineon.com",
+        "access_method": "May require specific credentials"
+      },
+      {
+        "name": "DES SW Applications for TTI",
+        "status": "UNKNOWN - Requires discovery",
+        "likely_url": "https://des.infineon.com",
+        "access_method": "May use LDAP/SSO authentication"
+      },
+      {
+        "name": "ipstore",
+        "status": "UNKNOWN - Requires discovery",
+        "likely_url": "https://ipstore.infineon.com",
+        "access_method": "Likely requires VPN + SSO"
+      },
+      {
+        "name": "Subversion",
+        "status": "VERSION CONTROL - Different access pattern",
+        "likely_url": "https://svn.infineon.com",
+        "access_method": "SVN client with credentials"
+      }
+    ],
+    "environment": {
+      "rddl_token_configured": true,
+      "jira_token_configured": false,
+      "network_access": "VPN required for enterprise systems",
+      "current_location": "Outside corporate network"
+    }
+  },
+  "recommendations": [
+    {
+      "system": "JIRA",
+      "action": "Get JIRA API token",
+      "steps": [
+        "1. Connect to Infineon VPN",
+        "2. Go to JIRA settings -> Personal Access Tokens",
+        "3. Create new token with project access",
+        "4. Set JIRA_TOKEN environment variable",
+        "5. Re-run the data fetcher"
+      ]
+    },
+    {
+      "system": "Other Applications",
+      "action": "Enterprise network discovery",
+      "steps": [
+        "1. Connect to Infineon VPN",
+        "2. Access each application manually to understand structure",
+        "3. Check for API documentation or developer portals",
+        "4. Identify authentication mechanisms",
+        "5. Create specific fetchers for each system"
+      ]
+    },
+    {
+      "system": "Network",
+      "action": "Connect to VPN",
+      "steps": [
+        "1. Connect to Infineon VPN",
+        "2. Re-run enterprise application discovery",
+        "3. Test RDDL access with existing token",
+        "4. Set up additional authentication tokens as needed"
+      ]
+    }
+  ],
+  "access_plan": {
+    "immediate_actions": [
+      "Connect to Infineon VPN",
+      "Test RDDL access with existing token",
+      "Generate JIRA API token"
+    ],
+    "discovery_phase": [
+      "Map accessible enterprise applications",
+      "Document API endpoints and authentication",
+      "Test data extraction from each system"
+    ],
+    "automation_phase": [
+      "Create unified data fetcher",
+      "Implement error handling and retry logic",
+      "Set up scheduled data collection"
+    ]
+  }
+}

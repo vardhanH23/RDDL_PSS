@@ -1,0 +1,204 @@
+{
+  "analysis_timestamp": "2025-07-15T12:08:47.474228",
+  "total_files_analyzed": 6,
+  "file_analyses": [
+    {
+      "file_path": "data\\rddl_downloads\\PWRLIB72\\logs\\ceedling.log",
+      "file_name": "ceedling.log",
+      "file_size": 2253,
+      "content_hash": "e6d765ae1a67c7d91096e4a666a7afe9",
+      "content_preview": "\nClobbering all generated files...\n(For large projects, this task may take a long time to complete)\n\n\n\nTest 'test_fb_filter_3p3z.c'\n----------------------------\nGenerating runner for test_fb_filter_3p3z.c...\nCompiling test_fb_filter_3p3z_runner.c...\nCompiling test_fb_filter_3p3z.c...\nCompiling unity.c...\nCompiling cmock.c...\nLinking test_fb_filter_3p3z.exe...\nRunning test_fb_filter_3p3z.exe...\n\n\nTest 'test_fb_pi_regulator.c'\n-----------------------------\nGenerating runner for test_fb_pi_regulato",
+      "line_count": 64,
+      "contains_test_data": true,
+      "contains_performance_data": true,
+      "contains_coverage_data": true,
+      "file_type_analysis": {
+        "primary_type": "build_system_log",
+        "data_insights": [
+          "Ceedling C testing framework output",
+          "Contains filter testing data",
+          "Contains regulator testing data",
+          "Contains code coverage metrics"
+        ],
+        "sw_improvement_potential": "medium"
+      }
+    },
+    {
+      "file_path": "data\\rddl_downloads\\PWRLIB72\\logs\\gcovr.log",
+      "file_name": "gcovr.log",
+      "file_size": 732,
+      "content_hash": "06e479e0a558cde068817b4730a7a294",
+      "content_preview": "------------------------------------------------------------------------------\n                           GCC Code Coverage Report\nDirectory: .\n------------------------------------------------------------------------------\nFile                                    Branches   Taken  Cover   Missing\n------------------------------------------------------------------------------\n../../fb_pi_regulator/fb_pi_regulator.c       22      22   100%   \n../../fb_filter_3p3z/fb_filter_3p3z.c          0       0 ",
+      "line_count": 12,
+      "contains_test_data": false,
+      "contains_performance_data": false,
+      "contains_coverage_data": true,
+      "file_type_analysis": {
+        "primary_type": "code_coverage_report",
+        "data_insights": [
+          "Code coverage analysis",
+          "Contains filter testing data",
+          "Contains regulator testing data",
+          "Contains code coverage metrics"
+        ],
+        "sw_improvement_potential": "very_high"
+      }
+    },
+    {
+      "file_path": "data\\rddl_downloads\\PWRLIB72\\logs\\test_fb_filter_3p3z.log",
+      "file_name": "test_fb_filter_3p3z.log",
+      "file_size": 1384,
+      "content_hash": "6c9e9adcd51531fe6a1b45124651dd96",
+      "content_preview": "test_fb_filter_3p3z.c:123:test_Filter3p3z:INFO: input = 10000\ntest_fb_filter_3p3z.c:124:test_Filter3p3z:INFO: output = 6\ntest_fb_filter_3p3z.c:125:test_Filter3p3z:INFO: in = { 10000, 0, 0 }\ntest_fb_filter_3p3z.c:126:test_Filter3p3z:INFO: out = { 456250, 0, 0 }\ntest_fb_filter_3p3z.c:123:test_Filter3p3z:INFO: input = 10800\ntest_fb_filter_3p3z.c:124:test_Filter3p3z:INFO: output = 27\ntest_fb_filter_3p3z.c:125:test_Filter3p3z:INFO: in = { 10800, 10000, 0 }\ntest_fb_filter_3p3z.c:126:test_Filter3p3z:IN",
+      "line_count": 21,
+      "contains_test_data": true,
+      "contains_performance_data": false,
+      "contains_coverage_data": false,
+      "file_type_analysis": {
+        "primary_type": "unit_test_log",
+        "data_insights": [
+          "Contains filter testing data"
+        ],
+        "sw_improvement_potential": "low"
+      }
+    },
+    {
+      "file_path": "data\\rddl_downloads\\PWRLIB72\\logs\\test_fb_pi_regulator.log",
+      "file_name": "test_fb_pi_regulator.log",
+      "file_size": 1062,
+      "content_hash": "15b4eb605997364f97f17bd371ec0cbb",
+      "content_preview": "test_fb_pi_regulator.c:233:test_PiRegulator:INFO: output = 327704\ntest_fb_pi_regulator.c:234:test_PiRegulator:INFO: out = { 136, 23 }\ntest_fb_pi_regulator.c:235:test_PiRegulator:INFO: e = { 24, 5 6 }\ntest_fb_pi_regulator.c:236:test_PiRegulator:INFO: saturated = 0\ntest_fb_pi_regulator.c:233:test_PiRegulator:INFO: output = 1572888\ntest_fb_pi_regulator.c:234:test_PiRegulator:INFO: out = { 407, 136 }\ntest_fb_pi_regulator.c:235:test_PiRegulator:INFO: e = { 24, 24 5 }\ntest_fb_pi_regulator.c:236:test_P",
+      "line_count": 17,
+      "contains_test_data": true,
+      "contains_performance_data": false,
+      "contains_coverage_data": false,
+      "file_type_analysis": {
+        "primary_type": "unit_test_log",
+        "data_insights": [
+          "Contains regulator testing data"
+        ],
+        "sw_improvement_potential": "low"
+      }
+    },
+    {
+      "file_path": "data\\rddl_downloads\\PWRLIB72\\other\\temp_data_file",
+      "file_name": "temp_data_file",
+      "file_size": 1790,
+      "content_hash": "68fd6be0609d263c41371be500279217",
+      "content_preview": "<!DOCTYPE html><html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<title>pext/library/mtb-pext-pctrl/develop/Latest/deploy/test/uut/</title>\n</head>\n<body>\n<h1>Index of /pext/library/mtb-pext-pctrl/develop/Latest/deploy/test/uut/</h1>\n<hr>\n<table id=\"list\">\n<thead><tr>\n<th style=\"text-align: left; width:55%\">Filename\n                            </th>\n<th style=\"text-align: left; width:20%\">File Size\n                            </th>\n<th style=\"text-align: left; wid",
+      "line_count": 58,
+      "contains_test_data": true,
+      "contains_performance_data": false,
+      "contains_coverage_data": true,
+      "file_type_analysis": {
+        "primary_type": "sensor_data",
+        "data_insights": [
+          "Sensor/measurement data",
+          "Contains filter testing data",
+          "Contains regulator testing data"
+        ],
+        "sw_improvement_potential": "medium"
+      }
+    },
+    {
+      "file_path": "data\\rddl_downloads\\PWRLIB72\\xml\\report.xml",
+      "file_name": "report.xml",
+      "file_size": 3179,
+      "content_hash": "9c056aed40c6a03e2fb078a6e7f366a9",
+      "content_preview": "<?xml version=\"1.0\" encoding=\"utf-8\" ?>\n<testsuites tests=\"5\" failures=\"0\" time=\"0.003\">\n  <testsuite name=\"test_fb_filter_3p3z\" tests=\"2\" failures=\"0\" skipped=\"0\" errors=\"0\" time=\"0.002\">\n    <testcase name=\"test_Filter3p3z_Reset\" time=\"0.000\"/>\n    <testcase name=\"test_Filter3p3z\" time=\"0.000\"/>\n    <system-out>\ntest_fb_filter_3p3z.c:123:test_Filter3p3z:INFO: input = 10000\n\ntest_fb_filter_3p3z.c:124:test_Filter3p3z:INFO: output = 6\n\ntest_fb_filter_3p3z.c:125:test_Filter3p3z:INFO: in = { 10000,",
+      "line_count": 89,
+      "contains_test_data": true,
+      "contains_performance_data": true,
+      "contains_coverage_data": false,
+      "file_type_analysis": {
+        "primary_type": "test_report_xml",
+        "data_insights": [
+          "Structured test report",
+          "Contains filter testing data",
+          "Contains regulator testing data"
+        ],
+        "sw_improvement_potential": "high"
+      }
+    }
+  ],
+  "duplicate_analysis": {
+    "duplicate_groups": 0,
+    "duplicates": {},
+    "total_duplicate_files": 0
+  },
+  "sw_improvement_potential": {
+    "high_value_data": [
+      {
+        "file": "gcovr.log",
+        "type": "code_coverage_report",
+        "insights": [
+          "Code coverage analysis",
+          "Contains filter testing data",
+          "Contains regulator testing data",
+          "Contains code coverage metrics"
+        ]
+      },
+      {
+        "file": "report.xml",
+        "type": "test_report_xml",
+        "insights": [
+          "Structured test report",
+          "Contains filter testing data",
+          "Contains regulator testing data"
+        ]
+      }
+    ],
+    "medium_value_data": [
+      {
+        "file": "ceedling.log",
+        "type": "build_system_log",
+        "insights": [
+          "Ceedling C testing framework output",
+          "Contains filter testing data",
+          "Contains regulator testing data",
+          "Contains code coverage metrics"
+        ]
+      },
+      {
+        "file": "temp_data_file",
+        "type": "sensor_data",
+        "insights": [
+          "Sensor/measurement data",
+          "Contains filter testing data",
+          "Contains regulator testing data"
+        ]
+      }
+    ],
+    "low_value_data": [
+      {
+        "file": "test_fb_filter_3p3z.log",
+        "type": "unit_test_log",
+        "insights": [
+          "Contains filter testing data"
+        ]
+      },
+      {
+        "file": "test_fb_pi_regulator.log",
+        "type": "unit_test_log",
+        "insights": [
+          "Contains regulator testing data"
+        ]
+      }
+    ],
+    "recommendations": [
+      "Code coverage data can identify untested code paths and improve test quality",
+      "Build logs can help optimize compilation times and identify bottlenecks"
+    ]
+  },
+  "summary": {
+    "total_size_bytes": 10400,
+    "file_types": {
+      "build_system_log": 1,
+      "code_coverage_report": 1,
+      "unit_test_log": 2,
+      "sensor_data": 1,
+      "test_report_xml": 1
+    },
+    "data_value_assessment": "High - Good potential for SW insights"
+  }
+}

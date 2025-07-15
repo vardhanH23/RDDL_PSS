@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<testsuites tests="5" failures="0" time="0.003">
+  <testsuite name="test_fb_filter_3p3z" tests="2" failures="0" skipped="0" errors="0" time="0.002">
+    <testcase name="test_Filter3p3z_Reset" time="0.000"/>
+    <testcase name="test_Filter3p3z" time="0.000"/>
+    <system-out>
+test_fb_filter_3p3z.c:123:test_Filter3p3z:INFO: input = 10000
+
+test_fb_filter_3p3z.c:124:test_Filter3p3z:INFO: output = 6
+
+test_fb_filter_3p3z.c:125:test_Filter3p3z:INFO: in = { 10000, 0, 0 }
+
+test_fb_filter_3p3z.c:126:test_Filter3p3z:INFO: out = { 456250, 0, 0 }
+
+test_fb_filter_3p3z.c:123:test_Filter3p3z:INFO: input = 10800
+
+test_fb_filter_3p3z.c:124:test_Filter3p3z:INFO: output = 27
+
+test_fb_filter_3p3z.c:125:test_Filter3p3z:INFO: in = { 10800, 10000, 0 }
+
+test_fb_filter_3p3z.c:126:test_Filter3p3z:INFO: out = { 1824457, 456250, 0 }
+
+test_fb_filter_3p3z.c:123:test_Filter3p3z:INFO: input = 11600
+
+test_fb_filter_3p3z.c:124:test_Filter3p3z:INFO: output = 69
+
+test_fb_filter_3p3z.c:125:test_Filter3p3z:INFO: in = { 11600, 10800, 10000 }
+
+test_fb_filter_3p3z.c:126:test_Filter3p3z:INFO: out = { 4558562, 1824457, 456250 }
+
+test_fb_filter_3p3z.c:123:test_Filter3p3z:INFO: input = 12400
+
+test_fb_filter_3p3z.c:124:test_Filter3p3z:INFO: output = 145
+
+test_fb_filter_3p3z.c:125:test_Filter3p3z:INFO: in = { 12400, 11600, 10800 }
+
+test_fb_filter_3p3z.c:126:test_Filter3p3z:INFO: out = { 9565286, 4558562, 1824457 }
+
+test_fb_filter_3p3z.c:123:test_Filter3p3z:INFO: input = 13200
+
+test_fb_filter_3p3z.c:124:test_Filter3p3z:INFO: output = 277
+
+test_fb_filter_3p3z.c:125:test_Filter3p3z:INFO: in = { 13200, 12400, 11600 }
+
+test_fb_filter_3p3z.c:126:test_Filter3p3z:INFO: out = { 18208699, 9565286, 4558562 }
+
+    </system-out>
+  </testsuite>
+  <testsuite name="test_fb_pi_regulator" tests="3" failures="0" skipped="0" errors="0" time="0.002">
+    <testcase name="test_PiRegulatorReset" time="0.000"/>
+    <testcase name="test_PiRegulatorParametersSelection" time="0.000"/>
+    <testcase name="test_PiRegulator" time="0.000"/>
+    <system-out>
+test_fb_pi_regulator.c:233:test_PiRegulator:INFO: output = 327704
+
+test_fb_pi_regulator.c:234:test_PiRegulator:INFO: out = { 136, 23 }
+
+test_fb_pi_regulator.c:235:test_PiRegulator:INFO: e = { 24, 5 6 }
+
+test_fb_pi_regulator.c:236:test_PiRegulator:INFO: saturated = 0
+
+test_fb_pi_regulator.c:233:test_PiRegulator:INFO: output = 1572888
+
+test_fb_pi_regulator.c:234:test_PiRegulator:INFO: out = { 407, 136 }
+
+test_fb_pi_regulator.c:235:test_PiRegulator:INFO: e = { 24, 24 5 }
+
+test_fb_pi_regulator.c:236:test_PiRegulator:INFO: saturated = 0
+
+test_fb_pi_regulator.c:233:test_PiRegulator:INFO: output = 1572888
+
+test_fb_pi_regulator.c:234:test_PiRegulator:INFO: out = { 0, 407 }
+
+test_fb_pi_regulator.c:235:test_PiRegulator:INFO: e = { 24, 24 24 }
+
+test_fb_pi_regulator.c:236:test_PiRegulator:INFO: saturated = 1
+
+test_fb_pi_regulator.c:233:test_PiRegulator:INFO: output = 1572888
+
+test_fb_pi_regulator.c:234:test_PiRegulator:INFO: out = { 10, 0 }
+
+test_fb_pi_regulator.c:235:test_PiRegulator:INFO: e = { 24, 24 24 }
+
+test_fb_pi_regulator.c:236:test_PiRegulator:INFO: saturated = 1
+
+    </system-out>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,217 @@
+{
+  "collection_timestamp": "2025-07-15T12:49:23.571757",
+  "projects_data": {
+    "PWRLIB72": {
+      "app_type": "RDDL_PROJECTS",
+      "artifact_count": 50,
+      "artifacts": [
+        {
+          "artifactID": "e1c5bd2f9ccd40f08fc74321300955b3",
+          "dateCreated": "2025-07-14T13:02:15.986013925Z",
+          "description": "Auto-uploaded log file test_fb_filter_3p3z.log",
+          "rawDataFile": {
+            "contentType": "application/octet-stream",
+            "fileName": "test_fb_filter_3p3z.log",
+            "fileSize": 1384,
+            "masterSite": "MUC",
+            "md5": "6c9e9adcd51531fe6a1b45124651dd96",
+            "path": "rddl/e1c5bd2f9ccd40f08fc74321300955b3"
+          },
+          "tags": [
+            "ci",
+            "automation",
+            "logs"
+          ],
+          "version": 1,
+          "versionDate": "2025-07-14T13:02:16Z"
+        },
+        {
+          "artifactID": "163acd44af3648ba8bbf34bfcf3a8de0",
+          "dateCreated": "2025-07-14T13:02:16.408682221Z",
+          "description": "Auto-uploaded log file test_fb_pi_regulator.log",
+          "rawDataFile": {
+            "contentType": "application/octet-stream",
+            "fileName": "test_fb_pi_regulator.log",
+            "fileSize": 1062,
+            "masterSite": "MUC",
+            "md5": "15b4eb605997364f97f17bd371ec0cbb",
+            "path": "rddl/163acd44af3648ba8bbf34bfcf3a8de0"
+          },
+          "tags": [
+            "ci",
+            "automation",
+            "logs"
+          ],
+          "version": 1,
+          "versionDate": "2025-07-14T13:02:16Z"
+        },
+        {
+          "artifactID": "211d9ef12a7749ec84484ae733298045",
+          "dateCreated": "2025-07-14T13:02:15.090465252Z",
+          "description": "Auto-uploaded log file gcovr.log",
+          "rawDataFile": {
+            "contentType": "application/octet-stream",
+            "fileName": "gcovr.log",
+            "fileSize": 732,
+            "masterSite": "MUC",
+            "md5": "06e479e0a558cde068817b4730a7a294",
+            "path": "rddl/211d9ef12a7749ec84484ae733298045"
+          },
+          "tags": [
+            "ci",
+            "automation",
+            "logs"
+          ],
+          "version": 1,
+          "versionDate": "2025-07-14T13:02:15Z"
+        },
+        {
+          "artifactID": "54ddc08896ef4127baee35c3a223c598",
+          "dateCreated": "2025-07-14T13:02:15.390484099Z",
+          "description": "Auto-uploaded log file report.xml",
+          "rawDataFile": {
+            "contentType": "text/xml",
+            "fileName": "report.xml",
+            "fileSize": 3179,
+            "masterSite": "MUC",
+            "md5": "9c056aed40c6a03e2fb078a6e7f366a9",
+            "path": "rddl/54ddc08896ef4127baee35c3a223c598"
+          },
+          "tags": [
+            "ci",
+            "automation",
+            "logs"
+          ],
+          "version": 1,
+          "versionDate": "2025-07-14T13:02:15Z"
+        },
+        {
+          "artifactID": "601c7d1129354fdca01d4c873e3d2c40",
+          "dateCreated": "2025-07-14T13:02:14.383853307Z",
+          "description": "Auto-uploaded log file ceedling.log",
+          "rawDataFile": {
+            "contentType": "application/octet-stream",
+            "fileName": "ceedling.log",
+            "fileSize": 2253,
+            "masterSite": "MUC",
+            "md5": "e6d765ae1a67c7d91096e4a666a7afe9",
+            "path": "rddl/601c7d1129354fdca01d4c873e3d2c40"
+          },
+          "tags": [
+            "ci",
+            "automation",
+            "logs"
+          ],
+          "version": 1,
+          "versionDate": "2025-07-14T13:02:14Z"
+        },
+        {
+          "artifactID": "592d5ff78fb444199a2deba9ecec1b78",
+          "dateCreated": "2025-07-11T13:01:09.402326006Z",
+          "description": "Auto-uploaded log file test_fb_filter_3p3z.log",
+          "rawDataFile": {
+            "contentType": "application/octet-stream",
+            "fileName": "test_fb_filter_3p3z.log",
+            "fileSize": 1384,
+            "masterSite": "MUC",
+            "md5": "6c9e9adcd51531fe6a1b45124651dd96",
+            "path": "rddl/592d5ff78fb444199a2deba9ecec1b78"
+          },
+          "tags": [
+            "ci",
+            "automation",
+            "logs"
+          ],
+          "version": 1,
+          "versionDate": "2025-07-11T13:01:09Z"
+        },
+        {
+          "artifactID": "1db75bdc1e554e67a99d7b9a154bac17",
+          "dateCreated": "2025-07-11T13:01:09.947109805Z",
+          "description": "Auto-uploaded log file test_fb_pi_regulator.log",
+          "rawDataFile": {
+            "contentType": "application/octet-stream",
+            "fileName": "test_fb_pi_regulator.log",
+            "fileSize": 1062,
+            "masterSite": "MUC",
+            "md5": "15b4eb605997364f97f17bd371ec0cbb",
+            "path": "rddl/1db75bdc1e554e67a99d7b9a154bac17"
+          },
+          "tags": [
+            "ci",
+            "automation",
+            "logs"
+          ],
+          "version": 1,
+          "versionDate": "2025-07-11T13:01:09Z"
+        },
+        {
+          "artifactID": "fd9d522edf104fe988b47e98180584d0",
+          "dateCreated": "2025-07-11T13:01:09.060785634Z",
+          "description": "Auto-uploaded log file report.xml",
+          "rawDataFile": {
+            "contentType": "text/xml",
+            "fileName": "report.xml",
+            "fileSize": 3179,
+            "masterSite": "MUC",
+            "md5": "9c056aed40c6a03e2fb078a6e7f366a9",
+            "path": "rddl/fd9d522edf104fe988b47e98180584d0"
+          },
+          "tags": [
+            "ci",
+            "automation",
+            "logs"
+          ],
+          "version": 1,
+          "versionDate": "2025-07-11T13:01:09Z"
+        },
+        {
+          "artifactID": "bd427c9869224bac8cfa0ef0f04032e2",
+          "dateCreated": "2025-07-11T13:01:08.185707057Z",
+          "description": "Auto-uploaded log file ceedling.log",
+          "rawDataFile": {
+            "contentType": "application/octet-stream",
+            "fileName": "ceedling.log",
+            "fileSize": 2253,
+            "masterSite": "MUC",
+            "md5": "e6d765ae1a67c7d91096e4a666a7afe9",
+            "path": "rddl/bd427c9869224bac8cfa0ef0f04032e2"
+          },
+          "tags": [
+            "ci",
+            "automation",
+            "logs"
+          ],
+          "version": 1,
+          "versionDate": "2025-07-11T13:01:08Z"
+        },
+        {
+          "artifactID": "2899fdad193e42a1bf30754f00b3ea3a",
+          "dateCreated": "2025-07-11T13:01:08.587894678Z",
+          "description": "Auto-uploaded log file gcovr.log",
+          "rawDataFile": {
+            "contentType": "application/octet-stream",
+            "fileName": "gcovr.log",
+            "fileSize": 732,
+            "masterSite": "MUC",
+            "md5": "06e479e0a558cde068817b4730a7a294",
+            "path": "rddl/2899fdad193e42a1bf30754f00b3ea3a"
+          },
+          "tags": [
+            "ci",
+            "automation",
+            "logs"
+          ],
+          "version": 1,
+          "versionDate": "2025-07-11T13:01:08Z"
+        }
+      ],
+      "collection_success": true
+    }
+  },
+  "summary": {
+    "total_projects_processed": 1,
+    "total_artifacts_collected": 50,
+    "projects_with_data": 1
+  }
+}
