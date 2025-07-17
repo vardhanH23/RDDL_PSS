@@ -1,9 +1,6 @@
-# Enterprise Data Collection Project - COMPLETED ✅
+# Enterprise Data Collection Project - COMPLETED
 
-**Project Lead**: Harshva Joshi  
-**Supervisor**: Mojdeh  
-**Completion Date**: July 15, 2025  
-**Status**: Successfully Completed - 100% Success Rate
+**Status**: Successfully Completed 
 
 ## 🎯 Project Summary
 
@@ -17,7 +14,6 @@ Successfully established automated data collection pipeline for software improve
 - ✅ **57 artifacts** successfully downloaded
 - ✅ **100% success rate** (0 failures)
 - ✅ **Organized by file type**: 44 logs, 11 XML reports, 2 sensor data files
-- ✅ **High-value data types** confirmed for software improvement
 
 ### Enterprise System Access
 - ✅ **RDDL API integration** working perfectly
@@ -29,7 +25,7 @@ Successfully established automated data collection pipeline for software improve
 
 The project has been cleaned up to include only **4 core production tools**:
 
-### 1. `src/focused_data_collector.py` ⭐ **MAIN TOOL**
+### 1. `src/focused_data_collector.py` **MAIN script**
 - **Purpose**: Efficient download of all artifacts from accessible projects
 - **Status**: Production ready with 100% success rate
 - **Usage**: `python src/focused_data_collector.py`
@@ -53,7 +49,7 @@ The project has been cleaned up to include only **4 core production tools**:
 
 ```
 data/
-├── focused_collection/PWRLIB72/     ⭐ MAIN DATA COLLECTION
+├── focused_collection/PWRLIB72/     # MAIN DATA COLLECTION
 │   ├── logs/                        # 44 files: test logs, coverage, build
 │   ├── xml/                         # 11 files: structured test reports  
 │   ├── other/                       # 2 files: sensor/measurement data
@@ -64,8 +60,6 @@ data/
 └── rddl_downloads/PWRLIB72/         # Original download location
 ```
 
-## 💡 Software Improvement Value
-
 ### High-Value Data Types Collected:
 1. **Unit Test Logs**: Filter and regulator component validation patterns
 2. **Code Coverage Reports**: Development quality metrics (gcovr)
@@ -73,18 +67,16 @@ data/
 4. **XML Test Reports**: Structured test result data
 5. **Sensor Data**: Temperature and measurement validation
 
-### Business Alignment:
-- ✅ Perfect match for software improvement goals
-- ✅ Supports requirement engineering workflows  
-- ✅ Enables test-driven requirement validation
-- ✅ Provides quality metrics for development processes
+
 
 ## 🚀 Quick Start Guide
 
 ### 1. Collect Data (if needed again)
 ```bash
-# Set your RDDL token
-$env:RDDL_API_TOKEN = "your_token_here"
+# Set your RDDL token in the env (may have to change it after a while as it expires)
+$env:RDDL_API_TOKEN = "your_token_here" 
+
+~ refer : https://rd-datalake.icp.infineon.com/swagger/
 
 # Run the main collector
 python src/focused_data_collector.py
@@ -126,7 +118,7 @@ python src/enterprise_data_collector.py
 4. **Create software improvement metrics** from coverage data
 5. **Document test-driven requirement validation** workflows
 
-## 🎯 Success Criteria - ACHIEVED
+## Success Criteria - ACHIEVED
 
 - ✅ **Automated data collection** from enterprise systems
 - ✅ **High-quality software engineering data** obtained
@@ -137,14 +129,9 @@ python src/enterprise_data_collector.py
 
 ## 📞 Contact
 
-**Project Owner**: Harshva Joshi  
-**Supervisor**: Mojdeh  
-**Department**: Infineon - Software Improvement Initiative
-
+**Project Owner**: Harshvardhan Joshi  
+**Supervisor**: Mojdeh Golagha
 ---
 
-## 🗂️ Archive
-
-**Note**: 12 redundant exploration tools have been moved to `archive/redundant_tools/` to keep the project clean and focused. The current 4 tools represent the optimized, production-ready solution.
 
 **Project Status**: ✅ **SUCCESSFULLY COMPLETED**
